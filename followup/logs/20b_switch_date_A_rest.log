@@ -1,0 +1,9 @@
+# started 2026-10-16T20:55:58.336172+00:00
+# cwd code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python runstat.py switch_date.py AUDUSD GBPUSD USDCHF USDCAD
+AUDUSD days 207 weeks 35
+GBPUSD days 207 weeks 34
+USDCHF days 207 weeks 34
+USDCAD days 207 weeks 34
+# runstat script=switch_date.py wall_s=349.9 cpu_s=18.4 peak_rss_mb=215
+# exit=0 wall_s=350.1 cpu_s=0.0 peak_rss_mb=5

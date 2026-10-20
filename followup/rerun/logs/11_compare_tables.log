@@ -1,0 +1,20 @@
+F1_clock_offset_vs_fxcm.csv                   rows    108  max|diff| 0  text_equal True  nan_same True  OK
+F1b_clock_offset_by_week_regime1.csv          rows    123  max|diff| 0  text_equal True  nan_same True  OK
+F2_fxcm_rollover_by_year.csv                  rows     36  max|diff| 0  text_equal True  nan_same True  OK
+F2b_fxcm_window_by_minute.csv                 rows    720  max|diff| 0  text_equal True  nan_same True  OK
+F3_rule_on_fxcm.csv                           rows     27  max|diff| 0  text_equal True  nan_same True  OK
+T1_minute_profile_ny.csv                      rows  51564  max|diff| 0  text_equal True  nan_same True  OK
+T1b_minute_profile_summary.csv                rows     36  max|diff| 0  text_equal True  nan_same True  OK
+T2_rollover_by_pair_year.csv                  rows    252  max|diff| 0  text_equal True  nan_same True  OK
+T3_rollover_by_weekday.csv                    rows    180  max|diff| 0  text_equal True  nan_same True  OK
+T4_window_1630_1829_by_minute.csv             rows   4202  max|diff| 0  text_equal True  nan_same True  OK
+T5_clock_evidence_by_year_regime.csv          rows    648  max|diff| 0  text_equal True  nan_same True  OK
+T5b_clock_evidence_summary.csv                rows      6  max|diff| 0  text_equal True  nan_same True  OK
+T6_weekly_close_open_labels_EURUSD.csv        rows    918  max|diff| 0  text_equal True  nan_same True  OK
+T7_top15_minutes_2015_2026.csv                rows    180  max|diff| 0  text_equal True  nan_same True  OK
+demo_rule_2x2.csv                             rows    180  max|diff| 0  text_equal True  nan_same True  OK
+demo_rule_by_year.csv                         rows    720  max|diff| 0  text_equal True  nan_same True  OK
+hour_scan.csv                                 rows   1680  max|diff| 0  text_equal True  nan_same True  OK
+tick_minute_rollover.csv                      rows   2520  max|diff| 0  text_equal True  nan_same True  OK
+tick_summary.csv                              rows     21  max|diff| 0  text_equal True  nan_same True  OK
+ALL TABLES MATCH

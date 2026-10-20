@@ -1,0 +1,16 @@
+# started 2026-10-13T17:12:44.469317+00:00
+# cwd rerun/code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python build_minute_stats.py EURUSD USDJPY GBPUSD AUDUSD USDCHF USDCAD NZDUSD EURGBP EURJPY GBPJPY XAUUSD XAGUSD
+EURUSD years 2009 2026 rows 388784 bars 6498076 81s
+USDJPY years 2009 2026 rows 388685 bars 6395809 87s
+GBPUSD years 2009 2026 rows 388761 bars 6484286 87s
+AUDUSD years 2009 2026 rows 388751 bars 6472103 84s
+USDCHF years 2009 2026 rows 388739 bars 6440534 99s
+USDCAD years 2009 2026 rows 388530 bars 6353104 114s
+NZDUSD years 2009 2026 rows 388592 bars 6364853 78s
+EURGBP years 2009 2026 rows 388716 bars 6441109 54s
+EURJPY years 2009 2026 rows 388695 bars 6537741 67s
+GBPJPY years 2009 2026 rows 388627 bars 6530585 79s
+XAUUSD years 2009 2026 rows 374533 bars 6147112 64s
+XAGUSD years 2009 2026 rows 373210 bars 5866758 60s
+# exit=0 wall_s=956.1 cpu_s=0.0 peak_rss_mb=5

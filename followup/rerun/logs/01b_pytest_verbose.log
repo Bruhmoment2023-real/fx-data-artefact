@@ -1,0 +1,37 @@
+# started 2026-10-13T18:06:44.234992+00:00
+# cwd rerun/code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python -m pytest -v -p no:cacheprovider test_fxclock.py
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.1.1, pluggy-1.6.0 -- D:\Research-Publishing\03-fx-data-artefact\.venv\Scripts\python.exe
+rootdir: D:\Research-Publishing\03-fx-data-artefact\followup\rerun\code
+collecting ... collected 26 items
+
+test_fxclock.py::test_era1_winter PASSED                                 [  3%]
+test_fxclock.py::test_era1_summer PASSED                                 [  7%]
+test_fxclock.py::test_era1_us_only_dst_week PASSED                       [ 11%]
+test_fxclock.py::test_era1_autumn_gap_week PASSED                        [ 15%]
+test_fxclock.py::test_era2_winter PASSED                                 [ 19%]
+test_fxclock.py::test_era2_summer PASSED                                 [ 23%]
+test_fxclock.py::test_era2_us_only_dst_week PASSED                       [ 26%]
+test_fxclock.py::test_era2_autumn_gap_week PASSED                        [ 30%]
+test_fxclock.py::test_era2_after_eu_switch PASSED                        [ 34%]
+test_fxclock.py::test_vendor_documented_clock_is_fixed PASSED            [ 38%]
+test_fxclock.py::test_conventions_agree_in_winter PASSED                 [ 42%]
+test_fxclock.py::test_switch_date_is_immaterial_inside_winter PASSED     [ 46%]
+test_fxclock.py::test_weekly_close_maps_to_1659_new_york_in_every_regime PASSED [ 50%]
+test_fxclock.py::test_monotone_and_one_to_one_in_trading_hours PASSED    [ 53%]
+test_fxclock.py::test_output_is_tz_aware_utc PASSED                      [ 57%]
+test_fxclock.py::test_rollover_mask_default_is_ten_minutes PASSED        [ 61%]
+test_fxclock.py::test_rollover_mask_follows_new_york_dst PASSED          [ 65%]
+test_fxclock.py::test_mask_returns_zeroes_only_window_and_copies PASSED  [ 69%]
+test_fxclock.py::test_wide_mask PASSED                                   [ 73%]
+test_fxclock.py::test_tz_aware_labels_rejected PASSED                    [ 76%]
+test_fxclock.py::test_dst_regime_examples PASSED                         [ 80%]
+test_fxclock.py::test_diagnose_clock_on_synthetic_new_york_clock PASSED  [ 84%]
+test_fxclock.py::test_real_files_show_the_two_eras[2016-expect0] PASSED  [ 88%]
+test_fxclock.py::test_real_files_show_the_two_eras[2024-expect1] PASSED  [ 92%]
+test_fxclock.py::test_real_weekly_close_is_1659_new_york_after_conversion[2016] PASSED [ 96%]
+test_fxclock.py::test_real_weekly_close_is_1659_new_york_after_conversion[2024] PASSED [100%]
+
+============================= 26 passed in 17.92s =============================
+# exit=0 wall_s=19.3 cpu_s=0.0 peak_rss_mb=5

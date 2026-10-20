@@ -1,0 +1,7 @@
+﻿,"Spot FX, interbank (EBS, Reuters)",FX futures / options / forwards,Retail / broker / tick-level FX,Equities / stock databases,Bonds / commodities / other
+Intraday seasonality / periodicity models,9,8,31,24,12
+"Volatility models (GARCH, realized vol.)",5,8,37,15,14
+Event study / announcements,10,5,22,5,5
+Spread / liquidity / order-flow regressions,40,19,46,33,28
+Trading-rule backtests / anomalies,2,3,18,24,12
+Data cleaning / error documentation,5,11,37,38,16

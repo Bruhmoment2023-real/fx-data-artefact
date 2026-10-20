@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+# R
+.Rhistory
+.RData
+.Rproj.user/
+# Secrets and local config
+.env
+*.key
+# Raw / third-party data (obtain separately, see README)
+data/raw/
+data_fxcm/
+data_ticks/
+# Large model files and scratch
+*.gguf
+*.bin
+*.safetensors
+scratch/

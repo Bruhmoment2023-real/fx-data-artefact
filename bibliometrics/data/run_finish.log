@@ -1,0 +1,68 @@
+
+[05:33:51] R bibliometrix
+[keywords] ok
+[trend_topics] ok
+[cooccurrence_network] ok
+[thematic_map] ok
+[thematic_evolution] ok
+[cocitation_references] ok
+[cocitation_sources] ok
+[bibliographic_coupling] ok
+[historiograph] FAILED: arguments imply differing number of rows: 0, 1
+[collaboration_authors] ok
+[collaboration_institutions] ok
+[collaboration_countries] ok
+[three_field_plot] ok
+There were 50 or more warnings (use warnings() to see the first 50)
+R analysis finished: 26 ok of 27 
+[06:18:12] python figures
+prisma ok
+year_sub ok
+timeline ok
+db ok
+geography ok
+citation_network ok
+main_path ok
+cocitation ok
+vosviewer: VOSviewer command line produced layouts for: py_cocitation_references, keyword_cooccurrence, coauthorship_authors. py_cocitation_references: VOSviewer command line timed out. keyword_cooccurrence: VOSviewer command line timed out. coauthorship_authors: VOSviewer command line timed out. 
+captions.md written with 46 entries
+[06:26:14] topic chart
+D:\Research-Publishing\_tools\biblio-kit\topic_chart_03.py:31: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  mm = [k for k, p in methods.items() if pd.Series([r.txt]).str.contains(p, regex=True).iloc[0]]
+D:\Research-Publishing\_tools\biblio-kit\topic_chart_03.py:32: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  kk = [k for k, p in markets.items() if pd.Series([r.txt]).str.contains(p, regex=True).iloc[0]]
+D:\Research-Publishing\_tools\biblio-kit\topic_chart_03.py:33: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  if not kk and pd.Series([r.txt]).str.contains(fx, regex=True).iloc[0]:
+                                             Spot FX, interbank (EBS, Reuters)  ...  Bonds / commodities / other
+Intraday seasonality / periodicity models                                    9  ...                           12
+Volatility models (GARCH, realized vol.)                                     5  ...                           14
+Event study / announcements                                                 10  ...                            5
+Spread / liquidity / order-flow regressions                                 40  ...                           28
+Trading-rule backtests / anomalies                                           2  ...                           12
+Data cleaning / error documentation                                          5  ...                           16
+
+[6 rows x 5 columns]
+[06:26:25] law supplement
+[06:26:25] evidence select
+61 evidence rows; 17 prior-work papers in corpus; quotas {'a_intraday_seasonality': 17, 'b_fx_microstructure': 12, 'c_data_quality': 17, 'seed': 2}
+[06:26:27] pdf download
+FAILED: HTTP 403 at doi.org | Financial econometric analysis at ultra-high frequency: Data handling 
+FAILED: HTTP 500 at www.eief.it | Understanding FX Liquidity
+FAILED: not a PDF (HTML landing page) at doi.org | Losing sleep at the international market: Daylight Saving Time and exc
+FAILED: HTTP 403 at doi.org | The intraday dynamics of bitcoin
+FAILED: HTTP 403 at doi.org | Is Bitcoin a Hedge or Safe-Haven for Currencies? An Intraday Analysis
+FAILED: HTTP 403 at papers.ssrn.com | A Unifying Microstructure Framework for Modeling Intraday and Interday
+FAILED: HTTP 403 at doi.org | Order Flow and Exchange Rate Dynamics in Electronic Brokerage System D
+FAILED: not a PDF (HTML landing page) at hdl.handle.net | Price discovery in electronic foreign exchange markets: The sterling/d
+FAILED: HTTP 403 at doi.org | Forecasting Bid-Ask Spreads in Foreign Exchange: Analysis and Machine 
+FAILED: not a PDF (HTML landing page) at doi.org | The Interdependence of FX and Treasury Bonds Markets: The Case of Colo
+FAILED: HTTP 405 at infoscience.epfl.ch | Market Microstructure Effects of Government Intervention in the Foreig
+FAILED: HTTP 403 at www.mdpi.com | True versus Spurious Long Memory in Cryptocurrencies
+FAILED: HTTP 404 at glovento.com | Sustainable Development of Digital Financial Infrastructure: Evaluatin
+FAILED: HTTP 403 at www.mdpi.com | Improving Data Quality for the Australian High Frequency Ocean Radar N
+PDFs: 18/60 core papers; folder size 31.8 MB
+[06:27:10] evidence table
+evidence-table.csv: 61 rows
+[06:27:12] docs
+docs written: D:\Research-Publishing\03-fx-data-artefact\bibliometrics\search-protocol.md D:\Research-Publishing\03-fx-data-artefact\bibliometrics\README.md
+[06:27:14] FINISHED

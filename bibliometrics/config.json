@@ -1,0 +1,279 @@
+{
+  "paper_id": "03-fx-data-artefact",
+  "paper_title": "A bid-only rollover artefact and a timestamp error in free minute-level FX data (histdata.com)",
+  "year_min": 1970,
+  "year_max": 2026,
+  "n_per_query": {
+    "crossref": 250,
+    "s2": 800,
+    "arxiv": 100
+  },
+  "snowball_n_central": 25,
+  "snowball_max_forward": 150,
+  "min_citations_if_older_than": [
+    3,
+    1
+  ],
+  "exclude": "(deep learning|neural network|\\blstm\\b|transformer|reinforcement learning|random forest|support vector|genetic algorithm|blockchain|covid|tourism|remittance|inflation targeting|purchasing power|pass-through|trade balance|carbon|climate|electricity|bank lending|monetary policy shocks?)",
+  "sublits": {
+    "a_intraday_seasonality": {
+      "label": "Intraday FX seasonality and time-of-day effects",
+      "include": [
+        "(intraday|intra-day|time[- ]of[- ]day|diurnal|seasonal\\w*|trading hours?|hour[- ]of[- ]the[- ]day|session|around the clock|day[- ]of[- ]the[- ]week|weekend|periodicity|time[- ]zone|fixings?|24[- ]hour)",
+        "\\b(foreign exchange|exchange rates?|currenc\\w*|forex|\\bfx\\b|\\beuro\\b|yen|sterling|dollar|eur/usd|usd/jpy)\\b"
+      ],
+      "title_must": [
+        "(intraday|intra-day|time[- ]of[- ]day|diurnal|seasonal|hours?|session|around the clock|day|weekend|periodic|pattern|fixing|returns?|volatility|activity|trading)"
+      ],
+      "title_any": "(intraday|time[- ]of[- ]day|diurnal|seasonal|around the clock|trading hours|fixings?)",
+      "crossref": [
+        "intraday patterns foreign exchange returns order flow",
+        "seasonalities intraday return patterns foreign currency futures",
+        "intraday seasonality foreign exchange activity electronic broking",
+        "segmentation time-of-day patterns foreign exchange markets",
+        "foreign exchange fixings and returns around the clock",
+        "intraday periodicity volatility persistence financial markets",
+        "time of day effects exchange rate volatility",
+        "day of the week effect foreign exchange",
+        "intraday volatility pattern currency market trading hours",
+        "macroeconomic announcements intraday exchange rate",
+        "overnight versus intraday currency returns"
+      ],
+      "s2": [
+        "(intraday | \"time of day\" | \"time-of-day\" | diurnal | \"around the clock\") + (\"foreign exchange\" | currency | \"exchange rate\" | forex)",
+        "(\"intraday seasonality\" | \"intraday patterns\" | \"intraday periodicity\") + (FX | currency | \"exchange rate\" | \"foreign exchange\")",
+        "(fixing | fixings | \"daylight saving\") + (\"foreign exchange\" | currency | \"exchange rate\")"
+      ],
+      "arxiv": [
+        "all:\"intraday\" AND all:\"foreign exchange\"",
+        "all:\"intraday seasonality\" AND cat:q-fin.*",
+        "all:forex AND all:\"time of day\""
+      ]
+    },
+    "b_fx_microstructure": {
+      "label": "FX microstructure around the daily rollover, spreads and liquidity",
+      "include": [
+        "(bid[- ]ask|spreads?|rollover|roll-over|market microstructure|microstructure|liquidity|order flow|quotes?|quoting|tick data|market makers?|dealers?|interbank|limit order|electronic broking|ebs\\b|reuters)",
+        "\\b(foreign exchange|exchange rates?|currenc\\w*|forex|\\bfx\\b|\\beuro\\b|yen|sterling|dollar|eur/usd|usd/jpy)\\b"
+      ],
+      "title_must": [
+        "(spread|bid|ask|rollover|roll-over|microstructure|liquidity|order flow|quot|tick|dealer|interbank|trading|market|intraday|volume|depth|electronic|high[- ]frequency)"
+      ],
+      "title_any": "(bid[- ]ask|spreads?|rollover|microstructure|liquidity|order flow|dealers?|interbank|quote)",
+      "crossref": [
+        "fx spreads dealer competition 24-hour trading day",
+        "trading patterns and prices in the interbank foreign exchange market",
+        "bid-ask spread foreign exchange intraday",
+        "understanding FX liquidity",
+        "liquidity risk and arbitrage pricing foreign exchange",
+        "foreign exchange market microstructure order flow",
+        "rollover foreign exchange spread widening",
+        "sterling flash event October 2016 liquidity",
+        "electronic broking system FX market microstructure",
+        "FX market liquidity time of day thin trading",
+        "retail forex broker spreads execution quality",
+        "high-frequency foreign exchange quotes bid ask midquote"
+      ],
+      "s2": [
+        "(\"bid-ask spread\" | spreads | liquidity | microstructure | \"order flow\") + (\"foreign exchange\" | \"FX market\" | currency | forex) + (intraday | \"time of day\" | hours)",
+        "(rollover | \"roll-over\" | \"daily close\" | \"5 pm\") + (FX | \"foreign exchange\" | forex) + (spread | liquidity)",
+        "(\"flash crash\" | \"flash event\") + (sterling | currency | \"foreign exchange\")"
+      ],
+      "arxiv": [
+        "all:\"foreign exchange\" AND all:\"bid-ask spread\"",
+        "all:\"FX\" AND all:microstructure",
+        "all:forex AND all:spread AND cat:q-fin.*"
+      ]
+    },
+    "c_data_quality": {
+      "label": "Data quality, data errors and spurious results in financial research",
+      "include": [
+        "(data (quality|errors?|cleaning|mining|vendors?|problems?|mistakes?|revisions?|filtering)|errors? in (data|databases?|prices?)|time ?stamps?|time[- ]zone|daylight saving|survivorship bias|look-?ahead bias|spurious|measurement errors?|database errors?|bid[- ]only|reproducib\\w+|replicat\\w+|outliers?|data handling|filtering (of )?high[- ]frequency|handle with care|backtest\\w*|data snooping)",
+        "(financ\\w+|market|price|prices|returns?|tick|trading|asset|stock|currenc\\w*|exchange rates?|econom\\w+|high[- ]frequency|database)"
+      ],
+      "title_must": [
+        "(data|error|quality|timestamp|time stamp|time zone|daylight|bias|spurious|clean|filter|replicat|reproduc|anomal|outlier|mistake|handle with care|snooping|backtest|mining|database|care)"
+      ],
+      "title_any": "(data (quality|errors?|cleaning|handling)|errors? in|time ?stamps?|time zone|daylight saving|survivorship|look-?ahead|spurious|handle with care|database)",
+      "crossref": [
+        "individual equity return data Thomson Datastream handle with care",
+        "error rates in CRSP and Compustat data bases",
+        "financial econometric analysis at ultra-high frequency data handling",
+        "data errors high-frequency financial data cleaning",
+        "spurious results data errors empirical finance",
+        "survivorship bias look-ahead bias backtest data",
+        "time zone daylight saving time errors financial data",
+        "tick data filtering outliers high-frequency",
+        "replication financial research data errors",
+        "data snooping backtest overfitting pseudo-mathematics",
+        "bid ask bounce quote data errors",
+        "problems with free financial data vendors"
+      ],
+      "s2": [
+        "(\"data errors\" | \"data quality\" | \"data cleaning\" | \"data handling\") + (financial | \"high-frequency\" | tick | \"asset prices\" | returns)",
+        "(timestamp | timestamps | \"time zone\" | \"daylight saving\") + (financial | trading | \"high-frequency\" | \"tick data\" | market data)",
+        "(spurious | \"look-ahead bias\" | \"survivorship bias\") + (backtest | \"trading strategy\" | \"trading strategies\" | returns)"
+      ],
+      "arxiv": [
+        "all:\"data quality\" AND all:\"high-frequency\" AND cat:q-fin.*",
+        "all:\"tick data\" AND all:cleaning",
+        "all:timestamp AND all:\"market data\"",
+        "all:\"look-ahead bias\" AND cat:q-fin.*"
+      ]
+    }
+  },
+  "seed_titles": [
+    "Intraday patterns in FX returns and order flow",
+    "FX Spreads and Dealer Competition across the 24-Hour Trading Day",
+    "Trading Patterns and Prices in the Interbank Foreign Exchange Market",
+    "Intraday seasonality in activities of the foreign exchange markets: evidence from the electronic broking system",
+    "Understanding FX Liquidity",
+    "Segmentation and time-of-day patterns in foreign exchange markets",
+    "Foreign Exchange Fixings and Returns around the Clock",
+    "Intraday Periodicity and Volatility Persistence in Financial Markets",
+    "Individual Equity Return Data From Thomson Datastream: Handle With Care!",
+    "Error Rates in CRSP and Compustat Data Bases and Their Implications",
+    "Financial econometric analysis at ultra-high frequency: Data handling concerns",
+    "Seasonalities and intraday return patterns in the foreign currency futures market",
+    "Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance",
+    "The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality"
+  ],
+  "seed_dois": [],
+  "seed_arxiv": [],
+  "manual_exclude": {
+    "W2049175381": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2108694742": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4242622158": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2049742937": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2167206998": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7161766229": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2805802688": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1993201292": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3038144894": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2023423860": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4368373600": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3114423471": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2053374872": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2561686939": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2001809299": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2568631722": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2783082464": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4392573112": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2167475385": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2057091792": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2130011367": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2061701288": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2948278818": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2910342280": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2011002762": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2941135352": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3047905284": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2144432207": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3025704841": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1967993601": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2136994803": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3163458230": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2990487729": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2043679416": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2108350817": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3127770828": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1971662930": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2051566564": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2029401907": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2041617662": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2150176266": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7204019706": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2273240753": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2123230378": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2796026140": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4293569178": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1973978782": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2023651215": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1993644786": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2140116426": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1015516392": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2064509816": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3033811190": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2923970564": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2615034530": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2946134900": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2332153499": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2063912869": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3204382503": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4307035084": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7169620785": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2470406393": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2735229965": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2043670061": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3167419186": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4409336256": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1553147566": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3199864820": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4385982647": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4416994879": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4393003373": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4213330325": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4319966087": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2010919282": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4281489262": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7163587332": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3174756454": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2296272300": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2992421674": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3088250895": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3167138620": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W6929498112": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4415237786": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7155385896": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7162661680": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2790961157": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W3196057822": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W4387370669": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2627076408": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W7163926914": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W1571029888": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2947096639": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W169185593": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2129994566": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2529901042": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026",
+    "W2621471772": "Off-topic: not a finance/FX data-quality study (non-financial domain such as hydrology, medicine, radar, surveys); hand-screened by title, 17 Oct 2026"
+  },
+  "core_terms": {
+    "intraday|time[- ]of[- ]day|diurnal|around the clock": 3,
+    "rollover|roll-over|bid[- ]ask|spreads?": 2,
+    "foreign exchange|exchange rates?|currenc|forex|\\bfx\\b": 2,
+    "time ?stamp|time[- ]zone|daylight saving|data (error|quality|cleaning)|spurious|survivorship|look-?ahead": 2,
+    "high[- ]frequency|tick|minute|microstructure|order flow": 1.5,
+    "liquidity|dealer|interbank|fixing": 1
+  },
+  "n_evidence_candidates": 70,
+  "heatmap": {
+    "title": "Topics against data: what kinds of FX and financial data the time-of-day, microstructure and data-quality literature uses (coded from title + abstract)",
+    "row_title": "Topic named in title/abstract",
+    "col_title": "Data or market named in title/abstract",
+    "caution": "Mention is not design: a paper that names 'tick data' once counts the same as one built on it, and only title and abstract are read. Cells are not exclusive.",
+    "rows": {
+      "Intraday seasonality / time of day": "\\b(intraday|intra-day|time[- ]of[- ]day|diurnal|around the clock|seasonal\\w*)\\b",
+      "Fixings / announcements": "\\b(fixings?|announcements?|news releases?|macroeconomic news)\\b",
+      "Spreads / bid-ask": "\\b(bid[- ]ask|spreads?|quoted spreads?)\\b",
+      "Liquidity / order flow": "\\b(liquidity|order flow|market depth|price impact)\\b",
+      "Rollover / daily close / swaps": "\\b(rollover|roll-over|daily close|end of the (trading )?day|swap points?|value date)\\b",
+      "Flash events / crashes": "\\b(flash (crash|event|episode)|crash(es)?)\\b",
+      "Time stamps / time zones / DST": "\\b(time ?stamps?|time[- ]zones?|daylight saving)\\b",
+      "Data errors / cleaning / quality": "\\b(data (errors?|quality|cleaning|handling)|errors? in|outliers?|filtering|survivorship|look-?ahead|spurious)\\b",
+      "Backtests / snooping / replication": "\\b(backtest\\w*|data[- ]snooping|data[- ]mining|replicat\\w+|reproducib\\w+|overfit\\w*)\\b"
+    },
+    "cols": {
+      "Foreign exchange (spot)": "\\b(foreign exchange|exchange rates?|currenc\\w+|forex|\\bfx\\b)\\b",
+      "Interbank / dealer data (EBS, Reuters)": "\\b(interbank|ebs\\b|electronic broking|reuters|dealers?)\\b",
+      "Futures": "\\b(futures)\\b",
+      "Equities": "\\b(stocks?|equit\\w+|crsp|compustat|datastream)\\b",
+      "Tick / high-frequency data": "\\b(tick|high[- ]frequency|ultra-high|transaction data|quote data)\\b",
+      "Retail / broker data": "\\b(retail|broker\\w*|brokerage|online trading)\\b",
+      "Cryptocurrency": "\\b(bitcoin|crypto\\w*)\\b"
+    }
+  },
+  "readme_limits": [
+    "Practitioner write-ups (GitHub issues, vendor FAQs) named in 01-prior-work.md are not in any bibliographic database and so are not in the corpus; they are listed in the evidence table only if indexed."
+  ]
+}

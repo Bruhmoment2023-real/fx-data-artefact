@@ -1,0 +1,8 @@
+# started 2026-10-13T18:10:32.873610+00:00
+# cwd rerun/code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python ../../code/runstat.py build_daily.py UDXUSD UKXGBP WTIUSD
+UDXUSD 73s
+UKXGBP 59s
+WTIUSD 51s
+# runstat script=build_daily.py wall_s=185.1 cpu_s=166.8 peak_rss_mb=225
+# exit=0 wall_s=185.3 cpu_s=0.0 peak_rss_mb=5

@@ -1,0 +1,102 @@
+== openalex_probe
+429 {"error":"Rate limit exceeded","message":"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget 
+== s2cites
+lookup 429 {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+== s2
+s2 429   histdata
+s2 still limited, abandoning
+== crossref
+crossref 200 2667581 20 bid-only price series bias backtest
+crossref 200 5600200 20 spread widening New York close foreign exchange rollover
+crossref 200 809215 20 intraday seasonality foreign exchange returns
+crossref 200 3687061 20 timestamp errors financial data
+crossref 200 5625496 20 time zone errors financial data
+crossref 200 294068 20 histdata.com forex
+crossref 200 127450 20 bid-only quotes
+crossref 200 5518406 20 5 pm New York foreign exchange
+crossref 200 19878 20 intraday FX seasonality
+crossref 200 2910609 20 intraday seasonality foreign exchange spread time of day
+crossref 200 8705413 20 time zone error high-frequency data
+crossref 200 8925850 20 daylight saving time high-frequency financial data
+crossref 200 2126317 20 Datastream errors handle with care
+crossref 200 4940367 20 free one-minute forex data bid quotes
+crossref 200 3480826 20 spurious trading rule profit data error
+== ideas
+ideas 200 0 histdata
+ideas 200 0 histdata.com
+ideas 200 0 histdata.com forex one-minute data
+ideas 200 0 bid-only quotes foreign exchange
+ideas 200 0 bid-only price series bias backtest
+ideas 200 0 rollover spread foreign exchange
+ideas 200 0 bid-ask spread 5 pm New York foreign exchange
+ideas 200 0 spread widening New York close foreign exchange rollover
+ideas 200 0 intraday seasonality foreign exchange returns
+ideas 200 0 intraday patterns FX returns time of day
+ideas 200 0 timestamp errors financial data
+ideas 200 0 time zone errors financial data
+ideas 200 0 daylight saving time timestamp high-frequency data
+ideas 200 0 data errors spurious results finance
+ideas 200 0 database errors asset pricing inference
+== ssrn
+ssrn 403 histdata
+ssrn blocked; abandoning
+== scholar
+scholar 200 10 histdata
+scholar 200 10 histdata.com
+scholar 200 10 histdata.com forex one-minute data
+scholar 200 10 bid-only quotes foreign exchange
+scholar 200 2 bid-only price series bias backtest
+scholar 200 10 rollover spread foreign exchange
+scholar 200 10 bid-ask spread 5 pm New York foreign exchange
+scholar 200 10 spread widening New York close foreign exchange rollover
+scholar 200 10 intraday seasonality foreign exchange returns
+scholar 200 10 intraday patterns FX returns time of day
+scholar 200 10 timestamp errors financial data
+scholar 200 10 time zone errors financial data
+scholar 200 10 daylight saving time timestamp high-frequency data
+scholar 200 10 data errors spurious results finance
+scholar 200 10 database errors asset pricing inference
+scholar 200 10 Datastream data errors handle with care
+scholar 200 10 free forex data quality retail
+scholar 200 10 retail FX data quality backtest bias
+scholar 200 10 bid-ask bounce spurious intraday return pattern
+scholar 200 10 tom-next swap rollover foreign exchange intraday
+scholar 200 10 histdata.com forex
+scholar 200 10 bid-only quotes
+scholar 200 10 5 pm New York foreign exchange
+scholar 200 10 intraday FX seasonality
+scholar 200 10 intraday seasonality foreign exchange spread time of day
+scholar 200 10 time zone error high-frequency data
+scholar 200 10 daylight saving time high-frequency financial data
+scholar 200 10 Datastream errors handle with care
+scholar 200 10 free one-minute forex data bid quotes
+scholar 200 10 spurious trading rule profit data error
+== arxiv
+arxiv q-fin 200 0 0 histdata
+arxiv all 200 0 0 histdata
+arxiv q-fin 200 0 0 histdata.com
+arxiv all 200 0 0 histdata.com
+arxiv all 200 0 0 retail FX data quality backtest bias
+arxiv q-fin 200 0 0 bid-ask bounce spurious intraday return pattern
+arxiv all 200 0 0 bid-ask bounce spurious intraday return pattern
+arxiv q-fin 200 0 0 tom-next swap rollover foreign exchange intraday
+arxiv all 200 0 0 tom-next swap rollover foreign exchange intraday
+arxiv q-fin 200 0 0 histdata.com forex
+arxiv all 200 0 0 histdata.com forex
+arxiv q-fin 200 0 0 bid-only quotes
+arxiv all 200 0 0 bid-only quotes
+arxiv q-fin 200 2 2 5 pm New York foreign exchange
+arxiv all 200 2 2 5 pm New York foreign exchange
+arxiv q-fin 200 11 11 intraday FX seasonality
+arxiv all 200 28 25 intraday FX seasonality
+arxiv q-fin 200 0 0 intraday seasonality foreign exchange spread time of day
+arxiv all 200 0 0 intraday seasonality foreign exchange spread time of day
+arxiv q-fin 200 0 0 time zone error high-frequency data
+arxiv all 200 4 4 time zone error high-frequency data
+arxiv q-fin 200 0 0 daylight saving time high-frequency financial data
+arxiv all 200 0 0 daylight saving time high-frequency financial data
+arxiv q-fin 200 0 0 Datastream errors handle with care
+arxiv all 200 0 0 Datastream errors handle with care
+arxiv q-fin 200 0 0 free one-minute forex data bid quotes
+arxiv all 200 0 0 free one-minute forex data bid quotes
+arxiv q-fin 429   spurious trading rule profit data error

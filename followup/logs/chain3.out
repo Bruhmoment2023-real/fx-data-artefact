@@ -1,0 +1,2 @@
+30_fxcm_fetch.log # exit=0 wall_s=707.2 cpu_s=0.0 peak_rss_mb=5
+31_fxcm_analyze.log # exit=0 wall_s=170.4 cpu_s=0.0 peak_rss_mb=5

@@ -1,0 +1,151 @@
+﻿id	label	description	url	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations in corpus>	score<Pub. year>
+1	lyons (1995.0)	Tests of microstructural hypotheses in the foreign exchange market	https://doi.org/10.1016/0304-405x(95)00832-y	-0.5133	-0.3363	2	143	1808	108	1995
+2	evans (2002.0)	Order Flow and Exchange Rate Dynamics	https://doi.org/10.1086/324391	-0.7487	0.2752	3	138	1663	106	2002
+3	andersen (1998.0)	"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies"	https://doi.org/10.1111/0022-1082.85732	0.5816	0.2852	1	145	1274	96	1998
+4	kyle (1985.0)	Continuous Auctions and Insider Trading	https://doi.org/10.2307/1913210	-0.5143	0.0246	2	144	1332	90	1985
+5	evans (1999.0)	Order Flow and Exchange Rate Dynamics	https://doi.org/10.3386/w7317	-0.659	0.1105	3	142	1403	89	1999
+6	anderson (2003.0)	Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange	https://doi.org/10.1257/000282803321455151	0.2584	0.5128	1	146	1310	89	2003
+7	payne (2003.0)	Informed trade in spot foreign exchange markets: an empirical investigation	https://doi.org/10.1016/s0022-1996(03)00003-5	-0.8241	0.1793	3	143	1479	87	2003
+8	bollerslev (1993.0)	Trading Patterns and Prices in the Interbank Foreign Exchange Market	https://doi.org/10.1111/j.1540-6261.1993.tb04760.x	0.3597	-0.4471	1	141	1136	81	1993
+9	lyons (2001.0)	The Microstructure Approach to Exchange Rates	https://doi.org/10.7551/mitpress/4602.001.0001	-0.3602	0.1272	3	144	1384	78	2001
+10	admati (1988.0)	A Theory of Intraday Patterns: Volume and Price Variability	https://doi.org/10.1093/rfs/1.1.3	0.0455	-0.387	2	145	1159	76	1988
+11	glosten (1985.0)	"Bid, ask and transaction prices in a specialist market with heterogeneously informed traders"	https://doi.org/10.1016/0304-405x(85)90044-3	-0.6627	-0.1127	2	141	1210	73	1985
+12	baillie (1991.0)	Intra-Day and Inter-Market Volatility in Foreign Exchange Rates	https://doi.org/10.2307/2298012	0.6403	-0.2876	1	138	1032	72	1991
+13	andersen (1997.0)	Intraday periodicity and volatility persistence in financial markets	https://doi.org/10.1016/s0927-5398(97)00004-2	0.8261	0.1732	1	133	854	69	1997
+14	bollerslev (1986.0)	Generalized autoregressive conditional heteroskedasticity	https://doi.org/10.1016/0304-4076(86)90063-1	1.0504	-0.1022	1	121	541	57	1986
+15	dacorogna (1993.0)	A geographical model for the daily and weekly seasonal volatility in the foreign exchange market	https://doi.org/10.1016/0261-5606(93)90004-u	0.8237	-0.227	1	127	782	57	1993
+16	newey (1987.0)	"A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix"	https://doi.org/10.2307/1913610	-0.0475	-0.089	2	142	725	56	1987
+17	bjønnes (2004.0)	Dealer behavior and trading systems in foreign exchange markets	https://doi.org/10.1016/j.jfineco.2004.08.001	-0.9411	0.1102	3	130	1041	56	2004
+18	andersen (2001.0)	The Distribution of Realized Exchange Rate Volatility	https://doi.org/10.1198/016214501750332965	0.9285	0.4767	1	125	510	55	2001
+19	lyons (1997.0)	A simultaneous trade model of the foreign exchange hot potato	https://doi.org/10.1016/s0022-1996(96)01471-7	-0.4884	-0.2641	2	138	976	53	1997
+20	bollerslev (1994.0)	Bid—ask spreads and volatility in the foreign exchange market	https://doi.org/10.1016/0022-1996(94)90008-6	0.0043	-0.4002	2	144	879	52	1994
+21	newey (1986.0)	"A Simple, Positive Semi-Definite, Heteroskedasticity and AutocorrelationConsistent Covariance Matrix"	https://doi.org/10.3386/t0055	-0.0768	-0.2092	2	141	656	49	1986
+22	engle (1982.0)	Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation	https://doi.org/10.2307/1912773	0.9883	-0.1205	1	128	561	49	1982
+23	ito (1998.0)	Is There Private Information in the FX Market? The Tokyo Experiment	https://doi.org/10.1111/0022-1082.00045	-0.1756	-0.1288	2	141	910	47	1998
+24	andersen (1998.0)	"Answering the Skeptics: Yes, Standard Volatility Models do Provide Accurate Forecasts"	https://doi.org/10.2307/2527343	1.0128	0.4262	1	106	393	47	1998
+25	andersen (2003.0)	Modeling and Forecasting Realized Volatility	https://doi.org/10.1111/1468-0262.00418	1.0249	0.3835	1	104	388	47	2003
+26	harvey (1991.0)	Volatility in the Foreign Currency Futures Market	https://doi.org/10.1093/rfs/4.3.543	0.7271	-0.3567	1	130	602	45	1991
+27	bessembinder (1994.0)	Bid-ask spreads in the interbank foreign exchange markets	https://doi.org/10.1016/0304-405x(94)90036-1	-0.2084	-0.4563	2	131	775	45	1994
+28	clark (1973.0)	A Subordinated Stochastic Process Model with Finite Variance for Speculative Prices	https://doi.org/10.2307/1913889	0.4643	-0.2162	1	132	619	44	1973
+29	müller (1990.0)	"Statistical study of foreign exchange rates, empirical evidence of a price change scaling law, and intraday analysis"	https://doi.org/10.1016/0378-4266(90)90009-q	0.8238	-0.3407	1	114	528	44	1990
+30	meese (1983.0)	Empirical exchange rate models of the seventies	https://doi.org/10.1016/0022-1996(83)90017-x	-0.7151	0.0855	3	131	699	44	1983
+31	rime (2009.0)	"Exchange rate forecasting, order flow and macroeconomic information"	https://doi.org/10.1016/j.jinteco.2009.03.005	-0.8032	0.5328	3	124	765	43	2009
+32	berger (2007.0)	Order flow and exchange rate dynamics in electronic brokerage system data	https://doi.org/10.1016/j.jinteco.2007.10.004	-0.8461	0.487	3	122	759	42	2007
+33	hasbrouck (1991.0)	Measuring the Information Content of Stock Trades	https://doi.org/10.1111/j.1540-6261.1991.tb03749.x	-0.8506	-0.0763	2	131	659	42	1991
+34	ederington (1993.0)	How Markets Process Information: News Releases and Volatility	https://doi.org/10.1111/j.1540-6261.1993.tb04750.x	0.7572	-0.1742	1	116	519	39	1993
+35	bauwens (2005.0)	"News announcements, market activity and volatility in the euro/dollar foreign exchange market"	https://doi.org/10.1016/j.jimonfin.2005.08.008	0.2626	0.4771	1	127	567	38	2005
+36	goodhart (1991.0)	Every minute counts in financial markets	https://doi.org/10.1016/0261-5606(91)90025-f	0.1362	-0.654	2	128	521	37	1991
+37	ito (1986.0)	News from the U. S. and Japan: Which Moves the Yen/Dollar Exchange Rate?	https://doi.org/10.3386/w1853	0.4532	-0.1599	1	121	574	37	1986
+38	evans (2002.0)	FX Trading and Exchange Rate Dynamics	https://doi.org/10.1111/1540-6261.00501	-0.7038	0.3655	3	128	672	37	2002
+39	evans (2008.0)	How is macro news transmitted to exchange rates?	https://doi.org/10.1016/j.jfineco.2007.06.001	-0.3018	0.6389	3	139	695	37	2008
+40	melvin (2000.0)	"Public Information Arrival, Exchange Rate Volatility, and Quote Frequency"	https://doi.org/10.1111/1468-0297.00558	0.1834	0.0814	1	128	640	36	2000
+41	roll (1984.0)	A Simple Implicit Measure of the Effective Bid-Ask Spread in an Efficient Market	https://doi.org/10.1111/j.1540-6261.1984.tb03897.x	-0.013	0.0731	2	120	361	35	1984
+42	ito (2006.0)	Intraday seasonality in activities of the foreign exchange markets: Evidence from the electronic broking system	https://doi.org/10.1016/j.jjie.2006.06.005	-0.0946	0.2566	3	124	483	35	2006
+43	tauchen (1983.0)	The Price Variability-Volume Relationship on Speculative Markets	https://doi.org/10.2307/1912002	0.4177	-0.3807	1	128	520	35	1983
+44	evans (2005.0)	Meese-Rogoff Redux: Micro-Based Exchange-Rate Forecasting	https://doi.org/10.1257/000282805774669934	-1.0854	0.2383	3	115	618	35	2005
+45	peiers (1997.0)	"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market"	https://doi.org/10.1111/j.1540-6261.1997.tb01122.x	-0.2899	-0.3675	2	131	652	34	1997
+46	barndorff-nielsen (2004.0)	Power and Bipower Variation with Stochastic Volatility and Jumps	https://doi.org/10.1093/jjfinec/nbh001	1.1413	0.6711	1	74	289	33	2004
+47	love (2008.0)	"Macroeconomic News, Order Flows, and Exchange Rates"	https://doi.org/10.1017/s0022109000003598	-0.5752	0.6143	3	127	635	33	2008
+48	berger (2005.0)	Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data	https://doi.org/10.2139/ssrn.709181	-0.6911	0.3936	3	130	577	33	2005
+49	malkiel (1970.0)	EFFICIENT CAPITAL MARKETS: A REVIEW OF THEORY AND EMPIRICAL WORK*	https://doi.org/10.1111/j.1540-6261.1970.tb00518.x	0.5965	0.0115	1	113	218	33	1970
+50	cheung (2001.0)	Currency traders and exchange rate dynamics: a survey of the US market	https://doi.org/10.1016/s0261-5606(01)00002-x	-0.5117	0.1784	3	130	550	33	2001
+51	engle (1990.0)	Meteor Showers or Heat Waves? Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market	https://doi.org/10.2307/2938189	0.5551	-0.2754	1	137	508	32	1990
+52	engle (1988.0)	Meteor Showers or Heat Waves? Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market	https://doi.org/10.3386/w2609	0.5956	-0.3955	1	133	525	32	1988
+53	ramazan (2001.0)	An Introduction to High-Frequency Finance	https://doi.org/10.1016/b978-0-12-279671-5.x5000-x	0.316	0.138	1	99	281	31	2001
+54	nelson (1991.0)	Conditional Heteroskedasticity in Asset Returns: A New Approach	https://doi.org/10.2307/2938260	1.0836	-0.0319	1	90	252	31	1991
+55	ito (1987.0)	News from the U.S. and Japan	https://doi.org/10.1016/0304-3932(87)90049-3	0.4666	-0.0403	1	122	482	31	1987
+56	wong (1997.0)	The Microstructure of Foreign Exchange Markets	https://doi.org/10.2307/1061089	-0.1635	-0.3883	2	134	641	31	1997
+57	froot (2005.0)	"Currency Returns, Intrinsic Value, and Institutional‐Investor Flows"	https://doi.org/10.1111/j.1540-6261.2005.00769.x	-1.2008	0.2836	3	110	601	31	2005
+58	frankel (1996.0)	The Microstructure of Foreign Exchange Markets	https://doi.org/10.7208/chicago/9780226260235.001.0001	0.0324	-0.5548	2	131	618	29	1996
+59	evans (2002.0)	Informational integration and FX trading	https://doi.org/10.1016/s0261-5606(02)00024-4	-0.8479	0.3111	3	123	573	29	2002
+60	fama (1970.0)	Efficient Capital Markets: A Review of Theory and Empirical Work	https://doi.org/10.2307/2325486	0.6867	0.0866	1	74	130	28	1970
+61	danı́elsson (2002.0)	Real trading patterns and prices in spot foreign exchange markets	https://doi.org/10.1016/s0261-5606(01)00043-2	-0.2536	0.133	3	130	509	28	2002
+62	harris (1986.0)	A transaction data study of weekly and intradaily patterns in stock returns	https://doi.org/10.1016/0304-405x(86)90044-9	0.7442	-0.5627	1	109	378	27	1986
+63	lee (2007.0)	Jumps in Financial Markets: A New Nonparametric Test and Jump Dynamics	https://doi.org/10.1093/rfs/hhm056	1.1043	0.7289	1	64	243	27	2007
+64	goodhart (1997.0)	High frequency data in financial markets: Issues and applications	https://doi.org/10.1016/s0927-5398(97)00003-0	0.3425	-0.2348	1	119	422	27	1997
+65	easley (1987.0)	"Price, trade size, and information in securities markets"	https://doi.org/10.1016/0304-405x(87)90029-8	-0.9556	-0.2643	2	108	469	26	1987
+66	lee (1991.0)	Inferring Trade Direction from Intraday Data	https://doi.org/10.1111/j.1540-6261.1991.tb02683.x	-0.0636	0.3376	2	100	256	26	1991
+67	french (1986.0)	Stock return variances	https://doi.org/10.1016/0304-405x(86)90004-8	0.5605	-0.4772	1	118	399	26	1986
+68	brock (1992.0)	Periodic market closure and trading volume	https://doi.org/10.1016/0165-1889(92)90045-g	0.3946	-0.641	2	115	440	26	1992
+69	mcfarland (1982.0)	The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement	https://doi.org/10.1111/j.1540-6261.1982.tb02218.x	0.799	-0.469	1	92	258	26	1982
+70	degennaro (1997.0)	"Public information releases, private information arrival and volatility in the foreign exchange market"	https://doi.org/10.1016/s0927-5398(97)00012-1	0.4937	-0.0835	1	113	446	26	1997
+71	foster (1990.0)	"A Theory of the Interday Variations in Volume, Variance, and Trading Costs in Securities Markets"	https://doi.org/10.1093/rfs/3.4.593	0.1858	-0.5572	2	128	430	25	1990
+72	taylor (1997.0)	The incremental volatility information in one million foreign exchange quotations	https://doi.org/10.1016/s0927-5398(97)00010-8	1.1312	0.2968	1	92	302	25	1997
+73	andersen (1997.0)	Heterogeneous Information Arrivals and Return Volatility Dynamics: Uncovering the Long‐Run in High Frequency Returns	https://doi.org/10.1111/j.1540-6261.1997.tb02722.x	0.8921	0.0454	1	100	333	25	1997
+74	taylor (1992.0)	The use of technical analysis in the foreign exchange market	https://doi.org/10.1016/0261-5606(92)90048-3	-0.3505	-0.2961	3	111	303	25	1992
+75	dominguez (2002.0)	The market microstructure of central bank intervention	https://doi.org/10.1016/s0022-1996(02)00091-0	-0.1219	0.2043	2	113	357	25	2002
+76	stoll (1978.0)	THE SUPPLY OF DEALER SERVICES IN SECURITIES MARKETS	https://doi.org/10.1111/j.1540-6261.1978.tb02053.x	-0.3879	-0.3408	2	124	446	25	1978
+77	almeida (1998.0)	The Effects of Macroeconomic News on High Frequency Exchange Rate Behavior	https://doi.org/10.2307/2331101	0.3963	0.3747	1	110	381	25	1998
+78	cai (2001.0)	"‘Once-in-a-generation’ yen volatility in 1998: fundamentals, intervention, and order flow"	https://doi.org/10.1016/s0261-5606(00)00056-5	-0.0153	0.3092	1	122	448	24	2001
+79	evans (2005.0)	Do currency markets absorb news quickly?	https://doi.org/10.1016/j.jimonfin.2004.12.004	-0.4459	0.6157	3	126	509	24	2005
+80	bollerslev (1992.0)	ARCH modeling in finance	https://doi.org/10.1016/0304-4076(92)90064-x	0.7052	-0.4002	1	113	339	24	1992
+81	barndorff-nielsen (2002.0)	Econometric Analysis of Realized Volatility and its Use in Estimating Stochastic Volatility Models	https://doi.org/10.1111/1467-9868.00336	0.8699	0.5062	1	78	239	24	2002
+82	easley (1992.0)	Time and the Process of Security Price Adjustment	https://doi.org/10.1111/j.1540-6261.1992.tb04402.x	-0.2954	-0.4662	2	119	435	24	1992
+83	marsh (2005.0)	Customer Order Flow and Exchange Rate Movements: Is There Really Information Content?	https://doi.org/10.2139/ssrn.704944	-1.0796	0.3453	3	104	504	24	2005
+84	hsieh (1988.0)	The statistical properties of daily foreign exchange rates: 1974–1983	https://doi.org/10.1016/0022-1996(88)90025-6	0.6422	-0.4882	1	115	362	24	1988
+85	wood (1985.0)	An Investigation of Transactions Data for NYSE Stocks	https://doi.org/10.2307/2327796	1.0104	-0.3925	1	85	298	23	1985
+86	a (1980.0)	Dealership market	https://doi.org/10.1016/0304-405x(80)90020-3	-0.2451	-0.5967	2	121	450	23	1980
+87	zhou (1996.0)	High-Frequency Data and Volatility in Foreign-Exchange Rates	https://doi.org/10.1080/07350015.1996.10524628	0.8474	-0.0868	1	98	252	23	1996
+88	vega (2002.0)	Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange	https://doi.org/10.2139/ssrn.312158	0.1962	0.5304	1	117	416	23	2002
+89	bjønnes (2005.0)	Liquidity provision in the overnight foreign exchange market	https://doi.org/10.1016/j.jimonfin.2004.12.003	-1.1793	0.1892	3	103	467	23	2005
+90	mancini (2013.0)	"Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums"	https://doi.org/10.1111/jofi.12053	-0.1382	0.6604	3	101	306	23	2013
+91	evans (2006.0)	Understanding order flow	https://doi.org/10.1002/ijfe.287	-0.9842	0.4907	3	108	455	22	2006
+92	chaboud (2004.0)	The High-Frequency Effects of U.S. Macroeconomic Data Releases on Prices and Trading Activity in the Global Interdealer Foreign Exchange Market	https://doi.org/10.17016/ifdp.2004.823	0.2864	0.2988	1	96	286	22	2004
+93	dominguez (2006.0)	What defines ‘news’ in foreign exchange markets?	https://doi.org/10.1016/j.jimonfin.2005.10.009	-0.3778	0.6654	3	110	410	22	2006
+94	guillaume (1997.0)	From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets	https://doi.org/10.1007/s007800050018	0.4166	-0.2893	1	104	277	22	1997
+95	ho (1981.0)	Optimal dealer pricing under transactions and return uncertainty	https://doi.org/10.1016/0304-405x(81)90020-9	-0.6276	-0.5687	2	119	451	22	1981
+96	goodhart (1993.0)	News effects in a high‐frequency model of the sterling‐dollar exchange rate	https://doi.org/10.1002/jae.3950080102	0.7545	-0.0408	1	102	342	22	1993
+97	killeen (2006.0)	Fixed versus flexible: Lessons from EMS order flow	https://doi.org/10.1016/j.jimonfin.2005.11.011	-1.1815	0.2209	3	105	452	22	2006
+98	frankel (1995.0)	Empirical research on nominal exchange rates	https://openalex.org/W3125454191	-0.7772	-0.3967	2	109	393	22	1995
+99	boudt (2010.0)	Robust estimation of intraweek periodicity in volatility and jump detection	https://doi.org/10.1016/j.jempfin.2010.11.005	1.0699	0.7214	1	67	206	21	2010
+100	andersen (2001.0)	The distribution of realized stock return volatility	https://doi.org/10.1016/s0304-405x(01)00055-1	1.0825	0.412	1	78	207	21	2001
+101	breedon (2013.0)	Intraday Patterns in FX Returns and Order Flow	https://doi.org/10.1111/jmcb.12032	0.1709	0.484	3	101	263	21	2013
+102	a (2002.0)	Illiquidity and stock returns: cross-section and time-series effects	https://doi.org/10.1016/s1386-4181(01)00024-6	-0.2182	0.5435	3	81	216	21	2002
+103	o’hara (1995.0)	Market microstructure theory	https://openalex.org/W1973340530	-0.5161	-0.1429	2	112	352	21	1995
+104	fama (1965.0)	The Behavior of Stock-Market Prices	https://doi.org/10.1086/294743	1.006	-0.0479	1	78	157	21	1965
+105	osler (2011.0)	Price discovery in currency markets	https://doi.org/10.1016/j.jimonfin.2011.08.004	-0.9247	0.2331	3	100	383	21	2011
+106	hansen (1982.0)	Large Sample Properties of Generalized Method of Moments Estimators	https://doi.org/10.2307/1912775	-0.7894	-0.5414	2	94	276	21	1982
+107	andersen (2007.0)	"Roughing It Up: Including Jump Components in the Measurement, Modeling, and Forecasting of Return Volatility"	https://doi.org/10.1162/rest.89.4.701	1.0868	0.6619	1	68	196	20	2007
+108	french (1980.0)	Stock returns and the weekend effect	https://doi.org/10.1016/0304-405x(80)90021-5	0.8958	-0.4858	1	63	124	20	1980
+109	goodhart (1995.0)	One Day in June 1993: A Study of the Working of the Reuters 2000-2 Electronic Foreign Exchange Trading System	https://openalex.org/W3125379823	0.1784	-0.4449	2	115	398	20	1995
+110	andersen (2007.0)	"Real-time price discovery in global stock, bond and foreign exchange markets"	https://doi.org/10.1016/j.jinteco.2007.02.004	0.5421	0.5916	1	93	239	20	2007
+111	cornett (1995.0)	Seasonalities and intraday return patterns in the foreign currency futures market	https://doi.org/10.1016/0378-4266(95)00084-t	0.753	-0.3009	1	85	191	20	1995
+112	lyons (1993.0)	Tests of Microstructural Hypotheses in the Foreign Exchange Market	https://doi.org/10.3386/w4471	-0.7147	-0.1832	2	109	309	20	1993
+113	karnaukh (2015.0)	Understanding FX Liquidity	https://doi.org/10.1093/rfs/hhv029	-0.0307	0.6497	3	81	214	20	2015
+114	grossman (1988.0)	Liquidity and Market Structure	https://doi.org/10.1111/j.1540-6261.1988.tb04594.x	-0.2603	0.2877	3	113	323	19	1988
+115	jegadeesh (1993.0)	Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency	https://doi.org/10.1111/j.1540-6261.1993.tb04702.x	-0.2613	-0.1408	2	52	75	19	1993
+116	jones (1994.0)	"Transactions, Volume, and Volatility"	https://doi.org/10.1093/rfs/7.4.631	-0.2145	-0.1714	2	113	346	19	1994
+117	menkhoff (2012.0)	Carry Trades and Global Foreign Exchange Volatility	https://doi.org/10.1111/j.1540-6261.2012.01728.x	-0.5277	0.4734	3	101	290	19	2012
+118	osler (2003.0)	Currency Orders and Exchange Rate Dynamics: An Explanation for the Predictive Success of Technical Analysis	https://doi.org/10.1111/1540-6261.00588	-0.9386	0.1958	3	106	340	19	2003
+119	berry (1994.0)	Public Information Arrival	https://doi.org/10.1111/j.1540-6261.1994.tb02456.x	0.6197	0.0813	1	116	303	19	1994
+120	hartmann (1999.0)	Trading volumes and transaction costs in the foreign exchange market	https://doi.org/10.1016/s0378-4266(98)00115-0	-0.1043	-0.411	2	113	341	19	1999
+121	lyons (1995.0)	Foreign Exchange Volume: Sound and Fury Signifying Nothing?	https://doi.org/10.3386/w4984	-0.065	-0.6825	2	113	374	19	1995
+122	sager (2008.0)	Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor	https://doi.org/10.1111/j.1538-4616.2008.00129.x	-1.1371	0.3031	3	102	377	19	2008
+123	copeland (1983.0)	Information Effects on the Bid-Ask Spread	https://doi.org/10.1111/j.1540-6261.1983.tb03834.x	-0.4315	-0.6505	2	91	239	18	1983
+124	glassman (1987.0)	Exchange rate risk and transactions costs: Evidence from bid-ask spreads	https://doi.org/10.1016/0261-5606(87)90024-6	-0.3707	-0.6855	2	114	305	18	1987
+125	bossaerts (1991.0)	Market Microstructure Effects of Government Intervention in the Foreign Exchange Market	https://doi.org/10.1093/rfs/4.3.513	-0.1397	-0.7633	2	101	317	18	1991
+126	hsieh (1996.0)	Bid-Ask Spreads in Foreign Exchange Markets: Implications for Models of Asymmetric Information	https://openalex.org/W3122376683	0.0717	-0.6521	2	118	409	18	1996
+127	barndorff-nielsen (2005.0)	Econometrics of Testing for Jumps in Financial Economics Using Bipower Variation	https://doi.org/10.1093/jjfinec/nbi022	1.0784	0.7486	1	61	189	18	2005
+128	chang (2003.0)	Information arrivals and intraday exchange rate volatility	https://doi.org/10.1016/s1042-4431(02)00039-2	0.6611	0.1551	1	92	246	18	2003
+129	danı́elsson (2006.0)	Feedback trading	https://doi.org/10.1002/ijfe.286	-1.2093	0.4557	3	94	392	18	2006
+130	lyons (1998.0)	Profits and position control: a week of FX dealing	https://doi.org/10.1016/s0261-5606(97)00053-3	-0.3794	-0.5584	2	120	392	18	1998
+131	huang (1999.0)	FX Spreads and Dealer Competition Across the 24-Hour Trading Day	https://doi.org/10.1093/rfs/12.1.61	-0.4983	-0.071	2	94	302	18	1999
+132	ho (1983.0)	The Dynamics of Dealer Markets Under Competition	https://doi.org/10.1111/j.1540-6261.1983.tb02282.x	-0.2839	-0.6751	2	99	265	18	1983
+133	cheung (2000.0)	A survey of market practitioners’ views on exchange rate dynamics	https://doi.org/10.1016/s0022-1996(99)00009-4	-0.4321	-0.7795	2	99	307	18	2000
+134	goodhart (1988.0)	The Foreign Exchange Market: A Random Walk with a Dragging Anchor	https://doi.org/10.2307/2553908	-0.6639	-0.3964	2	114	359	18	1988
+135	lyons (1999.0)	Order Flow and Exchange Rate Dynamics	https://doi.org/10.2139/ssrn.174888	-0.7346	-0.2162	2	117	335	18	1999
+136	madhavan (1991.0)	A Bayesian model of intraday specialist pricing	https://doi.org/10.1016/0304-405x(91)90028-i	-0.7305	-0.5814	2	104	326	18	1991
+137	demsetz (1968.0)	The Cost of Transacting	https://doi.org/10.2307/1882244	-0.6197	-0.5002	2	106	251	17	1968
+138	lahaye (2010.0)	"Jumps, cojumps and macro announcements"	https://doi.org/10.1002/jae.1149	1.0186	0.6987	1	66	208	17	2010
+139	ding (1993.0)	A long memory property of stock market returns and a new model	https://doi.org/10.1016/0927-5398(93)90006-d	1.2283	0.1747	1	62	154	17	1993
+140	melvin (2003.0)	The Global Transmission of Volatility in the Foreign Exchange Market	https://doi.org/10.1162/003465303322369803	0.0379	0.3775	3	101	219	17	2003
+141	sager (2006.0)	Under the microscope: the structure of the foreign exchange market	https://doi.org/10.1002/ijfe.277	-0.7747	0.2372	3	95	283	17	2006
+142	evans (2002.0)	Time-varying liquidity in foreign exchange	https://doi.org/10.1016/s0304-3932(02)00124-1	-0.8305	0.5823	3	92	256	17	2002
+143	ljung (1978.0)	On a Measure of Lack of Fit in Time Series Models	https://doi.org/10.1093/biomet/65.2.297	0.8812	-0.1919	1	70	178	17	1978
+144	evans (2007.0)	Exchange Rate Fundamentals and Order Flow	https://doi.org/10.3386/w13151	-1.201	0.3192	3	96	393	17	2007
+145	covrig (2002.0)	Asymmetric information and price discovery in the FX market: does Tokyo know more about the yen?	https://doi.org/10.1016/s0927-5398(01)00056-1	-0.7146	-0.2621	2	120	403	17	2002
+146	bacchetta (2006.0)	Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?	https://doi.org/10.1257/aer.96.3.552	-0.7966	0.4579	3	102	330	17	2006
+147	pástor (2003.0)	Liquidity Risk and Expected Stock Returns	https://doi.org/10.1086/374184	-0.5478	0.404	3	93	211	17	2003
+148	mann (1996.0)	Market Microstructure Theory.	https://doi.org/10.2307/2329383	-0.6779	-0.2143	2	93	268	17	1996
+149	faust (2006.0)	The high-frequency response of exchange rates and interest rates to macroeconomic announcements	https://doi.org/10.1016/j.jmoneco.2006.05.015	0.6292	0.4634	1	84	230	17	2006
+150	edison (1993.0)	The Effectiveness of Central-Bank Intervention: A Survey of the Literature After 1982	https://openalex.org/W1599899511	0.1045	-0.2913	2	110	286	17	1993

@@ -1,0 +1,29 @@
+# started 2026-10-13T18:18:48.609431+00:00
+# cwd fxcm_extra/code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python ../../code/runstat.py fetch_fxcm.py GBPUSD:2012-2023 USDCHF:2012-2023
+GBPUSD 2012 weeks 53
+GBPUSD 2013 weeks 53
+GBPUSD 2014 weeks 53
+GBPUSD 2015 weeks 52
+GBPUSD 2016 weeks 52
+GBPUSD 2017 weeks 52
+GBPUSD 2018 weeks 53
+GBPUSD 2019 weeks 52
+GBPUSD 2020 weeks 52
+GBPUSD 2021 weeks 52
+GBPUSD 2022 weeks 52
+GBPUSD 2023 weeks 53
+USDCHF 2012 weeks 53
+USDCHF 2013 weeks 53
+USDCHF 2014 weeks 53
+USDCHF 2015 weeks 52
+USDCHF 2016 weeks 52
+USDCHF 2017 weeks 52
+USDCHF 2018 weeks 53
+USDCHF 2019 weeks 52
+USDCHF 2020 weeks 52
+USDCHF 2021 weeks 52
+USDCHF 2022 weeks 52
+USDCHF 2023 weeks 53
+# runstat script=fetch_fxcm.py wall_s=707.1 cpu_s=9.1 peak_rss_mb=36
+# exit=0 wall_s=707.2 cpu_s=0.0 peak_rss_mb=5

@@ -1,0 +1,21 @@
+{
+  "title": "A rollover artefact and a clock error in free forex minute data: how histdata.com bars manufacture a time-of-day edge",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, derived results and documentation for a study of free one-minute forex bars from histdata.com. The bar stamped 16:59 New York has a large negative mean return in all ten currency pairs examined (2015-2026) because the bars are built from bid prices and the spread widens at the 17:00 rollover; and the file timestamps are not the fixed UTC-5 clock the vendor documents (New York wall time with daylight saving up to 2018, the European daylight-saving calendar from 2019). Includes a tested clock-conversion and rollover-mask module (fxclock), a ten-step check, and an independent cross-check against FXCM bid/ask candles.",
+  "keywords": [
+    "foreign exchange",
+    "minute data",
+    "data quality",
+    "rollover",
+    "bid-ask spread",
+    "timestamps",
+    "backtesting"
+  ]
+}

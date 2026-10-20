@@ -1,0 +1,34 @@
+﻿oa_id,year,first_author,title,source,doi,sublit,local_citations,global_citations
+W2036760811,1991,Campbell R. Harvey,Volatility in the Foreign Currency Futures Market,Review of Financial Studies,10.1093/rfs/4.3.543,a_intraday_seasonality,45,284
+W1989824032,1991,Richard T. Baillie,Intra-Day and Inter-Market Volatility in Foreign Exchange Rates,The Review of Economic Studies,10.2307/2298012,a_intraday_seasonality,72,489
+W2008034279,1993,Tim Bollerslev,Trading Patterns and Prices in the Interbank Foreign Exchange Market,The Journal of Finance,10.1111/j.1540-6261.1993.tb04760.x,a_intraday_seasonality,81,365
+W2063213430,1994,Mark D. Flood,Market structure and inefficiency in the foreign exchange market,Journal of International Money and Finance,10.1016/0261-5606(94)90012-4,b_fx_microstructure,9,35
+W1585177194,1995,Richard K. Lyons,Foreign Exchange Volume: Sound and Fury Signifying Nothing?,National Bureau of Economic Research,10.3386/w4984,b_fx_microstructure,19,98
+W3123254653,1995,Richard K. Lyons,Tests of microstructural hypotheses in the foreign exchange market,Journal of Financial Economics,10.1016/0304-405x(95)00832-y,b_fx_microstructure,108,515
+W1969306056,1997,Dominique M. Guillaume,From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets,Finance and Stochastics,10.1007/s007800050018,b_fx_microstructure,22,522
+W3121329626,1997,Ramon Paul DeGennaro,"Public information releases, private information arrival and volatility in the foreign exchange market",Journal of Empirical Finance,10.1016/s0927-5398(97)00012-1,b_fx_microstructure,26,160
+W2022342755,1997,Bettina Peiers,"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",The Journal of Finance,10.1111/j.1540-6261.1997.tb01122.x,b_fx_microstructure,34,236
+W3123217382,1998,Torben G. Andersen,"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",The Journal of Finance,10.1111/0022-1082.85732,a_intraday_seasonality,96,1185
+W2151073625,1998,Takatoshi Ito,Is There Private Information in the FX Market? The Tokyo Experiment,The Journal of Finance,10.1111/0022-1082.00045,b_fx_microstructure,47,279
+W2158249746,1999,Richard K. Lyons,Order Flow and Exchange Rate Dynamics,SSRN Electronic Journal,10.2139/ssrn.174888,b_fx_microstructure,18,183
+W2106705417,2000,Geir Høidal Bjønnes,FX Trading... Live! Dealer Behavior and Trading Systems in Foreign Exchange Markets,SSRN Electronic Journal,10.2139/ssrn.244468,b_fx_microstructure,2,11
+W3122765589,2002,Martin D.D. Evans,FX Trading and Exchange Rate Dynamics,The Journal of Finance,10.1111/1540-6261.00501,b_fx_microstructure,37,177
+W2054563639,2003,Richard G. Payne,Informed trade in spot foreign exchange markets: an empirical investigation,Journal of International Economics,10.1016/s0022-1996(03)00003-5,b_fx_microstructure,87,274
+W3123491874,2004,Geir Høidal Bjønnes,Dealer behavior and trading systems in foreign exchange markets,Journal of Financial Economics,10.1016/j.jfineco.2004.08.001,b_fx_microstructure,56,239
+W2151842039,2005,Ian W. Marsh,Customer Order Flow and Exchange Rate Movements: Is There Really Information Content?,SSRN Electronic Journal,10.2139/ssrn.704944,b_fx_microstructure,24,63
+W1597232297,2006,Martin D.D. Evans,Understanding order flow,International Journal of Finance & Economics,10.1002/ijfe.287,b_fx_microstructure,22,89
+W1530242786,2007,Lukas Menkhoff,Local information in foreign exchange markets,Journal of International Money and Finance,10.1016/j.jimonfin.2007.10.003,b_fx_microstructure,9,26
+W2021854157,2008,Michael J. Sager,Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor,Journal of money credit and banking,10.1111/j.1538-4616.2008.00129.x,b_fx_microstructure,19,68
+W2004040129,2009,Angelo Ranaldo,Segmentation and time-of-day patterns in foreign exchange markets,Journal of Banking & Finance,10.1016/j.jbankfin.2009.05.019,a_intraday_seasonality,15,42
+W2140945868,2009,Dagfinn Rime,"Exchange rate forecasting, order flow and macroeconomic information",Journal of International Economics,10.1016/j.jinteco.2009.03.005,b_fx_microstructure,43,280
+W3123518036,2010,Michael R. King,Timing exchange rates using order flow: The case of the Loonie,Journal of Banking & Finance,10.1016/j.jbankfin.2010.02.016,b_fx_microstructure,6,47
+W3123550661,2011,Chiara Banti,Global liquidity risk in the foreign exchange market,Journal of International Money and Finance,10.1016/j.jimonfin.2011.11.010,b_fx_microstructure,12,89
+W2332431545,2013,Francis Breedon,Intraday Patterns in FX Returns and Order Flow,Journal of money credit and banking,10.1111/jmcb.12032,a_intraday_seasonality,21,49
+W2315462057,2013,Loriano Mancini,"Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums",The Journal of Finance,10.1111/jofi.12053,b_fx_microstructure,23,318
+W3121993375,2017,Louis R. Piccotti,"Jumps, cojumps, and efficiency in the spot foreign exchange market",Journal of Banking & Finance,10.1016/j.jbankfin.2017.09.007,b_fx_microstructure,6,33
+W2889923286,2018,Siroos Khademalomoom,Intraday effects of the currency market,Journal of International Financial Markets Institutions and Money,10.1016/j.intfin.2018.09.008,a_intraday_seasonality,9,25
+W2753174893,2019,Andrea Eross,The intraday dynamics of bitcoin,Research in International Business and Finance,10.1016/j.ribaf.2019.01.008,a_intraday_seasonality,13,120
+W3046759733,2020,Jinghua Wang,Does Bitcoin still own the dominant power? An intraday analysis,International Review of Financial Analysis,10.1016/j.irfa.2020.101551,a_intraday_seasonality,3,65
+W3118310033,2021,Süleyman Serdengeçti,Dynamics of return and liquidity (co) jumps in emerging foreign exchange markets,Journal of International Financial Markets Institutions and Money,10.1016/j.intfin.2021.101377,b_fx_microstructure,2,7
+W4318570830,2023,Sevcan Uzun,Jump forecasting in foreign exchange markets: A high‐frequency analysis,Journal of Forecasting,10.1002/for.2951,b_fx_microstructure,0,6
+W4390753614,2024,Carlos Esparcia,Performance of crypto-Forex portfolios based on intraday data,Research in International Business and Finance,10.1016/j.ribaf.2024.102217,a_intraday_seasonality,0,6

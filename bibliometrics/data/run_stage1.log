@@ -1,0 +1,68 @@
+=== 03-fx-data-artefact :: search
+  crossref_a_intraday_seasonality_01: total=2565718 retrieved=250 ok
+  crossref_a_intraday_seasonality_02: total=1020096 retrieved=250 ok
+  crossref_a_intraday_seasonality_03: total=2923679 retrieved=250 ok
+  crossref_a_intraday_seasonality_04: total=3373203 retrieved=250 ok
+  crossref_a_intraday_seasonality_05: total=877223 retrieved=250 ok
+  crossref_a_intraday_seasonality_06: total=804453 retrieved=250 ok
+  crossref_a_intraday_seasonality_07: total=5289360 retrieved=250 ok
+  crossref_a_intraday_seasonality_08: total=3859877 retrieved=250 ok
+  crossref_a_intraday_seasonality_09: total=990182 retrieved=250 ok
+  crossref_a_intraday_seasonality_10: total=932030 retrieved=250 ok
+  crossref_a_intraday_seasonality_11: total=631527 retrieved=250 ok
+  s2_a_intraday_seasonality_01: total=1021 retrieved=800 ok
+  s2_a_intraday_seasonality_02: total=52 retrieved=52 ok
+  s2_a_intraday_seasonality_03: total=1277 retrieved=800 ok
+  arxiv_a_intraday_seasonality_01: total=11 retrieved=11 ok
+  arxiv_a_intraday_seasonality_02: total=9 retrieved=9 ok
+  arxiv_a_intraday_seasonality_03: total=0 retrieved=0 ok
+  crossref_b_fx_microstructure_01: total=2817714 retrieved=250 ok
+  crossref_b_fx_microstructure_02: total=1667851 retrieved=250 ok
+  crossref_b_fx_microstructure_03: total=742495 retrieved=250 ok
+  crossref_b_fx_microstructure_04: total=538385 retrieved=250 ok
+  crossref_b_fx_microstructure_05: total=2382558 retrieved=250 ok
+  crossref_b_fx_microstructure_06: total=2652860 retrieved=250 ok
+  crossref_b_fx_microstructure_07: total=725126 retrieved=250 ok
+  crossref_b_fx_microstructure_08: total=5732991 retrieved=250 ok
+  crossref_b_fx_microstructure_09: total=4871296 retrieved=250 ok
+  crossref_b_fx_microstructure_10: total=2859754 retrieved=250 ok
+  crossref_b_fx_microstructure_11: total=1541587 retrieved=250 ok
+  crossref_b_fx_microstructure_12: total=4064341 retrieved=250 ok
+  s2_b_fx_microstructure_01: total=268 retrieved=268 ok
+  s2_b_fx_microstructure_02: total=16 retrieved=16 ok
+  s2_b_fx_microstructure_03: total=19 retrieved=19 ok
+  arxiv_b_fx_microstructure_01: total=3 retrieved=3 ok
+  arxiv_b_fx_microstructure_02: total=26 retrieved=26 ok
+  arxiv_b_fx_microstructure_03: total=1 retrieved=1 ok
+  crossref_c_data_quality_01: total=4880344 retrieved=250 ok
+  crossref_c_data_quality_02: total=2939432 retrieved=250 ok
+  crossref_c_data_quality_03: total=12071388 retrieved=250 ok
+  crossref_c_data_quality_04: total=6430253 retrieved=250 ok
+  crossref_c_data_quality_05: total=3883905 retrieved=250 ok
+  crossref_c_data_quality_06: total=2724558 retrieved=250 ok
+  crossref_c_data_quality_07: total=4900873 retrieved=250 ok
+  crossref_c_data_quality_08: total=5893185 retrieved=250 ok
+  crossref_c_data_quality_09: total=12047035 retrieved=250 ok
+  crossref_c_data_quality_10: total=3530884 retrieved=250 ok
+  crossref_c_data_quality_11: total=2584811 retrieved=250 ok
+  crossref_c_data_quality_12: total=4510095 retrieved=250 ok
+  s2_c_data_quality_01: total=4810 retrieved=800 ok
+  s2_c_data_quality_02: total=785 retrieved=785 ok
+  s2_c_data_quality_03: total=1028 retrieved=800 ok
+  arxiv_c_data_quality_01: total=0 retrieved=0 ok
+  arxiv_c_data_quality_02: total=1 retrieved=1 ok
+  arxiv_c_data_quality_03: total=3 retrieved=3 ok
+  arxiv_c_data_quality_04: total=22 retrieved=22 ok
+search: 13199 hits from 68 queries
+=== search done in 292s
+=== 03-fx-data-artefact :: enrich
+enrich: hits=13199 unique=8790 pass title pre-screen=2950
+  openalex 400/2950 (76s)
+  openalex 800/2950 (161s)
+  openalex 1200/2950 (293s)
+  openalex 1600/2950 (465s)
+  openalex 2000/2950 (596s)
+  openalex 2400/2950 (667s)
+  openalex 2800/2950 (913s)
+enrich: {"date": "2026-10-17", "records_identified": 13199, "by_db": {"crossref": 8750, "s2": 4340, "arxiv": 76, "seed": 33}, "duplicates_removed_identifiers": 4409, "unique_records": 8790, "removed_title_prescreen": 5840, "sent_to_openalex": 2950, "duplicates_removed_openalex": 13, "excluded_reasons": {"offtopic_fails_inclusion_rule": 1765, "type_excluded": 153, "no_openalex_record (no DOI / not indexed)": 115, "uncited_older_record (citation floor)": 60, "language_not_english": 13, "paratext_or_container_record": 2}, "included_after_search_screen": 829}
+=== enrich done in 1156s

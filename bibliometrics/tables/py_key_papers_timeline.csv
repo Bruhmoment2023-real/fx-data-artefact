@@ -1,0 +1,29 @@
+﻿oa_id,doi,first_author,year,title,source,sublit,local_citations,cited_by_count
+W2034358898,10.1016/0378-4266(90)90009-q,Ulrich Müller,1990,"Statistical study of foreign exchange rates, empirical evidence of a price change scaling law, and intraday analysis",Journal of Banking & Finance,a_intraday_seasonality,44,482
+W1989824032,10.2307/2298012,Richard T. Baillie,1991,Intra-Day and Inter-Market Volatility in Foreign Exchange Rates,The Review of Economic Studies,a_intraday_seasonality,72,489
+W2036760811,10.1093/rfs/4.3.543,Campbell R. Harvey,1991,Volatility in the Foreign Currency Futures Market,Review of Financial Studies,a_intraday_seasonality,45,284
+W2008592128,10.1016/0261-5606(91)90025-f,Charles Goodhart,1991,Every minute counts in financial markets,Journal of International Money and Finance,b_fx_microstructure,37,189
+W2057418282,10.1016/0261-5606(93)90004-u,Michel M. Dacorogna,1993,A geographical model for the daily and weekly seasonal volatility in the foreign exchange market,Journal of International Money and Finance,a_intraday_seasonality,57,609
+W2008034279,10.1111/j.1540-6261.1993.tb04760.x,Tim Bollerslev,1993,Trading Patterns and Prices in the Interbank Foreign Exchange Market,The Journal of Finance,a_intraday_seasonality,81,365
+W2029929857,10.1016/0304-405x(94)90036-1,Hendrik Bessembinder,1994,Bid-ask spreads in the interbank foreign exchange markets,Journal of Financial Economics,b_fx_microstructure,45,211
+W1498286110,10.1016/0022-1996(94)90008-6,Tim Bollerslev,1994,Bid—ask spreads and volatility in the foreign exchange market,Journal of International Economics,b_fx_microstructure,52,300
+W3123254653,10.1016/0304-405x(95)00832-y,Richard K. Lyons,1995,Tests of microstructural hypotheses in the foreign exchange market,Journal of Financial Economics,b_fx_microstructure,108,515
+W2146399390,10.1016/s0927-5398(97)00004-2,Torben G. Andersen,1997,Intraday periodicity and volatility persistence in financial markets,Journal of Empirical Finance,a_intraday_seasonality,69,1300
+W2022342755,10.1111/j.1540-6261.1997.tb01122.x,Bettina Peiers,1997,"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",The Journal of Finance,b_fx_microstructure,34,236
+W3124998806,10.2307/1061089,K. Wong,1997,The Microstructure of Foreign Exchange Markets,Southern Economic Journal,b_fx_microstructure,31,178
+W3123217382,10.1111/0022-1082.85732,Torben G. Andersen,1998,"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",The Journal of Finance,a_intraday_seasonality,96,1185
+W2151073625,10.1111/0022-1082.00045,Takatoshi Ito,1998,Is There Private Information in the FX Market? The Tokyo Experiment,The Journal of Finance,b_fx_microstructure,47,279
+W2007514734,10.1111/1468-0297.00558,Michael T. Melvin,2000,"Public Information Arrival, Exchange Rate Volatility, and Quote Frequency",The Economic Journal,b_fx_microstructure,36,188
+W1572909356,10.7551/mitpress/4602.001.0001,Richard K. Lyons,2001,The Microstructure Approach to Exchange Rates,The MIT Press eBooks,b_fx_microstructure,78,1043
+W2613001510,10.1016/b978-0-12-279671-5.x5000-x,"Gençay, Ramazan",2001,An Introduction to High-Frequency Finance,Elsevier eBooks,b_fx_microstructure,31,956
+W2116912141,10.1016/s0261-5606(01)00002-x,Yin‐Wong Cheung,2001,Currency traders and exchange rate dynamics: a survey of the US market,Journal of International Money and Finance,b_fx_microstructure,33,538
+W3122765589,10.1111/1540-6261.00501,Martin D.D. Evans,2002,FX Trading and Exchange Rate Dynamics,The Journal of Finance,b_fx_microstructure,37,177
+W2103642314,10.1016/s0261-5606(02)00024-4,Martin D.D. Evans,2002,Informational integration and FX trading,Journal of International Money and Finance,b_fx_microstructure,29,146
+W1970210843,10.1016/s0261-5606(01)00043-2,Jón Danı́elsson,2002,Real trading patterns and prices in spot foreign exchange markets,Journal of International Money and Finance,b_fx_microstructure,28,138
+W2054563639,10.1016/s0022-1996(03)00003-5,Richard G. Payne,2003,Informed trade in spot foreign exchange markets: an empirical investigation,Journal of International Economics,b_fx_microstructure,87,274
+W3121364726,10.1111/1468-0262.00418,Torben G. Andersen,2003,Modeling and Forecasting Realized Volatility,Econometrica,a_intraday_seasonality,47,3874
+W3123491874,10.1016/j.jfineco.2004.08.001,Geir Høidal Bjønnes,2004,Dealer behavior and trading systems in foreign exchange markets,Journal of Financial Economics,b_fx_microstructure,56,239
+W3121586210,10.2139/ssrn.709181,David W. Berger,2005,Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data,SSRN Electronic Journal,b_fx_microstructure,33,114
+W3023276444,10.1016/j.jjie.2006.06.005,Takatoshi Ito,2006,Intraday seasonality in activities of the foreign exchange markets: Evidence from the electronic broking system,Journal of the Japanese and International Economies,a_intraday_seasonality,35,95
+W2157764735,10.1017/s0022109000003598,Ryan Love,2008,"Macroeconomic News, Order Flows, and Exchange Rates",Journal of Financial and Quantitative Analysis,b_fx_microstructure,33,165
+W2140945868,10.1016/j.jinteco.2009.03.005,Dagfinn Rime,2009,"Exchange rate forecasting, order flow and macroeconomic information",Journal of International Economics,b_fx_microstructure,43,280

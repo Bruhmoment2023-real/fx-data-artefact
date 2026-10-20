@@ -1,0 +1,28 @@
+pair,sample,pricing,n,mean,t,sharpe,mean_exit_spread_bp
+EURUSD,2012-2014,bid-to-bid (what a bid-only backtest sees),772,-0.0532,-0.2622,-0.1498,1.3719
+EURUSD,2012-2014,mid-to-mid,772,-0.6494,-3.1803,-1.817,1.3719
+EURUSD,2012-2014,"executable: sell bid 16:00, buy ask 17:00",772,-1.4249,-6.7737,-3.8701,1.3719
+EURUSD,2015-2023,bid-to-bid (what a bid-only backtest sees),2321,1.4454,13.3359,4.3943,2.7377
+EURUSD,2015-2023,mid-to-mid,2321,0.1764,1.6428,0.5413,2.7377
+EURUSD,2015-2023,"executable: sell bid 16:00, buy ask 17:00",2321,-1.2915,-11.4232,-3.764,2.7377
+EURUSD,2012-2023,bid-to-bid (what a bid-only backtest sees),3093,1.0714,11.1008,3.1686,2.3968
+EURUSD,2012-2023,mid-to-mid,3093,-0.0297,-0.3106,-0.0887,2.3968
+EURUSD,2012-2023,"executable: sell bid 16:00, buy ask 17:00",3093,-1.3248,-13.2798,-3.7905,2.3968
+USDJPY,2012-2014,bid-to-bid (what a bid-only backtest sees),772,0.2792,0.9592,0.5481,2.5311
+USDJPY,2012-2014,mid-to-mid,772,-0.8464,-2.9997,-1.7138,2.5311
+USDJPY,2012-2014,"executable: sell bid 16:00, buy ask 17:00",772,-2.2512,-7.9722,-4.5548,2.5311
+USDJPY,2015-2023,bid-to-bid (what a bid-only backtest sees),2321,0.6958,5.4162,1.7847,3.2465
+USDJPY,2015-2023,mid-to-mid,2321,-0.7925,-6.3402,-2.0891,3.2465
+USDJPY,2015-2023,"executable: sell bid 16:00, buy ask 17:00",2321,-2.5499,-19.984,-6.5848,3.2465
+USDJPY,2012-2023,bid-to-bid (what a bid-only backtest sees),3093,0.5918,4.9022,1.3993,3.0679
+USDJPY,2012-2023,mid-to-mid,3093,-0.806,-6.8726,-1.9617,3.0679
+USDJPY,2012-2023,"executable: sell bid 16:00, buy ask 17:00",3093,-2.4753,-20.8202,-5.9429,3.0679
+AUDUSD,2012-2014,bid-to-bid (what a bid-only backtest sees),772,0.9112,3.2336,1.8475,3.7095
+AUDUSD,2012-2014,mid-to-mid,772,-0.7199,-2.6658,-1.5231,3.7095
+AUDUSD,2012-2014,"executable: sell bid 16:00, buy ask 17:00",772,-2.7969,-10.1747,-5.8132,3.7095
+AUDUSD,2015-2023,bid-to-bid (what a bid-only backtest sees),2318,2.532,15.8198,5.2161,4.9142
+AUDUSD,2015-2023,mid-to-mid,2318,0.3083,2.0123,0.6635,4.9142
+AUDUSD,2015-2023,"executable: sell bid 16:00, buy ask 17:00",2318,-2.3802,-15.027,-4.9547,4.9142
+AUDUSD,2012-2023,bid-to-bid (what a bid-only backtest sees),3090,2.127,15.2224,4.3472,4.6132
+AUDUSD,2012-2023,mid-to-mid,3090,0.0514,0.3854,0.1101,4.6132
+AUDUSD,2012-2023,"executable: sell bid 16:00, buy ask 17:00",3090,-2.4843,-18.0996,-5.1688,4.6132

@@ -1,0 +1,86 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"foreign exchange market 10.9
+market microstructure 6.3
+order flow 4.4
+bid-ask spread 3.8
+trading volume 2.4
+price discovery 1.9
+informed trading 1.8
+volatility 1.6
+private information 1.6
+spot exchange rates 1.6","foreign exchange market
+market microstructure
+order flow",60,3.94142913683769,21.9050173754787,7,4,"foreign exchange market","#E41A1C80",1033
+2,"exchange rate volatility 5.5
+high-frequency data 5.1
+exchange rates 3.2
+intraday volatility 2.7
+realized volatility 2.4
+macroeconomic announcements 2.1
+euro-dollar exchange rate 1.9
+volatility spillovers 1.7
+volatility forecasting 1.6
+long-range dependence 1.5","exchange rate volatility
+high-frequency data
+exchange rates",87,4.46689056259309,22.7728586666084,8,6,"exchange rate volatility","#377EB880",1166
+3,"data quality 12.9
+tick data 3.4
+transaction data 1.8
+data governance 1.7
+financial institutions 1.7
+artificial intelligence 1.6
+regulatory compliance 1.5
+big data 1.5
+data cleaning 1.5
+fraud detection 1.4","data quality
+tick data
+transaction data",39,0.757422320279463,32.2302819897849,4,8,"data quality","#4DAF4A80",306
+4,"market efficiency 5.5
+transaction costs 4.6
+foreign exchange trading 4.5
+eur/usd 4.1
+intraday trading 3.8
+currency pairs 3.2
+exchange rate forecasting 3
+trading strategies 2.5
+technical analysis 2.2
+algorithmic trading 1.9","market efficiency
+transaction costs
+foreign exchange trading",27,2.35390376103258,16.3597401113981,6,1,"market efficiency","#984EA380",348
+5,"stock returns 8.2
+survivorship bias 7.3
+day-of-the-week effect 5.6
+calendar anomalies 4
+look-ahead bias 3.7
+currency returns 2.7
+mean reversion 2.1
+data mining 2.1
+hedge funds 1.9
+mutual fund performance 1.9","stock returns
+survivorship bias
+day-of-the-week effect",18,1.26429787177726,17.0248173343411,5,2,"stock returns","#FF7F0080",197
+6,"bitcoin 15
+hedging 7.5
+cryptocurrency market 6.8
+cryptocurrency 4.5
+market integration 3.8
+capital flows 3.8
+intraday liquidity 3.8
+arbitrage 3
+cryptocurrency exchanges 3","bitcoin
+hedging
+cryptocurrency market",9,0.533714336345915,22.9166666666667,3,7,"bitcoin","#A6562880",68
+7,"diurnal variation 16.9
+seasonal variation 11.7
+stomatal conductance 7.4
+co2 exchange rate 5.3
+photosynthesis 5.3
+air exchange rate 4.3","diurnal variation
+seasonal variation
+stomatal conductance",6,0.0781385281385281,21.7455357142857,1,3,"diurnal variation","#F781BF80",48
+8,"efficient market hypothesis 16.8
+heavy-tailed distributions 13.1
+noise traders 11.2
+hurst exponent 9.4","efficient market hypothesis
+heavy-tailed distributions
+noise traders",4,0.394579239103049,21.9312169312169,2,5,"efficient market hypothesis","#99999980",27

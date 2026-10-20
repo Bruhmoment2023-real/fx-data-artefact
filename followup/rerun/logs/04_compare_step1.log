@@ -1,0 +1,13 @@
+AUDUSD.parquet shape (388751, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+EURGBP.parquet shape (388716, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+EURJPY.parquet shape (388695, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+EURUSD.parquet shape (388784, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+GBPJPY.parquet shape (388627, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+GBPUSD.parquet shape (388761, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+NZDUSD.parquet shape (388592, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+USDCAD.parquet shape (388530, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+USDCHF.parquet shape (388739, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+USDJPY.parquet shape (388685, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+XAGUSD.parquet shape (373210, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+XAUUSD.parquet shape (374533, 13) maxabsdiff 0 nonnum_equal True nan_pattern_same True
+ALL IDENTICAL

@@ -1,0 +1,21 @@
+"name","group","label","slice","color","id","sum","freq"
+"currency futures","1974-2008","currency futures--1974-2008","1","#FF7F0080",0,0.0179372197309417,58
+"diurnal variation","1974-2008","diurnal variation--1974-2008","1","#A6562880",1,0.0179372197309417,58
+"exchange rate volatility","1974-2008","exchange rate volatility--1974-2008","1","#E41A1C80",2,0.165919282511211,178
+"foreign exchange market","1974-2008","foreign exchange market--1974-2008","1","#377EB880",3,0.318385650224215,481
+"high-frequency data","1974-2008","high-frequency data--1974-2008","1","#4DAF4A80",4,0.260089686098655,254
+"market efficiency","1974-2008","market efficiency--1974-2008","1","#F781BF80",5,0.100896860986547,187
+"survivorship bias","1974-2008","survivorship bias--1974-2008","1","#66C2A580",6,0.0986547085201794,139
+"volatility","1974-2008","volatility--1974-2008","1","#FC8D6280",7,0.0201793721973094,44
+"bid-ask spread","2009-2018","bid-ask spread--2009-2018","2","#8DA0CB80",8,0.0852017937219731,76
+"data quality","2009-2018","data quality--2009-2018","2","#984EA380",9,0.0986547085201794,182
+"foreign exchange market","2009-2018","foreign exchange market--2009-2018","2","#377EB880",10,0.179372197309417,183
+"high-frequency data","2009-2018","high-frequency data--2009-2018","2","#4DAF4A80",11,0.260089686098655,341
+"liquidity","2009-2018","liquidity--2009-2018","2","#E78AC380",12,0.0538116591928251,111
+"order flow","2009-2018","order flow--2009-2018","2","#A6D85480",13,0.318385650224215,358
+"asset pricing models","2009-2018","asset pricing models--2009-2018","2","#FFD92F80",14,0.00448430493273543,10
+"exchange rate volatility","2019-2026","exchange rate volatility--2019-2026","3","#E41A1C80",15,0.420233463035019,220
+"foreign exchange market","2019-2026","foreign exchange market--2019-2026","3","#377EB880",16,0.311284046692607,379
+"data quality","2019-2026","data quality--2019-2026","3","#984EA380",17,0.116731517509728,231
+"daylight saving time","2019-2026","daylight saving time--2019-2026","3","#A6CEE380",18,0.0194552529182879,15
+"foreign exchange trading","2019-2026","foreign exchange trading--2019-2026","3","#1F78B480",19,0.132295719844358,126

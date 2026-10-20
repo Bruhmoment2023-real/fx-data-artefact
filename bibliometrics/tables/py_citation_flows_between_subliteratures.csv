@@ -1,0 +1,5 @@
+,a_intraday_seasonality,b_fx_microstructure,c_data_quality,seed
+a_intraday_seasonality,807,468,10,4
+b_fx_microstructure,331,1223,8,2
+c_data_quality,18,18,54,10
+seed,0,1,1,1

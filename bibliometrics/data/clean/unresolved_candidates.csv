@@ -1,0 +1,116 @@
+﻿key,title,first_author,year,dbs,eric,sublits_q
+doi:10.1016/0378-4266(95,,,,seed,,seed
+doi:10.1016/s0927-5398(97,,,,seed,,seed
+doi:10.48550/arxiv.2507.04009,Easy Dataset: A Unified and Extensible Framework for Synthesizing LLM Fine-Tuning Data from Unstructured Documents,Miao,2025.0,s2,,c_data_quality
+doi:10.48550/arxiv.2610.21007,Mind the Tail: Data Selection Through Sparse Concepts,Zhang,2026.0,s2,,c_data_quality
+doi:10.48550/arxiv.2610.21633,ContextLift: Breaking the Spurious Correlation Behind Conditional Emergent Misalignment,Mai,2026.0,s2,,c_data_quality
+doi:10.48550/arxiv.2610.21846,Where Backtests and Live Trading Part Ways: Six Defects from One Intraday System,Vidovich,2026.0,s2,,c_data_quality
+doi:10.5089/9781451853889.001.a001,An Intraday Pricing Model of Foreign Exchange Markets,Romeu,2003.0,s2,,a_intraday_seasonality;b_fx_microstructure
+doi:10.6545/jfs.2013.21(3).1,Macroeconomic Announcements and Information Asymmetry in the Foreign Exchange Market,Chen,2013.0,s2,,b_fx_microstructure
+mag:1521217652,Can a habit formation model really explain the forward premium anomaly,Costa,2009.0,s2,,a_intraday_seasonality
+mag:1534028755,The view holder approach: utilizing customized materialized views to create database services suitable for mobile database applications,Chrysanthis,2001.0,s2,,a_intraday_seasonality
+mag:1564276498,Interdependence and Dynamics in Currency Futures Markets: A Multivariate Cointegration Analysis of Intra-Day Data,Elyasiani,1999.0,s2,,a_intraday_seasonality
+mag:15915446,The Effect of Size and Turnover Volume on Cross-Autocorrelation of Equity Returns,Tavakkol,2004.0,s2,,c_data_quality
+mag:2181666422,An empirical evaluation of risk management : Comparison study of volatility models,Fallman,2011.0,s2,,a_intraday_seasonality
+mag:2181773615,Distribution and Dynamics of Central-European Exchange Rates: Evidence from Intraday Data *,Panthéon-Sorbonne,2009.0,s2,,a_intraday_seasonality
+mag:2182285613,High-Frequency Bayesian Modeling and Analysis of Stochastic Volatility in Finance,Hang,2011.0,s2,,a_intraday_seasonality
+mag:2185484347,"The effects of intraday foreign exchange market operations in Latin America: results for Chile,",Julio,2014.0,s2,,a_intraday_seasonality
+mag:2186727098,Biases in Decomposing Holding-Period,Liu,2006.0,s2,,c_data_quality
+mag:2188090398,Commodity Prices and Currency Rates: An Intraday Analysis,Tse,2011.0,s2,,a_intraday_seasonality
+mag:2188291694,"Conditional Mean Jumps, Intraday Periodicity and Long Memory Volatility in High Frequency European Foreign Exchange Rates: Application of a FIGARCH model with a Bernoulli Jump Process",Han,2003.0,s2,,a_intraday_seasonality
+mag:2320402117,Chain-Structures in Xetra Order Data,Loistl,2008.0,s2,,c_data_quality
+mag:2326625517,"Performance, persistence and survivorship bias of Canadian equity funds 2001-2005",Zhang,2006.0,s2,,c_data_quality
+mag:2388812360,DIURNAL CO_2 EXCHANGE RATES OF THE AQUATIC CRASSULACEAN ACID METABOLISM PLANT ISOETES SINENSIS PALMER AT DIFFERENT ALKALINITIES,Shu,2009.0,s2,,a_intraday_seasonality
+mag:2465906562,"Stock returns, inflation, and real activity in",Cozier,2016.0,s2,,c_data_quality
+mag:2470156359,Secure digital archiving of high-value data : Security,Wright,2001.0,s2,,c_data_quality
+mag:2526896321,Intraday Spreads and Institutional Trading in the Foreign Exchange Market,Sherman,2010.0,s2,,b_fx_microstructure
+mag:2528250866,The Feasibility Study of the Implementation Activity-Based Costing by Fuzzy Logic Approach in the Production of Medicinal Products: A Case Study of Pharmaceutical Companies,Kargaran,2015.0,s2,,c_data_quality
+mag:2613379701,Determining Optimal Firm and Consumer Research and Development Spending in the Medical Technology Sector,Shah,2010.0,s2,,c_data_quality
+mag:2621301721,"Study of the Relationship between the Mean Cost of Products According to Traditional Costing Model, Activity-based Costing Model and Fuzzy Activity-based Costing Model in Healthful Products’ Production Line",Kargaran,2015.0,s2,,c_data_quality
+mag:2758035498,Response for spurious timeout,웬위,2005.0,s2,,c_data_quality
+mag:2758731255,Real-time communication control and storage method of high-frame-frequency mass data,Yu,2010.0,s2,,c_data_quality
+mag:2885530685,Manipulation of the FX market: Are there structural breaks in the volatility of the 4pm fix?,Linden,2018.0,s2,,b_fx_microstructure
+mag:2945357233,The Impact of Globalization on the World Economy in theGlobal Market and Production,Okoro,2017.0,s2,,c_data_quality
+mag:2968193515,"Momentum Investment Strategies of Mutual Funds , Performance Persistence , and Survivorship Bias",Wermers,1997.0,s2,,c_data_quality
+mag:2993982706,Performance and Trading Characteristics of iShares: An Evaluation,Rompotis,2009.0,s2,,a_intraday_seasonality;b_fx_microstructure
+mag:3043416564,The dynamics of linkages between European currencies: How does it change according to the time of day?,Doman,2017.0,s2,,a_intraday_seasonality
+mag:560469400,The puzzling decline in financial market liquidity,Persaud,2001.0,s2,,b_fx_microstructure
+mag:639416,Covariance and Correlation in International Equity Returns: A Value-at-Risk Approach,Pownall,2000.0,s2,,c_data_quality
+mag:656340711,Derivative and foreign exchange markets,Madura,2004.0,s2,,a_intraday_seasonality;b_fx_microstructure
+mag:927427663,Eloquence is The Key – the Impact of Monetary Policy Speeches on Exchange Rate Volatility,Călin,2015.0,s2,,a_intraday_seasonality
+title:1 p 9 7 automatic quality control of airborne doppler radar data,1 P 9 . 7 AUTOMATIC QUALITY CONTROL OF AIRBORNE DOPPLER RADAR DATA,Wolff,2009.0,s2,,c_data_quality
+title:a classic case of data snooping for classroom discussion,"A Classic Case of "" Data Snooping "" for Classroom Discussion",Falcon,2000.0,s2,,c_data_quality
+title:a model for daily global stock market returns,A Model for Daily Global Stock Market Returns ∗,Linton,2022.0,s2,,c_data_quality
+title:a new hybrid model for intraday spot foreign exchange trading accounting for heavy tails and volatility clustering,A New Hybrid Model for Intraday Spot Foreign Exchange Trading Accounting for Heavy Tails and Volatility Clustering,Serbinenko,2009.0,s2,,a_intraday_seasonality;b_fx_microstructure
+title:a survey on personal data cloud jiaqiuwang and,A Survey on Personal Data Cloud JiaqiuWang and,Wang,2015.0,s2,,c_data_quality
+title:accounting data structure dependent control flow inference for process mining in financial audits,Accounting Data Structure Dependent Control Flow Inference for Process Mining in Financial Audits,,2017.0,s2,,c_data_quality
+title:an efficient algorithm for outlier detection in high dimensional real databases,An Efficient Algorithm for Outlier Detection in High Dimensional Real Databases,Teixeira,2008.0,s2,,c_data_quality
+title:an investment based factor model an empirical assessment of a neoclassical asset pricing model s relative pricing ability on swedish stock return data,An Investment-Based Factor Model-An Empirical Assessment of a Neoclassical Asset Pricing Model ’ s Relative Pricing Ability on Swedish Stock Return Data,Lodin,2011.0,s2,,c_data_quality
+title:analysis the effect of macro economic and financial performance on stock returns on the indonesia stock exchange evidence from selected stocks in the mining sector,Analysis the Effect of Macro-Economic and Financial Performance on Stock Returns on the Indonesia Stock Exchange: Evidence from Selected Stocks in the Mining Sector,Kusnadi,2018.0,s2,,a_intraday_seasonality
+title:anking reform and the transition to a market economy in bulgaria problems and prospects,anking Reform and the Transition to a Market Economy in Bulgaria : Problems and Prospects,Hunter,2014.0,s2,,a_intraday_seasonality;b_fx_microstructure
+title:are global labor markets truly flat,Are Global Labor Markets Truly “ Flat ” ?,,2013.0,s2,,c_data_quality
+title:atm service quality and customer satisfaction a study of first bank of nigeria plc and union bank of nigeria plc,ATM Service Quality and Customer Satisfaction : A Study of First Bank of Nigeria Plc and Union Bank of Nigeria Plc,Ikechi,2018.0,s2,,b_fx_microstructure
+title:author s personal copy private information and its origins in an electronic foreign exchange market,Author ' s personal copy Private information and its origins in an electronic foreign exchange market,Gencay,2013.0,s2,,b_fx_microstructure
+title:bayesian analysis of stochastic volatility model and quantile regression using asymmetric laplace error via uniform scale mixtures,Bayesian analysis of stochastic volatility model and quantile regression using asymmetric Laplace error via uniform scale-mixtures,Choy,2013.0,s2,,a_intraday_seasonality
+title:capturing stylized facts of stock market volatility and higher order cumulant function,Capturing Stylized Facts of Stock Market Volatility and Higher Order Cumulant Function,Dudukovic,2013.0,s2,,a_intraday_seasonality
+title:christian daude joint with ernesto stein longitude matters time zones the location of fdi and trade,"Christian Daude , joint with Ernesto Stein Longitude Matters : Time Zones , the Location of FDI , and Trade",Bank,2001.0,s2,,c_data_quality
+title:cluster analysis of liquidity measures in a stock market using high frequency data,CLUSTER ANALYSIS OF LIQUIDITY MEASURES IN A STOCK MARKET USING HIGH FREQUENCY DATA,Salighehdar,2017.0,s2,,c_data_quality
+title:computational modeling and design of financial markets towards manipulation resistant and expressive markets,Computational Modeling and Design of Financial Markets: Towards Manipulation-Resistant and Expressive Markets,Wang,2021.0,s2,,c_data_quality
+title:cost and energy aware load distribution across data centers,Cost-and Energy-Aware Load Distribution Across Data Centers,Le,2009.0,s2,,c_data_quality
+title:demo abstract route selection of mobile sensors for air quality monitoring,Demo Abstract : Route Selection of Mobile Sensors for Air Quality Monitoring,Saukh,2011.0,s2,,c_data_quality
+title:document de travail du lem 2009 17 interbank offered rate effects of the financial crisis on the information content of the fixing,Document de travail du LEM 2009-17 INTERBANK OFFERED RATE : EFFECTS OF THE FINANCIAL CRISIS ON THE INFORMATION CONTENT OF THE FIXING,Brousseau,2009.0,s2,,a_intraday_seasonality
+title:empirical characteristics of a short term interest rate model with mean reversion and volatility driven by a markov chain,Empirical Characteristics of a Short-Term Interest Rate Model with Mean-Reversion and Volatility driven by a Markov Chain,Peiris,2004.0,s2,,c_data_quality
+title:essays on spurious long memory time series,Essays on Spurious Long Memory Time Series,Wirtschaftswissenschaftlichen,2018.0,s2,,c_data_quality
+title:excerpts on causality order flow to exchange rate changes,Excerpts on Causality : Order Flow To Exchange Rate Changes,Lyons,2002.0,s2,,b_fx_microstructure
+title:exchange rate volatility forecasting a multivariate realized garch approach,Exchange Rate Volatility Forecasting : a Multivariate Realized-GARCH Approach,Balter,2015.0,s2,,a_intraday_seasonality
+title:firm heterogeneity and investor inattention on friday december,Firm Heterogeneity and Investor Inattention on Friday December,,2013.0,s2,,c_data_quality
+title:fixing the astrolabe global factors and inflation models,Fixing the Astrolabe: Global Factors and Inflation Models,Forbes,2018.0,s2,,a_intraday_seasonality
+title:funding acknowledgements for the german research foundation dfg the dirty data of the web of science database and how to clean it up,FUNDING ACKNOWLEDGEMENTS FOR THE GERMAN RESEARCH FOUNDATION (DFG). THE DIRTY DATA OF THE WEB OF SCIENCE DATABASE AND HOW TO CLEAN IT UP,Sirtes,2013.0,s2,,c_data_quality
+title:high frequency bayesian modeling and analysis of stochastic volatility in finance,High-Frequency Bayesian Modeling and Analysis of Stochastic Volatility in Finance,Carolina,2011.0,s2,,a_intraday_seasonality
+title:hydrology and earth system sciences investigating riparian groundwater flow close to a losing river using diurnal temperature oscillations at high vertical resolution,Hydrology and Earth System Sciences Investigating riparian groundwater flow close to a losing river using diurnal temperature oscillations at high vertical resolution,Vogt,2012.0,s2,,a_intraday_seasonality
+title:improved accuracy of forex intraday trend prediction through text mining of news headlines using j48,Improved Accuracy of FOREX Intraday Trend Prediction through Text Mining of News Headlines using J48,Vijayan,2016.0,s2,,a_intraday_seasonality
+title:information content and predictability of extreme prices in financial markets,Information Content and Predictability of Extreme Prices in Financial Markets∗,Ranaldo,2006.0,s2,,b_fx_microstructure
+title:international transmission of option volatility and skewness when you re smiling does the whole world smile,"International Transmission of Option Volatility and Skewness : When you ’ re smiling , does the whole world smile ?",Gemmill,2000.0,s2,,c_data_quality
+title:investing in software testing the risks to system quality,Investing in Software Testing: The Risks to System Quality,,2002.0,s2,,c_data_quality
+title:investor sentiments and uncertainty on the market for fine wine,Investor sentiments and uncertainty on the market for fine wine,Masset,2013.0,s2,,c_data_quality
+title:is private school premium spurious the role of private schools in the philippines,Is Private School Premium Spurious? The Role of Private Schools in the Philippines,Yamauchi,2002.0,s2,,c_data_quality
+title:is the fama and french model a good indicator of market sectoral performance study of the relationship between excess industry returns and the fama and french three factor model,Is the Fama and French model a good indicator of market sectoral performance ? : Study of the relationship between excess industry returns and the Fama and French three factor model,Kapur,2013.0,s2,,c_data_quality
+title:light up your fx markets why,Light Up Your FX Markets Why,Singleton,2017.0,s2,,c_data_quality
+title:managing globally managing a diverse global environment is critical today how you,"Managing Globally Managing a diverse , global environment is critical today — how you",Nilsen,2005.0,s2,,c_data_quality
+title:market microstructure quantitative trading high frequency and large data,"Market Microstructure, Quantitative Trading, High Frequency and Large Data",Stevanovich,2022.0,s2,,b_fx_microstructure
+title:measurement of liquidity risk in the context of market risk calculation by,Measurement of liquidity risk in the context of market risk calculation by,Muranaga,1997.0,s2,,a_intraday_seasonality;b_fx_microstructure
+title:measuring markups with production data,Measuring Markups with Production Data,Flynn,2019.0,s2,,c_data_quality
+title:multi ping integration of high frequency sector scan sonar,MULTI-PING INTEGRATION OF HIGH FREQUENCY SECTOR SCAN SONAR,Lo,2002.0,s2,,c_data_quality
+title:multi scaling properties of asset returns an assessment of the power of the scaling estimator,Multi-Scaling Properties of Asset Returns : An Assessment of the Power of the ‘ Scaling Estimator ’,Lux,2003.0,s2,,c_data_quality
+title:nature turbulent cascades in foreign exchange markets,Nature Turbulent Cascades in Foreign Exchange Markets,Ghashghaie,2006.0,s2,,b_fx_microstructure
+title:negligible trends spurious linearity,"“ Negligible ” Trends , Spurious Linearity",Bobenrieth,2017.0,s2,,c_data_quality
+title:palb 2 chek 2 and atm rare variants and cancer risk data from cogs,"PALB 2 , CHEK 2 and ATM rare variants and cancer risk : data from COGS",Southey,2016.0,s2,,c_data_quality
+title:performance issues concerning storage of time variant data,Performance Issues Concerning Storage of Time-Variant Data,Petković,2015.0,s2,,c_data_quality
+title:predicting intraday price movements in the foreign exchange market,Predicting Intraday Price Movements in the Foreign Exchange Market,Brown,2011.0,s2,,a_intraday_seasonality
+title:price discovery over time an application to the bitcoin market,Price discovery over time: an application to the Bitcoin market,Dias,2020.0,s2,,c_data_quality
+title:return predictability revisited using weighted least squares,Return Predictability Revisited Using Weighted Least Squares,Johnson,2017.0,s2,,c_data_quality
+title:risk and return spillovers in a global model of the foreign exchange network,Risk and Return Spillovers in a Global Model of the Foreign Exchange Network,Greenwood-Nimmo,2021.0,s2,,b_fx_microstructure
+title:risk factors and predictability of stock returns in central and eastern europe,Risk Factors and Predictability of Stock Returns in Central and Eastern Europe,Pajuste,2000.0,s2,,c_data_quality
+title:russias coronavirus cases double in two days as ukraine reports first death,"Russia’s coronavirus cases double in two days, as Ukraine reports first death",,2020.0,s2,,b_fx_microstructure
+title:social returns to human capital and the spatial distribution of productivity amongst british firms,Social Returns to Human Capital and the Spatial Distribution of Productivity amongst British Firms,Galindo-Rueda,2004.0,s2,,c_data_quality
+title:sparkmed framework for heterogeneous system based multimedia medical data integration,Sparkmed Framework For Heterogeneous System Based Multimedia Medical Data Integration,Praveenkumar,2016.0,s2,,c_data_quality
+title:spurious factors in linear asset pricing models,Spurious Factors in Linear Asset Pricing Models,Bryzgalova,2015.0,s2,,c_data_quality
+title:structure depreciation and returns to scale of real estate,Structure Depreciation and Returns to Scale of Real Estate ∗,Yoshida,2016.0,s2,,c_data_quality
+title:swingtum a computational theory of fractal dynamic swings and physical cycles of stock market in a quantum price time space,Swingtum – A Computational Theory of Fractal Dynamic Swings and Physical Cycles of Stock Market in A Quantum Price-Time Space,Pan,2003.0,s2,,c_data_quality
+title:the information content of performance track records investment style and survivorship bias in the historical returns of commodity trading advisors by,The Information Content of Performance Track Records : Investment Style and Survivorship Bias in the Historical Returns of Commodity Trading Advisors by,Fung,1999.0,s2,,c_data_quality
+title:the paradox fallacy an analysis of the risk return binomial in the brazilian capital market,The Paradox Fallacy: An Analysis of the Risk-Return Binomial in the Brazilian Capital Market,Marques,2021.0,s2,,c_data_quality
+title:the self organizing maps for seasonality adjustment som application to the euro dollar foreign exchange volatility and quoting activity,The Self-Organizing Maps for Seasonality Adjustment ( SOM ) : Application to The Euro / Dollar Foreign Exchange Volatility and Quoting Activity,Omrane,2004.0,s2,,a_intraday_seasonality
+title:the university of reading a new tool for detecting intraday periodicities with application to high frequency exchange rates,The University of Reading A New Tool for Detecting Intraday Periodicities with Application to High Frequency Exchange Rates,Brooks,2001.0,s2,,a_intraday_seasonality;b_fx_microstructure
+title:the wmr fix and its impact on currency markets,The WMR Fix and its Impact on Currency Markets,Marsh,2017.0,s2,,a_intraday_seasonality;b_fx_microstructure
+title:tilburg university price discovery in fragmented markets,Tilburg University Price discovery in fragmented markets,Jong,2009.0,s2,,b_fx_microstructure
+title:tilburg university survival lookahead bias and the persistence in hedge fund performance,"Tilburg University Survival , LookAhead Bias and the Persistence in Hedge Fund Performance",Baquero,2002.0,s2,,c_data_quality
+title:unsmoothing returns of illiquid assets,Unsmoothing Returns of Illiquid Assets,Couts,2019.0,s2,,c_data_quality
+title:using sas for cointegration and error correction mechanism approaches estimating a capital asset pricing model capm for house price index returns,Using SAS ® for Cointegration and Error Correction Mechanism Approaches : Estimating a Capital Asset Pricing Model ( CAPM ) for House Price Index Returns,,2005.0,s2,,c_data_quality
+title:using temporal aggregation to distinguish between true and spurious long memory,Using Temporal Aggregation to Distinguish between True and Spurious Long Memory,Ohanissian,2001.0,s2,,c_data_quality
+title:variables explaining the price of gold mining stocks,VARIABLES EXPLAINING THE PRICE OF GOLD MINING STOCKS,Moss,2012.0,s2,,a_intraday_seasonality
+title:volatility spillovers and time zone effect new evidence from emerging markets across three different time zones,Volatility Spillovers and Time-zone Effect: New Evidence from Emerging Markets Across Three Different Time Zones,Chowdhury,2016.0,s2,,c_data_quality
+title:will the data markets necessarily fail a position paper,Will the data markets necessarily fail? A position paper,Nikander,2019.0,s2,,a_intraday_seasonality
+title:working paper number 51 emerging stock market liberalisation total returns and real effects some sensitivity analyses,"Working Paper Number 51 Emerging Stock Market Liberalisation , Total Returns , and Real Effects : Some Sensitivity Analyses",Durham,2000.0,s2,,c_data_quality
+title:working paper series constant returns and small markups in u s manufacturing,Working Paper Series Constant Returns and Small Markups in U . S . Manufacturing,Basu,2013.0,s2,,c_data_quality
+title:working paper series fast trading and the virtue of entropy evidence from the foreign exchange market,Working Paper Series Fast trading and the virtue of entropy : evidence from the foreign exchange market,Corsetti,2016.0,s2,,a_intraday_seasonality
+title:wp 03 115 revised 11 13 06 an intraday pricing model of foreign exchange markets,WP / 03 / 115 Revised : 11 / 13 / 06 An Intraday Pricing Model of Foreign Exchange Markets,Romeu,2003.0,s2,,b_fx_microstructure

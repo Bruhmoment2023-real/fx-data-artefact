@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "A rollover artefact and a clock error in free forex minute data: how histdata.com bars manufacture a time-of-day edge"
+type: software
+authors:
+  - family-names: "Solano Paul"
+    given-names: "Sean"
+    affiliation: "Independent researcher"
+license: MIT
+date-released: "2026-10-20"
+abstract: "Code, derived results and documentation for a study of a rollover artefact and a timestamp error in free histdata.com forex minute data."
+repository-code: "https://github.com/Bruhmoment2023-real/fx-data-artefact"

@@ -1,0 +1,556 @@
+id	label	description	url	cluster	weight<Local citations>	weight<Global citations>	score<Pub. year>
+1	ding (1999)	The determinants of bid-ask spreads in the foreign exchange futures market: A microstructure analysis	https://doi.org/10.1002/(sici)1096-9934(199905)19:3<307::aid-fut4>3.0.co;2-5	2	9	52	1999
+2	han (1999)	Foreign exchange futures volatility: Day-of-the-week, intraday, and maturity patterns in the presence of macroeconomic announcements	https://doi.org/10.1002/(sici)1096-9934(199909)19:6<665::aid-fut3>3.0.co;2-n	1	3	36	1999
+3	abbara (2018)	Modeling and forecasting intraday VaR of an exchange rate portfolio	https://doi.org/10.1002/for.2540	1	1	14	2018
+4	uzun (2023)	Jump forecasting in foreign exchange markets: A high‐frequency analysis	https://doi.org/10.1002/for.2951	2	0	6	2023
+5	wu (2025)	Component‐Driven FX Volatility Prediction: Evidence From USDCNH via GARCH‐MIDAS Models Exploiting Leading Indicators	https://doi.org/10.1002/for.70022	1	0	0	2025
+6	martens (2002)	Measuring and forecasting S&P 500 index‐futures volatility using high‐frequency data	https://doi.org/10.1002/fut.10016	1	2	237	2002
+7	poskitt (2002)	An intraday test of pricing and arbitrage opportunities in the New Zealand bank bill futures market	https://doi.org/10.1002/fut.10022	1	0	2	2002
+8	martínez (2008)	Intraday volatility in the bond, foreign exchange, and stock index futures markets	https://doi.org/10.1002/fut.20315	1	0	21	2008
+9	poskitt (2009)	Price discovery in electronic foreign exchange markets: The sterling/dollar market	https://doi.org/10.1002/fut.20433	2	1	19	2009
+10	cho (2012)	A Filtering Process to Remove the Stochastic Component from Intraday Seasonal Volatility	https://doi.org/10.1002/fut.21585	1	0	1	2012
+11	craln (1995)	Intraday volatility in interest rate and foreign exchange spot and futures markets	https://doi.org/10.1002/fut.3990150403	1	3	49	1995
+12	frömmel (2010)	Macroeconomic announcements, communication and order flow on the Hungarian foreign exchange market	https://doi.org/10.1002/ijfe.424	2	3	19	2010
+13	forsberg (2002)	Bridging the gap between the distribution of realized (ECU) volatility and ARCH modelling (of the Euro): the GARCH‐NIG model	https://doi.org/10.1002/jae.685	1	0	133	2002
+14	ferson (2010)	Spurious Regression and Data Mining in Conditional Asset Pricing Models	https://doi.org/10.1007/978-0-387-77117-5_69	3	1	4	2010
+15	garcke (2012)	Intraday Foreign Exchange Rate Forecasting Using Sparse Grids	https://doi.org/10.1007/978-3-642-31703-3_4	1	0	11	2012
+16	chu (1996)	Bid-ask bounce and speads in the foreign exchange futures market	https://doi.org/10.1007/bf00290794	2	1	20	1996
+17	laux (1994)	Estimating the bid-ask spread in a heteroskedastic market: The case of foreign currency futures	https://doi.org/10.1007/bf01076997	2	1	5	1994
+18	smaby (1995)	An examination of the intraday behavior of the yen/dollar exchange rate: The relationship between trading activity and returns volatility	https://doi.org/10.1007/bf02920213	1	1	3	1995
+19	a (2015)	Informed traders’ arrival in foreign exchange markets: Does geography matter?	https://doi.org/10.1007/s00181-015-0917-z	2	1	8	2015
+20	assaf (2021)	True or spurious long memory in the cryptocurrency markets: evidence from a multivariate test and other Whittle estimation methods	https://doi.org/10.1007/s00181-021-02165-6	3	0	9	2021
+21	goumatianos (2017)	An algorithmic framework for frequent intraday pattern recognition and exploitation in forex market	https://doi.org/10.1007/s10115-017-1052-2	1	0	10	2017
+22	shmilovici (2008)	Measuring the Efficiency of the Intraday Forex Market with a Universal Data Compression Algorithm	https://doi.org/10.1007/s10614-008-9153-3	1	2	29	2008
+23	maghyereh (2026)	Dynamic Interactions in Futures Markets: Exploring Transitory and Persistent Intraday Volatility Linkages among Oil, Gold, Stocks, and Forex Markets	https://doi.org/10.1007/s10614-025-11249-9	1	0	0	2026
+24	papaioannou (2013)	Can social microblogging be used to forecast intraday exchange rates?	https://doi.org/10.1007/s11066-013-9079-3	1	0	27	2013
+25	brauneis (2024)	The crypto world trades at tea time: intraday evidence from centralized exchanges across the globe	https://doi.org/10.1007/s11156-024-01304-1	1	0	12	2024
+26	piccotti (2025)	A multiscale estimator for pricing error decomposition in high-frequency financial markets	https://doi.org/10.1007/s11156-025-01417-1	2	0	1	2025
+27	papadamou (2014)	Investigating Intraday Interdependence Between Gold, Silver and Three Major Currencies: the Euro, British Pound and Japanese Yen	https://doi.org/10.1007/s11294-014-9490-z	1	0	14	2014
+28	caporale (2020)	Momentum effects in the cryptocurrency market after one-day abnormal returns	https://doi.org/10.1007/s11408-020-00357-1	1	0	33	2020
+29	cartea (2018)	Foreign exchange markets with Last Look	https://doi.org/10.1007/s11579-018-0218-3	2	1	13	2018
+30	filho (2021)	The Leverage Effect and Other Stylized Facts Displayed by Bitcoin Returns	https://doi.org/10.1007/s13538-020-00846-8	1	0	11	2021
+31	baklaci (2022)	Cross-time-frequency analysis of volatility linkages in global currency markets: an extended framework	https://doi.org/10.1007/s40822-022-00209-5	1	0	7	2022
+32	mpanda (2026)	Dedollarisation in the BRICS+ currency bloc: a market-based analysis of return and volatility connectedness	https://doi.org/10.1007/s40822-026-00372-z	1	0	2	2026
+33	takezawa (1995)	A note on intraday foreign exchange volatility and the informational role of quote arrivals	https://doi.org/10.1016/0165-1765(94)00626-d	1	1	8	1995
+34	laux (1993)	The sources of GARCH: empirical evidence from an intraday returns model incorporating systematic and unique risks	https://doi.org/10.1016/0261-5606(93)90039-e	1	7	51	1993
+35	flood (1993)	Fixing Exchange Rates: A Virtual Quest for Fundamentals	https://doi.org/10.1016/0304-3932(95)01210-4	1	9	613	1993
+36	müller (1990)	Statistical study of foreign exchange rates, empirical evidence of a price change scaling law, and intraday analysis	https://doi.org/10.1016/0378-4266(90)90009-q	1	44	482	1990
+37	hilliard (1992)	A note on weekday, intraday, and overnight patterns in the interbank foreign exchange and listed currency options markets	https://doi.org/10.1016/0378-4266(92)90064-7	1	6	23	1992
+38	cornett (1995)	Seasonalities and intraday return patterns in the foreign currency futures market	https://doi.org/10.1016/0378-4266(95)00084-t	1	20	64	1995
+39	esmaeilzadeh (2024)	Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations	https://doi.org/10.1016/j.artmed.2024.102861	3	1	377	2024
+40	hashimoto (2005)	The impact of the Japanese banking crisis on the intraday FX market in late 1997	https://doi.org/10.1016/j.asieco.2005.02.006	1	1	9	2005
+41	peng (2021)	Data selection to avoid overfitting for foreign exchange intraday trading with machine learning	https://doi.org/10.1016/j.asoc.2021.107461	1	0	29	2021
+42	brownlees (2006)	Financial econometric analysis at ultra-high frequency: Data handling concerns	https://doi.org/10.1016/j.csda.2006.09.030	3	12	291	2006
+43	nower (2024)	Losing sleep at the international market: Daylight Saving Time and exchange rates	https://doi.org/10.1016/j.econlet.2024.111813	3	0	0	2024
+44	a (2013)	Private information and its origins in an electronic foreign exchange market	https://doi.org/10.1016/j.econmod.2013.03.007	2	2	23	2013
+45	ouadghiri (2016)	Jumps in equilibrium prices and asymmetric news in foreign exchange markets	https://doi.org/10.1016/j.econmod.2015.12.025	2	2	13	2016
+46	jawadi (2016)	On oil-US exchange rate volatility relationships: An intraday analysis	https://doi.org/10.1016/j.econmod.2016.07.014	1	6	72	2016
+47	a (2018)	Intraday effect of news on emerging European forex markets: An event study analysis	https://doi.org/10.1016/j.ecosys.2018.05.003	1	5	35	2018
+48	khademalomoom (2020)	Intraday-of-the-week effects: What do the exchange rate data tell us?	https://doi.org/10.1016/j.ememar.2020.100681	1	0	7	2020
+49	ayadi (2024)	Macroeconomic news, senior officials' speeches, and emerging currency markets: An intraday analysis of price jump reaction	https://doi.org/10.1016/j.ememar.2024.101147	1	1	6	2024
+50	alam (2019)	Causal flows between oil and forex markets using high-frequency data: Asymmetries from good and bad volatility	https://doi.org/10.1016/j.eneco.2019.104513	1	2	52	2019
+51	ahmad (2020)	On the intraday dynamics of oil price and exchange rate: What can we learn from China and India?	https://doi.org/10.1016/j.eneco.2020.104871	1	3	33	2020
+52	yang (2021)	Global financial uncertainties and China’s crude oil futures market: Evidence from interday and intraday price dynamics	https://doi.org/10.1016/j.eneco.2021.105149	1	1	65	2021
+53	liu (2021)	Capturing the dynamics of the China crude oil futures: Markov switching, co-movement, and volatility forecasting	https://doi.org/10.1016/j.eneco.2021.105622	1	0	141	2021
+54	pasquariello (2006)	Informative trading or just costly noise? An analysis of Central Bank interventions	https://doi.org/10.1016/j.finmar.2006.11.001	2	6	57	2006
+55	elaut (2016)	Intraday momentum in FX markets: Disentangling informed trading from liquidity provision	https://doi.org/10.1016/j.finmar.2016.09.002	1	4	49	2016
+56	kenourgios (2015)	Intraday exchange rate volatility transmissions across QE announcements	https://doi.org/10.1016/j.frl.2015.05.007	1	2	50	2015
+57	frömmel (2016)	Does frequency matter for intraday technical trading?	https://doi.org/10.1016/j.frl.2016.04.014	1	0	18	2016
+58	zhang (2018)	Intraday patterns in foreign exchange returns and realized volatility	https://doi.org/10.1016/j.frl.2018.02.017	1	2	6	2018
+59	şensoy (2018)	The inefficiency of Bitcoin revisited: A high-frequency analysis with alternative currencies	https://doi.org/10.1016/j.frl.2018.04.002	2	4	258	2018
+60	lyócsa (2022)	Russia’s ruble during the onset of the Russian invasion of Ukraine in early 2022: The role of implied volatility and attention	https://doi.org/10.1016/j.frl.2022.102995	1	0	67	2022
+61	dicle (2019)	Historic risk and implied volatility	https://doi.org/10.1016/j.gfj.2019.100475	1	0	4	2019
+62	chortareas (2011)	Forecasting exchange rate volatility using high-frequency data: Is the euro different?	https://doi.org/10.1016/j.ijforecast.2010.07.003	1	3	80	2011
+63	hallam (2014)	Forecasting daily return densities from intraday data: A multifractal approach	https://doi.org/10.1016/j.ijforecast.2014.01.007	1	1	10	2014
+64	cho (2020)	On the predictability of the distribution of excess returns in currency markets	https://doi.org/10.1016/j.ijforecast.2020.07.003	2	0	2	2020
+65	kim (2006)	Intraday evidence of efficacy of 1991–2004 Yen intervention by the Bank of Japan	https://doi.org/10.1016/j.intfin.2006.01.001	1	2	21	2006
+66	mcgroarty (2008)	The role of private information in return volatility, bid–ask spreads and price levels in the foreign exchange market	https://doi.org/10.1016/j.intfin.2008.04.001	1	9	37	2008
+67	savaşer (2010)	Exchange rate response to macronews: Through the lens of microstructure	https://doi.org/10.1016/j.intfin.2010.09.001	2	3	26	2010
+68	gavriilidis (2013)	Institutional industry herding: Intentional or spurious?	https://doi.org/10.1016/j.intfin.2013.05.008	3	1	103	2013
+69	khademalomoom (2018)	Intraday effects of the currency market	https://doi.org/10.1016/j.intfin.2018.09.008	1	9	25	2018
+70	kaourma (2025)	News and intraday retail investor order flow in foreign exchange markets	https://doi.org/10.1016/j.intfin.2025.102146	1	0	5	2025
+71	cotter (2009)	Intra-day seasonality in foreign exchange market transactions	https://doi.org/10.1016/j.iref.2009.08.003	1	0	6	2009
+72	seemann (2011)	Intraday volatility and scaling in high frequency foreign exchange markets	https://doi.org/10.1016/j.irfa.2011.02.008	1	4	19	2011
+73	daniel (2014)	The efficiency of the information processing in the Australian dollar market: Price discovery following scheduled and unscheduled news	https://doi.org/10.1016/j.irfa.2014.01.015	2	1	3	2014
+74	roodbar (2018)	Trading European Central Bank rumours on the EUR-USD exchange rate market	https://doi.org/10.1016/j.irfa.2018.11.001	1	0	1	2018
+75	urquhart (2018)	Is Bitcoin a Hedge or Safe-Haven for Currencies? An Intraday Analysis	https://doi.org/10.1016/j.irfa.2019.02.009	1	6	550	2018
+76	şensoy (2019)	Intraday volume-volatility nexus in the FX markets: Evidence from an emerging market	https://doi.org/10.1016/j.irfa.2019.04.001	1	2	17	2019
+77	guo (2020)	Is herding spurious or intentional? Evidence from analyst recommendation revisions and sentiment	https://doi.org/10.1016/j.irfa.2020.101539	3	0	27	2020
+78	wang (2020)	Does Bitcoin still own the dominant power? An intraday analysis	https://doi.org/10.1016/j.irfa.2020.101551	1	3	65	2020
+79	han (2007)	Intraday effects of macroeconomic shocks on the US Dollar–Euro exchange rates	https://doi.org/10.1016/j.japwor.2007.03.004	1	1	15	2007
+80	ranaldo (2009)	Segmentation and time-of-day patterns in foreign exchange markets	https://doi.org/10.1016/j.jbankfin.2009.05.019	1	15	42	2009
+81	bubák (2011)	Volatility transmission in emerging European foreign exchange markets	https://doi.org/10.1016/j.jbankfin.2011.03.012	1	10	337	2011
+82	dunis (2013)	Forecasting EUR–USD implied volatility: The case of intraday data	https://doi.org/10.1016/j.jbankfin.2013.08.028	1	3	19	2013
+83	piccotti (2017)	Jumps, cojumps, and efficiency in the spot foreign exchange market	https://doi.org/10.1016/j.jbankfin.2017.09.007	2	6	33	2017
+84	evans (2017)	Forex trading and the WMR Fix	https://doi.org/10.1016/j.jbankfin.2017.09.017	2	1	27	2017
+85	hong (2007)	Can the random walk model be beaten in out-of-sample density forecasts? Evidence from intraday foreign exchange rates	https://doi.org/10.1016/j.jeconom.2006.11.003	1	2	70	2007
+86	shintani (2012)	Spurious regressions in technical trading	https://doi.org/10.1016/j.jeconom.2012.01.019	3	0	13	2012
+87	sibbertsen (2017)	A multivariate test against spurious long memory	https://doi.org/10.1016/j.jeconom.2017.07.005	3	2	21	2017
+88	chorro (2020)	The contribution of intraday jumps to forecasting the density of returns	https://doi.org/10.1016/j.jedc.2020.103853	1	1	1	2020
+89	boudt (2010)	Robust estimation of intraweek periodicity in volatility and jump detection	https://doi.org/10.1016/j.jempfin.2010.11.005	1	21	188	2010
+90	ammann (2013)	Variance risk premiums in foreign exchange markets	https://doi.org/10.1016/j.jempfin.2013.04.006	2	0	9	2013
+91	bekiros (2014)	Heuristic learning in intraday trading under uncertainty	https://doi.org/10.1016/j.jempfin.2014.11.002	1	0	12	2014
+92	ho (2019)	Discussions on the spurious hyperbolic memory in the conditional variance and a new model	https://doi.org/10.1016/j.jempfin.2019.11.001	3	0	9	2019
+93	sy (2020)	Is the Presidential Premium Spurious	https://doi.org/10.1016/j.jempfin.2020.01.001	3	0	6	2020
+94	zhou (2026)	Measuring daily systemic risk with intraday data: Evidence from foreign exchange market	https://doi.org/10.1016/j.jempfin.2026.101693	1	0	1	2026
+95	michelberger (2016)	Foreign exchange market microstructure and the WM/Reuters 4 pm fix	https://doi.org/10.1016/j.jfds.2016.01.002	2	0	8	2016
+96	christensen (2014)	Fact or friction: Jumps at ultra high frequency	https://doi.org/10.1016/j.jfineco.2014.07.007	2	3	208	2014
+97	baltussen (2021)	Hedging demand and market intraday momentum	https://doi.org/10.1016/j.jfineco.2021.04.029	1	1	96	2021
+98	ranaldo (2022)	Liquidity in the global currency market	https://doi.org/10.1016/j.jfineco.2022.09.004	2	3	45	2022
+99	sager (2004)	The impact of European Central Bank Governing Council announcements on the foreign exchange market: a microstructural analysis	https://doi.org/10.1016/j.jimonfin.2004.08.002	2	8	42	2004
+100	dunne (2009)	International order flows: Explaining equity and exchange rate returns	https://doi.org/10.1016/j.jimonfin.2008.12.012	1	3	49	2009
+101	sun (2011)	Analysis of the intraday effects of economic releases on the currency market	https://doi.org/10.1016/j.jimonfin.2011.03.001	1	0	20	2011
+102	fatum (2012)	The intraday effects of central bank intervention on exchange rate spreads	https://doi.org/10.1016/j.jimonfin.2012.10.006	1	0	11	2012
+103	kleinbrod (2017)	Order Flow and Exchange Rate Co-Movement	https://doi.org/10.1016/j.jimonfin.2017.07.022	2	3	10	2017
+104	chuliá (2018)	Currency downside risk, liquidity, and financial stability	https://doi.org/10.1016/j.jimonfin.2018.09.009	2	1	26	2018
+105	rubaszek (2025)	Intraday volatility connectedness on the forex market: the role of uncertainty	https://doi.org/10.1016/j.jimonfin.2025.103398	1	1	10	2025
+106	melvin (2009)	Exchange rate management in emerging markets: Intervention via an electronic limit order book	https://doi.org/10.1016/j.jinteco.2009.06.008	2	3	80	2009
+107	ito (2017)	Puzzles in the Tokyo fixing in the forex market: Order imbalances and Bank pricing	https://doi.org/10.1016/j.jinteco.2017.09.005	1	1	5	2017
+108	ito (2006)	Intraday seasonality in activities of the foreign exchange markets: Evidence from the electronic broking system	https://doi.org/10.1016/j.jjie.2006.06.005	1	35	95	2006
+109	evans (2010)	International macroeconomic announcements and intraday euro exchange rate volatility	https://doi.org/10.1016/j.jjie.2010.05.003	1	3	57	2010
+110	fatum (2012)	Asymmetries and state dependence: The impact of macro surprises on intraday exchange rates	https://doi.org/10.1016/j.jjie.2012.08.004	1	4	69	2012
+111	shakeel (2023)	Is there an intraday volatility spillover between exchange rate, gold and crude oil?	https://doi.org/10.1016/j.joitmc.2023.100094	1	0	8	2023
+112	mcmillan (2008)	How useful is intraday data for evaluating daily Value-at-Risk?	https://doi.org/10.1016/j.mulfin.2007.12.003	1	1	8	2008
+113	omrane (2019)	Time-varying effects of macroeconomic news on euro-dollar returns	https://doi.org/10.1016/j.najef.2019.101001	1	0	7	2019
+114	yi (2020)	Jump probability using volatility periodicity filters in US Dollar/Euro exchange rates	https://doi.org/10.1016/j.najef.2020.101184	1	2	10	2020
+115	gau (2005)	Intraday volatility in the Taipei FX market	https://doi.org/10.1016/j.pacfin.2004.12.002	1	3	14	2005
+116	hua (2005)	Determinants of periodic volatility of intraday exchange rates in the Taipei FX Market	https://doi.org/10.1016/j.pacfin.2005.06.005	1	1	7	2005
+117	su (2017)	Global Price Discovery in the Australian Dollar Market and Its Determinants	https://doi.org/10.1016/j.pacfin.2018.01.002	2	0	6	2017
+118	gafiychuk (2004)	Analysis of data clusters obtained by self-organizing methods	https://doi.org/10.1016/j.physa.2004.04.115	3	0	24	2004
+119	petroni (2004)	Real prices from spot foreign exchange market	https://doi.org/10.1016/j.physa.2004.06.115	2	0	3	2004
+120	batten (2005)	Decomposing intraday dependence in currency markets: evidence from the AUD/USD spot market	https://doi.org/10.1016/j.physa.2005.01.012	1	0	12	2005
+121	lallouache (2014)	Tick size reduction and price clustering in a FX order book	https://doi.org/10.1016/j.physa.2014.09.016	2	0	11	2014
+122	shahzad (2018)	Intraday return inefficiency and long memory in the volatilities of forex markets and the role of trading volume	https://doi.org/10.1016/j.physa.2018.04.016	1	1	35	2018
+123	henao-londono (2021)	Foreign exchange markets: Price response and spread impact	https://doi.org/10.1016/j.physa.2021.126587	2	1	3	2021
+124	gau (2006)	Intraday exchange rate volatility: ARCH, news and seasonality effects	https://doi.org/10.1016/j.qref.2005.04.004	1	5	17	2006
+125	martins (2025)	What events matter for exchange rate volatility?	https://doi.org/10.1016/j.qref.2025.102073	1	0	1	2025
+126	evans (2009)	Intraday periodicity, calendar and announcement effects in Euro exchange rate volatility	https://doi.org/10.1016/j.ribaf.2009.04.001	1	1	28	2009
+127	kitamura (2009)	Testing for intraday interdependence and volatility spillover among the euro, the pound and the Swiss franc markets	https://doi.org/10.1016/j.ribaf.2009.11.002	1	3	60	2009
+128	treepongkaruna (2012)	Realizing the volatility impacts of sovereign credit ratings information on equity and currency markets: Evidence from the Asian Financial Crisis	https://doi.org/10.1016/j.ribaf.2012.01.006	1	0	31	2012
+129	martínez (2017)	Intraday price discovery analysis in the foreign exchange market of an emerging economy: Mexico	https://doi.org/10.1016/j.ribaf.2017.07.159	1	0	5	2017
+130	eross (2019)	The intraday dynamics of bitcoin	https://doi.org/10.1016/j.ribaf.2019.01.008	1	13	120	2019
+131	baklaci (2020)	Impact of stock market trading on currency market volatility spillovers	https://doi.org/10.1016/j.ribaf.2020.101182	1	2	17	2020
+132	esparcia (2024)	Performance of crypto-Forex portfolios based on intraday data	https://doi.org/10.1016/j.ribaf.2024.102217	1	0	6	2024
+133	payne (2003)	Informed trade in spot foreign exchange markets: an empirical investigation	https://doi.org/10.1016/s0022-1996(03)00003-5	2	87	274	2003
+134	martens (2001)	Forecasting daily exchange rate volatility using intraday returns	https://doi.org/10.1016/s0261-5606(00)00047-4	1	13	108	2001
+135	neely (2003)	Intraday technical trading in the foreign exchange market	https://doi.org/10.1016/s0261-5606(02)00101-8	1	16	132	2003
+136	goodhart (1996)	Microstructural dynamics in a foreign exchange electronic broking system	https://doi.org/10.1016/s0261-5606(96)00044-7	2	12	56	1996
+137	hartmann (1998)	Do Reuters spreads reflect currencies' differences in global trading activity?	https://doi.org/10.1016/s0261-5606(98)00024-2	2	10	47	1998
+138	evans (2002)	Time-varying liquidity in foreign exchange	https://doi.org/10.1016/s0304-3932(02)00124-1	2	17	101	2002
+139	carpenter (1999)	Survivorship bias and attrition effects in measures of performance persistence	https://doi.org/10.1016/s0304-405x(99)00040-9	3	7	310	1999
+140	bollerslev (2002)	Estimating stochastic volatility diffusion using conditional moments of integrated volatility	https://doi.org/10.1016/s0304-4076(01)00141-5	1	5	318	2002
+141	elyasiani (2001)	Interdependence and dynamics in currency futures markets: A multivariate analysis of intraday data	https://doi.org/10.1016/s0378-4266(00)00126-6	1	2	22	2001
+142	deaves (2003)	Data-conditioning biases, performance, persistence and flows: The case of Canadian equity funds	https://doi.org/10.1016/s0378-4266(03)00042-6	3	0	82	2003
+143	tanner (1997)	A note on economic news and intraday exchange rates	https://doi.org/10.1016/s0378-4266(96)00055-6	1	5	22	1997
+144	horst (2001)	Eliminating look-ahead bias in evaluating persistence in mutual fund performance	https://doi.org/10.1016/s0927-5398(01)00032-9	3	2	67	2001
+145	andersen (1997)	Intraday periodicity and volatility persistence in financial markets	https://doi.org/10.1016/s0927-5398(97)00004-2	1	69	1300	1997
+146	andersen (1999)	Forecasting financial market volatility: Sample frequency vis-à-vis forecast horizon	https://doi.org/10.1016/s0927-5398(99)00013-4	1	11	334	1999
+147	chang (2003)	Information arrivals and intraday exchange rate volatility	https://doi.org/10.1016/s1042-4431(02)00039-2	1	18	74	2003
+148	chen (1998)	Stochastic properties and predictability of intraday Taiwan exchange rates	https://doi.org/10.1016/s1057-5219(99)80014-3	1	0	2	1998
+149	cyree (2003)	An empirical examination of the intraday volatility in euro–dollar rates	https://doi.org/10.1016/s1062-9769(03)00002-4	1	3	16	2003
+150	davis (1996)	The cross-section of stock returns and survivorship bias: Evidence from delisted stocks	https://doi.org/10.1016/s1062-9769(96)90021-6	3	2	28	1996
+151	villanueva (2007)	Forecasting Currency Excess Returns: Can the Forward Bias Be Exploited?	https://doi.org/10.1017/s002210900000346x	3	1	41	2007
+152	romero-meza (2010)	INTRADAY PATTERNS IN EXCHANGE RATE OF RETURN OF THE CHILEAN PESO: NEW EVIDENCE FOR DAY-OF-THE-WEEK EFFECT	https://doi.org/10.1017/s1365100509090385	1	1	9	2010
+153	hashimoto (2011)	Market Microstructure of the Foreign Exchange Markets: Evidence from the Electronic Broking System	https://doi.org/10.1057/9780230298101_3	2	0	1	2011
+154	będowska-sójka (2018)	Is intraday data useful for forecasting VaR? The evidence from EUR/PLN exchange rate	https://doi.org/10.1057/s41283-018-0038-z	1	0	6	2018
+155	fang (2000)	Seasonality in foreign exchange volatility	https://doi.org/10.1080/000368400322318	1	0	5	2000
+156	yu (2008)	Does the weekday effect of the yen/dollar spot rates exist in Tokyo, London, and New York? An analysis of panel probability distribution	https://doi.org/10.1080/00036840600970294	1	0	8	2008
+157	hua (2009)	The intraday bid–ask spread behaviour of the JPY/USD exchange rate in the EBS electronic brokerage system	https://doi.org/10.1080/00036840902967576	1	1	4	2009
+158	popović (2014)	Intraweek and intraday trade anomalies: evidence from FOREX market	https://doi.org/10.1080/00036846.2014.948676	1	0	12	2014
+159	bollerslev (1996)	Periodic Autoregressive Conditional Heteroscedasticity	https://doi.org/10.1080/07350015.1996.10524640	1	12	376	1996
+160	lobato (1998)	Real and Spurious Long-Memory Properties of Stock-Market Data	https://doi.org/10.1080/07350015.1998.10524760	3	4	332	1998
+161	lahaye (2018)	The Role of Jumps in Volatility Spillovers in Foreign Exchange Markets: Meteor Shower and Heat Waves Revisited	https://doi.org/10.1080/07350015.2018.1512865	1	1	27	2018
+162	cappiello (2003)	Time-Related Factors of Data Quality in Multichannel Information Systems	https://doi.org/10.1080/07421222.2003.11045769	3	0	116	2003
+163	liu (2020)	Data quality problems troubling business and financial researchers: A literature review and synthetic analysis	https://doi.org/10.1080/08963568.2020.1847555	3	0	38	2020
+164	iwatsubo (2008)	Intraday evidence of the informational efficiency of the yen/dollar exchange rate	https://doi.org/10.1080/09603100802389015	1	3	7	2008
+165	khemiri (2012)	Volume and volatility in foreign exchange market microstructure: a Markov switching approach	https://doi.org/10.1080/09603107.2011.629979	1	0	7	2012
+166	bień‐barkowska (2012)	Informed and uninformed trading in the EUR/PLN spot market	https://doi.org/10.1080/09603107.2012.741676	1	0	6	2012
+167	han (2010)	The Effects of US Macroeconomic Surprises on the Intraday Movements of Foreign Exchange Rates: Cases of USD-EUR and USD-JPY Exchange Rates	https://doi.org/10.1080/10168737.2010.504777	1	0	2	2010
+168	gilbert (2010)	Does survivorship bias really matter? An empirical investigation into its effects on the mean reversion of share returns on the JSE (1984–2007)	https://doi.org/10.1080/10293523.2010.11082521	3	0	23	2010
+169	karkošková (2022)	Data Governance Model To Enhance Data Quality In Financial Institutions	https://doi.org/10.1080/10580530.2022.2042628	3	1	77	2022
+170	gau (2004)	Public information, private information, inventory control, and volatility of intraday NTD/USD exchange rates	https://doi.org/10.1080/13504850410001674939	1	5	13	2004
+171	kitamura (2016)	Predicting a flash crash in the yen/dollar foreign exchange market	https://doi.org/10.1080/13504851.2016.1245831	2	1	6	2016
+172	lee (2005)	The tick/volatility ratio as a determinant of the compass rose pattern	https://doi.org/10.1080/1351847032000137438	1	0	7	2005
+173	frijns (2008)	Forecasting daily volatility with intraday data	https://doi.org/10.1080/13518470802187644	1	0	15	2008
+174	dunis (2009)	Modelling and trading the EUR/USD exchange rate at the ECB fixing	https://doi.org/10.1080/13518470903037771	1	1	34	2009
+175	evans (2010)	Intraday euro exchange rates and international macroeconomic announcements	https://doi.org/10.1080/13518470903448457	1	0	9	2010
+176	dacorogna (1995)	Heterogeneous real-time trading strategies in the foreign exchange market	https://doi.org/10.1080/13518479500000026	1	1	54	1995
+177	james (2007)	Impact of economic data surprises on exchange rates in the inter-dealer market	https://doi.org/10.1080/14697680701446195	2	1	14	2007
+178	gnabo (2012)	Do jumps mislead the FX market?	https://doi.org/10.1080/14697688.2012.697186	2	1	3	2012
+179	laakkonen (2013)	Exchange rate volatility, macroeconomic announcements and the choice of intraday periodicity filtering method	https://doi.org/10.1080/14697688.2012.739727	1	2	7	2013
+180	villa (2014)	A continuous time Bayesian network classifier for intraday FX prediction	https://doi.org/10.1080/14697688.2014.906811	1	0	12	2014
+181	filimonov (2015)	Apparent criticality and calibration issues in the Hawkes self-excited point process model: application to high-frequency financial data	https://doi.org/10.1080/14697688.2015.1032544	3	1	111	2015
+182	hallam (2018)	Statistical tests of distributional scaling properties for financial return series	https://doi.org/10.1080/14697688.2017.1298832	1	0	1	2018
+183	wehrli (2020)	Scale-, time- and asset-dependence of Hawkes process estimates on high frequency price changes	https://doi.org/10.1080/14697688.2020.1838602	2	0	19	2020
+184	yi (2024)	Volatility and jump with intraday periodicity and truncated power variation in Chinese yuan-US dollar exchange rates	https://doi.org/10.1080/16081625.2024.2326408	1	0	3	2024
+185	wan (2021)	The effects of conventional and unconventional monetary policy on exchange rate volatility	https://doi.org/10.1080/23322039.2021.1997425	1	0	3	2021
+186	dempster (2001)	A real-time adaptive trading system using genetic programming	https://doi.org/10.1088/1469-7688/1/4/301	1	3	192	2001
+187	bailey (2014)	Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance	https://doi.org/10.1090/noti1105	3	1	209	2014
+188	bos (2012)	Spot Variance Path Estimation and Its Application to High-Frequency Jump Testing	https://doi.org/10.1093/jjfinec/nbr013	2	1	25	2012
+189	deng (2013)	Understanding Spurious Regression in Financial Economics	https://doi.org/10.1093/jjfinec/nbs025	3	0	34	2013
+190	hallam (2013)	Semiparametric Density Forecasts of Daily Financial Returns from Intraday Data	https://doi.org/10.1093/jjfinec/nbt016	1	2	11	2013
+191	huang (1999)	FX Spreads and Dealer Competition Across the 24-Hour Trading Day	https://doi.org/10.1093/rfs/12.1.61	1	18	118	1999
+192	harvey (1991)	Volatility in the Foreign Currency Futures Market	https://doi.org/10.1093/rfs/4.3.543	1	45	284	1991
+193	karnaukh (2015)	Understanding FX Liquidity	https://doi.org/10.1093/rfs/hhv029	2	0	3	2015
+194	harvey (2015)	… and the Cross-Section of Expected Returns	https://doi.org/10.1093/rfs/hhv059	4	6	2035	2015
+195	horst (2007)	Fund Liquidation, Self-selection, and Look-ahead Bias in the Hedge Fund Industry	https://doi.org/10.1093/rof/rfm012	3	0	82	2007
+196	waqar (2023)	Antecedents of big data analytics (BDA) adoption in private firms: a sequential explanatory approach	https://doi.org/10.1108/fs-10-2022-0114	3	0	15	2023
+197	ahmed (2021)	Do intraday week effect in currencies hourly trading reflect leverage and asymmetric anomalies? Policy implications for traders	https://doi.org/10.1108/jcefts-07-2020-0034	1	0	2	2021
+198	anifowose (2017)	Dynamics of exchange rate determination and currency order flow in the Thailand foreign exchange market	https://doi.org/10.1108/jcefts-11-2016-0031	2	0	7	2017
+199	caporale (2020)	Daily abnormal price changes and trading strategies in the FOREX	https://doi.org/10.1108/jes-11-2019-0503	1	0	6	2020
+200	byabazaire (2022)	End-to-End Data Quality Assessment Using Trust for Data Shared IoT Deployments	https://doi.org/10.1109/jsen.2022.3203853	3	1	28	2022
+201	zhang (2018)	QuantCloud: Enabling Big Data Complex Event Processing for Quantitative Finance Through a Data-Driven Execution	https://doi.org/10.1109/tbdata.2018.2847629	3	0	16	2018
+202	wang (2025)	MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting	https://doi.org/10.1109/tetci.2025.3542107	3	0	8	2025
+203	sullivan (1999)	Data‐Snooping, Technical Trading Rule Performance, and the Bootstrap	https://doi.org/10.1111/0022-1082.00163	4	11	1015	1999
+204	andersen (1998)	Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies	https://doi.org/10.1111/0022-1082.85732	1	96	1185	1998
+205	andersen (2003)	Modeling and Forecasting Realized Volatility	https://doi.org/10.1111/1468-0262.00418	1	47	3874	2003
+206	martens (2002)	A Comparison of Seasonal Adjustment Methods When Forecasting Intraday Volatility	https://doi.org/10.1111/1475-6803.t01-1-00009	1	15	121	2002
+207	jain (2019)	Insights from bitcoin trading	https://doi.org/10.1111/fima.12299	1	0	43	2019
+208	chowdhury (2004)	Time‐Varying Volatility in the Foreign Exchange Market: New Evidence on its Persistence and on Currency Spillovers	https://doi.org/10.1111/j.0306-686x.2004.00556.x	1	0	17	2004
+209	brooks (2006)	Detecting Intraday Periodicities with Application to High Frequency Exchange Rates	https://doi.org/10.1111/j.1467-9876.2006.00534.x	1	1	12	2006
+210	ince (2006)	INDIVIDUAL EQUITY RETURN DATA FROM THOMSON DATASTREAM: HANDLE WITH CARE!	https://doi.org/10.1111/j.1475-6803.2006.00189.x	3	1	893	2006
+211	gregory‐allen (2010)	THE DAYLIGHT SAVING TIME ANOMALY IN STOCK RETURNS: FACT OR FICTION?	https://doi.org/10.1111/j.1475-6803.2010.01274.x	3	3	31	2010
+212	rosenberg (1974)	ERROR RATES IN CRSP AND COMPUSTAT DATA BASES AND THEIR IMPLICATIONS	https://doi.org/10.1111/j.1540-6261.1974.tb03107.x	3	1	96	1974
+213	bollerslev (1993)	Trading Patterns and Prices in the Interbank Foreign Exchange Market	https://doi.org/10.1111/j.1540-6261.1993.tb04760.x	1	81	365	1993
+214	fong (2017)	Bursting the Big Data Bubble	https://doi.org/10.1111/j.1740-9713.2017.01035.x	3	0	2	2017
+215	worthington (2003)	LOSING SLEEP AT THE MARKET: AN EMPIRICAL NOTE ON THE DAYLIGHT SAVING ANOMALY IN AUSTRALIA	https://doi.org/10.1111/j.1759-3441.2003.tb01128.x	3	1	14	2003
+216	breedon (2013)	Intraday Patterns in FX Returns and Order Flow	https://doi.org/10.1111/jmcb.12032	1	21	49	2013
+217	mancini (2013)	Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums	https://doi.org/10.1111/jofi.12053	2	23	318	2013
+218	krohn (2023)	Foreign Exchange Fixings and Returns around the Clock	https://doi.org/10.1111/jofi.13306	1	1	17	2023
+219	chortareas (2013)	Volatility and Spillover Effects of Yen Interventions	https://doi.org/10.1111/roie.12063	1	0	10	2013
+220	christen (2015)	Time Zones Matter: The Impact of Distance and Time Zones on Services Trade	https://doi.org/10.1111/twec.12326	3	1	42	2015
+221	petroni (2003)	Spot foreign exchange market and time series	https://doi.org/10.1140/epjb/e2003-00249-5	2	1	12	2003
+222	kaplan (1998)	Assessing data quality in accounting information systems	https://doi.org/10.1145/269012.269024	3	1	89	1998
+223	brown (1997)	Rejoinder: The J-Shape of Performance Persistence Given Survivorship Bias	https://doi.org/10.1162/003465397556683	3	2	25	1997
+224	steiner (2002)	Use of Three-Dimensional Reflectivity Structure for Automated Detection and Removal of Nonprecipitating Echoes in Radar Data	https://doi.org/10.1175/1520-0426(2002)019<0673:uotdrs>2.0.co;2	3	1	215	2002
+225	hubbert (2009)	Weather Radar Ground Clutter. Part II: Real-Time Identification and Filtering	https://doi.org/10.1175/2009jtecha1160.1	3	0	148	2009
+226	cosoli (2012)	A Real-Time and Offline Quality Control Methodology for SeaSonde High-Frequency Radar Currents	https://doi.org/10.1175/jtech-d-11-00217.1	3	1	23	2012
+227	shah (2025)	Artificial Intelligence in Value-Based Health Care	https://doi.org/10.1177/15563316251340074	3	0	16	2025
+228	liu (2021)	The Impact of Trading Information Sets on Exchange Rate Change and Volatility: Evidence From Taiwan	https://doi.org/10.1177/21582440211052947	1	0	2	2021
+229	reus (2023)	Foreign exchange trading and management with the stochastic dual dynamic programming method	https://doi.org/10.1186/s40854-022-00433-7	1	0	7	2023
+230	frömmel (2023)	Impact of trading hours extensions on foreign exchange volatility: intraday evidence from the Moscow exchange	https://doi.org/10.1186/s40854-023-00500-7	1	0	2	2023
+231	kamstra (2002)	Losing Sleep at the Market: The Daylight Saving Anomaly: Reply	https://doi.org/10.1257/00028280260344795	3	4	49	2002
+232	santos (2016)	The High Frequency Impact of Macroeconomic Announcements in the Brazilian Futures Markets	https://doi.org/10.12660/bre.v99n992016.46421	2	0	2	2016
+233	ruefli (1994)	When Mean Square Error Becomes Variance: A Comment on “Business Risk and Return: A Test of Simultaneous Relationships”	https://doi.org/10.1287/mnsc.40.6.750	3	1	45	1994
+234	bil (2017)	Asymmetry of price returns—Analysis and perspectives from a non-extensive statistical physics point of view	https://doi.org/10.1371/journal.pone.0188541	1	0	9	2017
+235	ciacci (2020)	The microscopic relationships between triangular arbitrage and cross-currency correlations in a simple agent based model of foreign exchange markets	https://doi.org/10.1371/journal.pone.0234709	2	1	7	2020
+236	lahaye (2016)	Currency Risk: Comovements and Intraday Cojumps	https://doi.org/10.15609/annaeconstat2009.123-124.0053	1	1	3	2016
+237	ahmed (2026)	Tracking Turbulence : High-Frequency Evidence on Oil-Driven Market Volatility in India	https://doi.org/10.17010/pijom/2026/v19i5/174598	1	0	3	2026
+238	baillie (2000)	High Frequency Deutsche Mark-US Dollar Returns: FIGARCH Representations and Non Linearities	https://doi.org/10.17578/4-3/4-6	1	3	50	2000
+239	devpura (2021)	VOLATILITY SPILLOVER OF INTRADAY EXCHANGE RATES ON SOME SELECTED ASEAN COUNTRIES	https://doi.org/10.21098/bemp.v24i3.1693	1	1	10	2021
+240	ho (2022)	Forecasting the High-Frequency Exchange Rate Volatility with Smooth Transition Exponential Smoothing	https://doi.org/10.21315/aamjaf2022.18.2.10	1	0	6	2022
+241	henkel (2007)	The Risk-Return Paradox for Strategic Management: Disentangling True and Spurious Effects	https://doi.org/10.2139/ssrn.1014325	3	0	23	2007
+242	chaboud (2007)	Trading Activity and Exchange Rates in High-Frequency EBS Data	https://doi.org/10.17016/ifdp.2007.903	1	4	13	2007
+243	laakkonen (2007)	Exchange Rate Volatility, Macro Announcements and the Choice of Intraday Seasonality Filtering Method	https://doi.org/10.2139/ssrn.1032876	1	3	25	2007
+244	a (2007)	When Do Informed Traders Arrive in Foreign Exchange Markets?	https://doi.org/10.2139/ssrn.1071343	2	3	5	2007
+245	cabrera (2008)	Do futures lead price discovery in electronic foreign exchange markets?	https://doi.org/10.1002/fut.20352	2	5	97	2008
+246	a (2008)	Informed Trading in Electronic Foreign Exchange Market	https://doi.org/10.2139/ssrn.1263341	1	2	3	2008
+247	fatum (2009)	Do Both U.S. and Foreign Macro Surprises Matter for the Intraday Exchange Rate? Evidence from Japan	https://doi.org/10.2139/ssrn.1356123	1	0	1	2009
+248	melvin (2009)	Bank of England Interest Rate Announcements and the Foreign Exchange Market	https://doi.org/10.2139/ssrn.1392156	2	0	43	2009
+249	gradojević (2009)	The Dynamic Interaction of Trading Flows, Macroeconomic Announcements and the CAD/USD Exchange Rate: Evidence from Disaggregated Data	https://doi.org/10.2139/ssrn.1397648	2	4	10	2009
+250	cheung (1999)	Traders, Market Microstructure and Exchange Rate Dynamics	https://doi.org/10.2139/ssrn.151149	2	1	20	1999
+251	kaul (2011)	Liquidity Comovement in the Foreign Exchange Market	https://doi.org/10.2139/ssrn.1918044	2	0	2	2011
+252	hafez (2013)	Intraday Forex Trading Based on Sentiment Inflection Points	https://doi.org/10.2139/ssrn.2198816	1	1	2	2013
+253	vatter (2015)	Non-Parametric Estimation of Intraday Spot Volatility: Disentangling Instantaneous Trend and Seasonality	https://doi.org/10.3390/econometrics3040864	1	0	7	2015
+254	pasquariello (2001)	The Microstructure of Currency Markets: An Empirical Model of Intra-Day Return and Bid-Ask Spread Behavior	https://doi.org/10.2139/ssrn.252510	1	2	8	2001
+255	gospodinov (2015)	Spurious Inference in Unidentified Asset-Pricing Models	https://doi.org/10.2139/ssrn.2580391	3	1	7	2015
+256	bollerslev (2016)	Risk Everywhere: Modeling and Managing Volatility	https://doi.org/10.2139/ssrn.2722591	1	1	83	2016
+257	mykland (2016)	Between data cleaning and inference: Pre-averaging and robust estimators of the efficient price	https://doi.org/10.1016/j.jeconom.2016.05.005	3	1	29	2016
+258	pasquariello (2010)	Central bank intervention and the intraday process of price formation in the currency markets	https://doi.org/10.1016/j.jimonfin.2010.02.002	1	2	49	2010
+259	kim (2017)	Stock returns and investors' mood: Good day sunshine or spurious correlation?	https://doi.org/10.1016/j.irfa.2017.05.004	3	1	34	2017
+260	rytchkov (2016)	Information Aggregation and Data Snooping	https://doi.org/10.2139/ssrn.2858619	3	0	3	2016
+261	pasquariello (2002)	Informative Trading or Just Noise? An Analysis of Currency Returns, Market Liquidity and Transaction Costs in Proximity of Central Bank Interventions	https://doi.org/10.2139/ssrn.301295	2	2	21	2002
+262	zumbach (2002)	Efficient Estimation of Volatility Using High Frequency Data	https://doi.org/10.2139/ssrn.306002	1	1	34	2002
+263	noss (2017)	The October 2016 Sterling Flash Episode: When Liquidity Disappeared from One of the World's Most Liquid Markets	https://doi.org/10.2139/ssrn.3066841	2	1	8	2017
+264	cartea (2018)	The Shadow Price of Latency: Improving Intraday Fill Ratios in Foreign Exchange Markets	https://doi.org/10.2139/ssrn.3190961	1	0	6	2018
+265	evans (2018)	FX Trading and the Exchange Rate Disconnect Puzzle	https://doi.org/10.2139/ssrn.3278950	2	0	8	2018
+266	ranaldo (2018)	Trading Volume, Illiquidity and Commonalities in FX Markets	https://doi.org/10.2139/ssrn.3289026	2	4	14	2018
+267	şensoy (2020)	Commonality in FX Liquidity: High-Frequency Evidence	https://doi.org/10.1016/j.frl.2020.101577	2	1	10	2020
+268	omrane (2003)	News Announcements, Market Activity and Volatility in the Euro/Dollar Foreign Exchange Market	https://doi.org/10.2139/ssrn.389405	2	4	19	2003
+269	yi (2023)	Exchange rate volatility and intraday jump probability with periodicity filters using a local robust variance	https://doi.org/10.1016/j.frl.2023.103821	1	0	6	2023
+270	kim (2023)	Stock market anomalies: An extreme bounds analysis	https://doi.org/10.1016/j.irfa.2023.102841	3	0	8	2023
+271	osterrieder (2023)	Unraveling market mysteries: a comprehensive review of financial anomalies and puzzles	https://doi.org/10.12688/openreseurope.16436.1	3	1	7	2023
+272	martens (2004)	Modeling and Forecasting S&P 500 Volatility: Long Memory, Structural Breaks and Nonlinearity	https://doi.org/10.2139/ssrn.557746	1	1	44	2004
+273	chaboud (2004)	The High-Frequency Effects of U.S. Macroeconomic Data Releases on Prices and Trading Activity in the Global Interdealer Foreign Exchange Market	https://doi.org/10.17016/ifdp.2004.823	1	22	69	2004
+274	berger (2005)	Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data	https://doi.org/10.2139/ssrn.709181	2	33	114	2005
+275	mcgroarty (2005)	Private Information, Excessive Volatility and Intraday Empirical Regularities in the Spot Foreign Exchange Market	https://doi.org/10.2139/ssrn.734083	1	1	2	2005
+276	cai (2006)	Transmission of Volatility and Trading Activity in the Global Interdealer Foreign Exchange Market: Evidence from Electronic Broking Services (EBS) Data	https://doi.org/10.17016/ifdp.2006.863	1	1	6	2006
+277	d’souza (2007)	Where Does Price Discovery Occur in FX Markets?	https://doi.org/10.2139/ssrn.966446	2	0	10	2007
+278	ballocchi (2001)	Time-to-Expiry Seasonalities in Eurofutures	https://doi.org/10.2202/1558-3708.1066	1	0	5	2001
+279	wong (1997)	The Microstructure of Foreign Exchange Markets	https://doi.org/10.2307/1061089	2	31	178	1997
+280	kleppe (2023)	The Effects of Daylight Saving Time Adjustments on Investor Information Processing	https://doi.org/10.2308/tar-2021-0369	3	0	8	2023
+281	olbryś (2013)	Price and Volatility Spillovers in the Case of Stock Markets Located in Different Time Zones	https://doi.org/10.2753/ree1540-496x4902s208	3	0	27	2013
+282	svoboda (2020)	RANDOM STRATEGY VERSUS TECHNICAL ANALYSIS STRATEGY: THE CASE OF EUR/USD INTRADAY TRADING	https://doi.org/10.31410/balkans.jetss.2020.3.1.34-39	1	0	1	2020
+283	fuentes (2014)	The effects of intraday foreign exchange market operations in Latin America : results for Chile, Colombia, Mexico and Peru	https://doi.org/10.32468/be.849	1	1	10	2014
+284	ito (2004)	Microstructure of the Yen/Dollar Foreign Exchange Market: Patterns of Intra-day Activity Revealed in the Electronic Broking System	https://doi.org/10.3386/w10856	1	6	25	2004
+285	ito (2006)	Intra-Day Seasonality in Activities of the Foreign Exchange Markets: Evidence From the Electronic Broking System	https://doi.org/10.3386/w12413	1	3	22	2006
+286	ito (1988)	Intraday Yen/Dollar Exchange Rate Movements: News or Noise?	https://doi.org/10.3386/w2703	1	4	21	1988
+287	andersen (1996)	DM-Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies	https://doi.org/10.3386/w5783	1	10	167	1996
+288	anderson (1998)	Testing for Market Microstructure Effects in Intraday Volatility: A Reassessment of the Tokyo FX Experiment	https://doi.org/10.3386/w6666	1	2	10	1998
+289	le (2021)	An Open Innovation Intraday Implied Volatility for Pricing Australian Dollar Options	https://doi.org/10.3390/joitmc7010023	1	0	5	2021
+290	petrov (2019)	Instantaneous Volatility Seasonality of High-Frequency Markets in Directional-Change Intrinsic Time	https://doi.org/10.3390/jrfm12020054	1	0	7	2019
+291	rambaccussing (2020)	True versus Spurious Long Memory in Cryptocurrencies	https://doi.org/10.3390/jrfm13090186	3	1	13	2020
+292	sheppert (2026)	The GT-Score: A Robust Objective Function for Reducing Overfitting in Data-Driven Trading Strategies	https://doi.org/10.3390/jrfm19010060	3	0	1	2026
+293	summinga-sonagadu (2019)	Risk Model Validation: An Intraday VaR and ES Approach Using the Multiplicative Component GARCH	https://doi.org/10.3390/risks7010010	1	0	7	2019
+294	cosoli (2018)	Improving Data Quality for the Australian High Frequency Ocean Radar Network through Real-Time and Delayed-Mode Quality-Control Procedures	https://doi.org/10.3390/rs10091476	3	0	20	2018
+295	byabazaire (2023)	IoT Data Quality Assessment Framework Using Adaptive Weighted Estimation Fusion	https://doi.org/10.3390/s23135993	3	0	16	2023
+296	fong (2017)	Big Data, Small Pickings: Predicting the Stock Market with Google Trends	https://doi.org/10.3905/jii.2017.7.4.075	3	1	2	2017
+297	li (2002)	Long-Memory versus Option-Implied Volatility Predictions	https://doi.org/10.3905/jod.2002.319176	1	1	57	2002
+298	bailey (2014)	The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality	https://doi.org/10.3905/jpm.2014.40.5.094	3	3	115	2014
+299	tengelin (2020)	Tick based clustering methodologies establishing support and resistance levels in the currency exchange market	https://doi.org/10.3934/nar.2020021	2	0	5	2020
+300	gospodinov (2017)	Spurious Inference in Reduced-Rank Asset-Pricing Models	https://doi.org/10.3982/ecta13750	3	0	57	2017
+301	theofilatos (2012)	Modeling and Trading the EUR/USD Exchange Rate Using Machine Learning Techniques	https://doi.org/10.48084/etasr.200	1	1	32	2012
+302	cirillo (2014)	Evolving intraday foreign exchange trading strategies utilizing multiple instruments price series	https://doi.org/10.48550/arxiv.1411.2153	1	0	1	2014
+303	gould (2016)	The Long Memory of Order Flow in the Foreign Exchange Spot Market	https://doi.org/10.1142/s2382626616500015	2	1	11	2016
+304	chukwurah (2024)	Frameworks for effective data governance: best practices, challenges, and implementation strategies across industries	https://doi.org/10.51594/csitrj.v5i7.1351	3	0	38	2024
+305	nicola (2021)	On the Intraday Behavior of Bitcoin	https://doi.org/10.5195/ledger.2021.213	1	0	1	2021
+306	jum’a (2022)	Adoption enablers of big data analytics in supply chain management practices: the moderating role of innovation culture	https://doi.org/10.5267/j.uscm.2022.5.004	3	2	25	2022
+307	majune (2024)	The Role of Time Zone Differences on Bilateral Service Flows from Kenya	https://doi.org/10.5325/jafrideve.25.1.0046	3	0	0	2024
+308	rudy (2023)	The Exchange Rate Volatility During Political Protests: Event Study and the Case of Belarus	https://doi.org/10.5539/ijef.v15n9p37	1	0	1	2023
+309	jawadi (2019)	Do Jumps and Co-jumps Improve Volatility Forecasting of Oil and Currency Markets?	https://doi.org/10.5547/01956574.40.si2.fjaw	1	1	24	2019
+310	valakevičius (2015)	Application of Seasonal Holt-Winter model for the prediction of exchange rate volatility	https://doi.org/10.5755/j01.ee.26.4.5210	1	0	12	2015
+311	goodhart (1995)	One Day in June, 1994: A Study of the Working of Reuters 2000-2 Electronic Foreign Exchange Trading System	https://doi.org/10.3386/t0179	2	17	74	1995
+312	anastasakis (2001)	The Development of Self-Organization Techniques in Modelling: A Review of the Group Method of Data Handling (GMDH)	https://openalex.org/W1001531944	3	1	92	2001
+313	bubák (2009)	Distribution and Dynamics of Central-European Exchange Rates: Evidence from Intraday Data	https://openalex.org/W1491225608	1	1	11	2009
+314	neil (2021)	An Intraday Analysis of the Effectiveness of Foreign Exchange Intervention	https://doi.org/10.34989/swp-1999-4	1	3	45	2021
+315	heinrich (2009)	A Novel Data Quality Metric for Timeliness considering Supplemental Data	https://openalex.org/W1516014264	3	0	22	2009
+316	d’souza (2021)	The Role of Foreign Exchange Dealers in Providing Overnight Liquidity	https://doi.org/10.34989/swp-2008-44	2	0	2	2021
+317	juran (1999)	Juran's quality handbook	https://openalex.org/W1549493899	3	1	1209	1999
+318	lahura (2013)	Asymmetric Effects of FOREX Intervention Using Intraday Data: Evidence from Peru	https://openalex.org/W1556544134	1	0	13	2013
+319	panthaki (2005)	Exchange rate volatility and central bank interventions	https://openalex.org/W1558197085	1	1	2	2005
+320	a (2009)	Profitability in an Electronic Foreign Exchange Market: Informed Trading or Differences in Valuation?	https://openalex.org/W1560832407	2	2	2	2009
+321	mokhtar (2007)	Monetary information arrivals and intraday exchange rate volatility : a comparison of the GARCH and the EGARCH models	https://openalex.org/W1578383811	1	0	1	2007
+322	melvin (2008)	Automating Exchange Rate Target Zones: Intervention Via an Electronic Limit Order Book	https://doi.org/10.2139/ssrn.1095127	2	1	9	2008
+323	gilbert (2008)	Does survivorship bias really matter? An empirical investigation into its effects on the mean reversion of share returns on the JSE Securities Exchange (1984-2006)	https://openalex.org/W1590637541	3	0	2	2008
+324	manahov (2013)	New Evidence of Technical Trading Profitability	https://openalex.org/W165518381	1	0	1	2013
+325	lanouar (2006)	A VARIETIES OF SPURIOUS LONG MEMORY PROCESS	https://openalex.org/W2086045533	3	0	2	2006
+326	ferson (2003)	IS STOCK RETURN PREDICTABILITY SPURIOUS	https://openalex.org/W2104024060	3	1	76	2003
+327	chortareas (2006)	Bank of Japan Interventions, Exchange Rate Volatility, and Spillover Effects: Evidence from High Frequency data	https://openalex.org/W2108898127	1	0	1	2006
+328	hussein (2013)	Event-based microscopic analysis of the FX market	https://openalex.org/W2112173930	2	0	8	2013
+329	osler (2000)	Support for Resistance: Technical Analysis and Intraday Exchange Rates	https://openalex.org/W2136854181	1	1	44	2000
+330	kaul (2005)	Trading Activity and Foreign Exchange Market Quality	https://openalex.org/W2154463077	1	0	57	2005
+331	kearns (2005)	The Impact of Monetary Policy on the Exchange Rate: A Study Using Intraday Data	https://openalex.org/W2158381714	1	1	62	2005
+332	shintani (2008)	Spurious Regressions in Technical Trading: Momentum or Contrarian?	https://openalex.org/W2165199702	3	1	1	2008
+333	kaul (2000)	In Search of International Integration: An Examination of Intraday North American Trading of Canadian Dually Listed Stocks	https://openalex.org/W2184903758	1	0	1	2000
+334	duduković (2012)	A new approach to Exchange Rate Volatility Forecasting	https://openalex.org/W2184930612	1	0	1	2012
+335	baquero (2005)	Survival, Look-Ahead Bias, and Persistence in Hedge Fund Performance	https://doi.org/10.1017/s0022109000001848	3	0	108	2005
+336	narsoo (2016)	High Frequency Exchange Rate Volatility Modelling Using the Multiplicative Component GARCH	https://openalex.org/W2237118205	1	1	7	2016
+337	valstad (2014)	A bit risky? A comparison between Bitcoin and other assets using an intraday Value at Risk approach	https://openalex.org/W22415754	1	0	9	2014
+338	serbinenko (2017)	Intraday spot foreign exchange market. Analysis of efficiency, liquidity and volatility	https://openalex.org/W2619474806	1	2	5	2017
+339	forsberg (2002)	On the Normal Inverse Gaussian Distribution in Modeling Volatility in the Financial Markets	https://openalex.org/W632604451	1	1	11	2002
+340	frömmel (2013)	News, liquidity dynamics and intraday jumps: evidence from the HUF/EUR market	https://openalex.org/W80384908	1	0	1	2013
+341	levitt (1998)	Market Time DataTM Improving Technical Analysis and Technical Trading	https://openalex.org/W82123817	1	0	2	1998
+342	laakkonen (2009)	Essays on the asymmetric news effects on exchange rate volatility	https://openalex.org/W96422	1	0	1	2009
+343	liu (2009)	Forecasting realized volatility: a Bayesian model‐averaging approach	https://doi.org/10.1002/jae.1070	1	1	107	2009
+344	chang (2021)	Liquidity spillover in foreign exchange markets	https://doi.org/10.1016/j.frl.2021.102105	2	0	19	2021
+345	payne (1997)	An Investigation of Long Range Dependence in Intra-Day Foreign Exchange Rate Volatility	https://openalex.org/W1486020309	1	1	15	1997
+346	kleidon (2019)	2. Bid-Ask Spreads in Foreign Exchange Markets: Implications for Models of Asymmetric Information	https://doi.org/10.7208/9780226260235-004	2	8	28	2019
+347	bollerslev (1994)	Bid—ask spreads and volatility in the foreign exchange market	https://doi.org/10.1016/0022-1996(94)90008-6	2	52	300	1994
+348	payne (1996)	Announcement Effects and Seasonality in the Intra-day Foreign Exchange Market	https://openalex.org/W1520206856	1	11	44	1996
+349	zhou (1996)	High-Frequency Data and Volatility in Foreign-Exchange Rates	https://doi.org/10.1080/07350015.1996.10524628	2	23	570	1996
+350	guillaume (1997)	From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets	https://doi.org/10.1007/s007800050018	2	22	522	1997
+351	baillie (1991)	Intra-Day and Inter-Market Volatility in Foreign Exchange Rates	https://doi.org/10.2307/2298012	1	72	489	1991
+352	peiers (1997)	Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market	https://doi.org/10.1111/j.1540-6261.1997.tb01122.x	2	34	236	1997
+353	engle (1997)	Forecasting the frequency of changes in quoted foreign exchange prices with the autoregressive conditional duration model	https://doi.org/10.1016/s0927-5398(97)00006-6	2	4	224	1997
+354	dacorogna (1993)	A geographical model for the daily and weekly seasonal volatility in the foreign exchange market	https://doi.org/10.1016/0261-5606(93)90004-u	1	57	609	1993
+355	ito (1998)	Is There Private Information in the FX Market? The Tokyo Experiment	https://doi.org/10.1111/0022-1082.00045	2	47	279	1998
+356	mcfarland (1982)	The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement	https://doi.org/10.1111/j.1540-6261.1982.tb02218.x	1	26	308	1982
+357	degennaro (1997)	Public information releases, private information arrival and volatility in the foreign exchange market	https://doi.org/10.1016/s0927-5398(97)00012-1	2	26	160	1997
+358	hsieh (1996)	Bid-Ask Spreads in Foreign Exchange Markets: Implications for Models of Asymmetric Information	https://openalex.org/W3122376683	2	18	70	1996
+359	lyons (1995)	Tests of microstructural hypotheses in the foreign exchange market	https://doi.org/10.1016/0304-405x(95)00832-y	2	108	515	1995
+360	scholes (1977)	Estimating betas from nonsynchronous data	https://doi.org/10.1016/0304-405x(77)90041-1	3	3	2747	1977
+361	goodhart (1991)	Every minute counts in financial markets	https://doi.org/10.1016/0261-5606(91)90025-f	2	37	189	1991
+362	c. (1990)	Reuters screen images of the foreign exchange market The Deutschemark/Dollar spot rate	https://openalex.org/W7052524367	2	4	10	1990
+363	andersen (2000)	Exchange Rate Returns Standardized by Realized Volatility are (Nearly) Gaussian	https://doi.org/10.3386/w7488	1	9	192	2000
+364	maheu (2002)	Nonlinear Features of Realized FX Volatility	https://doi.org/10.1162/003465302760556486	1	6	112	2002
+365	cai (2001)	‘Once-in-a-generation’ yen volatility in 1998: fundamentals, intervention, and order flow	https://doi.org/10.1016/s0261-5606(00)00056-5	2	24	145	2001
+366	glassman (1987)	Exchange rate risk and transactions costs: Evidence from bid-ask spreads	https://doi.org/10.1016/0261-5606(87)90024-6	2	18	97	1987
+367	hertzel (1990)	The volatility of asset returns during trading and nontrading hours: some evidence from the foreign exchange markets	https://doi.org/10.1016/0261-5606(90)90014-q	1	2	15	1990
+368	mende (2006)	Profits and speculation in intra-day foreign exchange trading	https://doi.org/10.1016/j.finmar.2006.05.003	1	6	30	2006
+369	lyons (2001)	The Microstructure Approach to Exchange Rates	https://doi.org/10.7551/mitpress/4602.001.0001	2	78	1043	2001
+370	breedon (2009)	An empirical study of portfolio-balance and information effects of order flow on exchange rates	https://doi.org/10.1016/j.jimonfin.2009.07.001	2	17	67	2009
+371	rime (2009)	Exchange rate forecasting, order flow and macroeconomic information	https://doi.org/10.1016/j.jinteco.2009.03.005	2	43	280	2009
+372	love (2008)	Macroeconomic News, Order Flows, and Exchange Rates	https://doi.org/10.1017/s0022109000003598	2	33	165	2008
+373	breedon (2004)	An Empirical Study of Liquidity and Information Effects of Order Flow on Exchange Rates	https://openalex.org/W3126034363	2	7	8	2004
+374	melvin (2000)	Public Information Arrival, Exchange Rate Volatility, and Quote Frequency	https://doi.org/10.1111/1468-0297.00558	2	36	188	2000
+375	lyons (1999)	Order Flow and Exchange Rate Dynamics	https://doi.org/10.2139/ssrn.174888	2	18	183	1999
+376	killeen (2001)	Fixed versus Flexible: Lessons from EMS Order Flow	https://doi.org/10.3386/w8491	2	8	37	2001
+377	lyons (1995)	Foreign Exchange Volume: Sound and Fury Signifying Nothing?	https://doi.org/10.3386/w4984	2	19	98	1995
+378	osler (2005)	Stop-loss orders and price cascades in currency markets	https://doi.org/10.1016/j.jimonfin.2004.12.002	2	16	122	2005
+379	goodhart (1995)	One Day in June 1993: A Study of the Working of the Reuters 2000-2 Electronic Foreign Exchange Trading System	https://openalex.org/W3125379823	2	20	94	1995
+380	yao (2003)	Market Making in the Interbank Foreign Exchange Market	https://openalex.org/W40452806	2	15	58	2003
+381	vitale (1996)	3. Interdealer Trade and Information Flows in a Decentralized Foreign Exchange Market	https://doi.org/10.7208/9780226260235-005	2	9	30	1996
+382	chakrabarti (2000)	Just another day in the inter-bank foreign exchange market	https://doi.org/10.1016/s0304-405x(99)00058-6	2	4	26	2000
+383	naranjo (2000)	Government Intervention and Adverse Selection Costs in Foreign Exchange Markets	https://doi.org/10.1093/rfs/13.2.453	2	11	90	2000
+384	evans (2002)	FX Trading and Exchange Rate Dynamics	https://doi.org/10.1111/1540-6261.00501	2	37	177	2002
+385	chang (1998)	Intraday effects of foreign exchange intervention by the Bank of Japan	https://doi.org/10.1016/s0261-5606(97)00056-9	1	12	119	1998
+386	dunne (2004)	Macroeconomic Order Flows: Explaining Equity and Exchange Rate Returns	https://doi.org/10.2139/ssrn.626852	2	2	7	2004
+387	boothe (1988)	EXCHANGE RATE RISK and THE BID‐ASK SPREAD: A SEVEN COUNTRY COMPARISON	https://doi.org/10.1111/j.1465-7295.1988.tb01510.x	2	11	57	1988
+388	overturf (1982)	RISK, TRANSACTIONS CHARGES, AND THE MARKET FOR FOREIGN EXCHANGE SERVICES	https://doi.org/10.1111/j.1465-7295.1982.tb01157.x	2	4	14	1982
+389	bossaerts (1991)	Market Microstructure Effects of Government Intervention in the Foreign Exchange Market	https://doi.org/10.1093/rfs/4.3.513	2	18	93	1991
+390	danı́elsson (2002)	Real trading patterns and prices in spot foreign exchange markets	https://doi.org/10.1016/s0261-5606(01)00043-2	2	28	138	2002
+391	sager (2008)	Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor	https://doi.org/10.1111/j.1538-4616.2008.00129.x	2	19	68	2008
+392	bessembinder (1994)	Bid-ask spreads in the interbank foreign exchange markets	https://doi.org/10.1016/0304-405x(94)90036-1	2	45	211	1994
+393	ding (2008)	Bid–ask spread and order size in the foreign exchange market: an empirical investigation	https://doi.org/10.1002/ijfe.365	2	2	22	2008
+394	jordà (2003)	MODELING HIGH-FREQUENCY FOREIGN EXCHANGE DATA DYNAMICS	https://doi.org/10.1017/s136510050202014x	2	1	6	2003
+395	cheung (2000)	A survey of market practitioners’ views on exchange rate dynamics	https://doi.org/10.1016/s0022-1996(99)00009-4	2	18	214	2000
+396	bjønnes (2004)	Dealer behavior and trading systems in foreign exchange markets	https://doi.org/10.1016/j.jfineco.2004.08.001	2	56	239	2004
+397	sarno (2001)	The Microstructure of the Foreign-Exchange Market: A Selective Survey of the Literature	https://openalex.org/W1486121897	2	5	110	2001
+398	menkhoff (2007)	Local information in foreign exchange markets	https://doi.org/10.1016/j.jimonfin.2007.10.003	2	9	26	2007
+399	goodhart (2002)	Analysis of spreads in the dollar/euro and deutschemark/dollar foreign exchange markets	https://doi.org/10.1111/1468-0327.00096	2	2	19	2002
+400	flood (1994)	Market structure and inefficiency in the foreign exchange market	https://doi.org/10.1016/0261-5606(94)90012-4	2	9	35	1994
+401	martens (1998)	The inefficiency of Reuters foreign exchange quotes	https://doi.org/10.1016/s0378-4266(98)00004-1	2	4	28	1998
+402	evans (2002)	Informational integration and FX trading	https://doi.org/10.1016/s0261-5606(02)00024-4	2	29	146	2002
+403	marsh (2005)	Customer Order Flow and Exchange Rate Movements: Is There Really Information Content?	https://doi.org/10.2139/ssrn.704944	2	24	63	2005
+404	jaffe (1985)	The Week-End Effect in Common Stock Returns: The International Evidence	https://doi.org/10.1111/j.1540-6261.1985.tb04966.x	1	9	771	1985
+405	bassler (2008)	Empirically based modeling in financial economics and beyond, and spurious stylized facts	https://doi.org/10.1016/j.irfa.2008.02.002	3	1	16	2008
+406	ramazan (2001)	An Introduction to High-Frequency Finance	https://doi.org/10.1016/b978-0-12-279671-5.x5000-x	2	31	956	2001
+407	dominguez (2006)	What defines ‘news’ in foreign exchange markets?	https://doi.org/10.1016/j.jimonfin.2005.10.009	2	22	103	2006
+408	beltratti (2001)	Deterministic and Stochastic Methods for Estimation of Intra‐day Seasonal Components with High Frequency Data	https://doi.org/10.1111/j.0391-5026.2001.00054.x	1	3	14	2001
+409	andersen (2001)	Variance‐ratio Statistics and High‐frequency Data: Testing for Changes in Intraday Volatility Patterns	https://doi.org/10.1111/0022-1082.00326	1	3	106	2001
+410	bos (2008)	Model-Based Estimation of High Frequency Jump Diffusions with Microstructure Noise and Stochastic Volatility	https://doi.org/10.2139/ssrn.967303	2	2	8	2008
+411	curcio (1997)	Do technical trading rules generate profits? Conclusions from the intra-day foreign exchange market	https://doi.org/10.1002/(sici)1099-1158(199710)2:4<267::aid-jfe57>3.0.co;2-j	1	8	72	1997
+412	taylor (1992)	The use of technical analysis in the foreign exchange market	https://doi.org/10.1016/0261-5606(92)90048-3	2	25	1071	1992
+413	cheung (2001)	Currency traders and exchange rate dynamics: a survey of the US market	https://doi.org/10.1016/s0261-5606(01)00002-x	2	33	538	2001
+414	cheung (2000)	How Do UK-Based Foreign Exchange Dealers Think Their Market Operates?	https://doi.org/10.3386/w7524	2	7	53	2000
+415	cheung (2000)	Currency Traders and Exchange Rate Dynamics: A Survey of the U.S. Market	https://openalex.org/W3125400277	2	2	8	2000
+416	lee (2025)	Jumps and Post-FOMC Announcement Returns in Currency Markets	https://doi.org/10.1093/rapstu/raaf003	1	0	2	2025
+417	sobti (2025)	What triggers intraday price jumps and co-jumps in gold?	https://doi.org/10.1016/j.irfa.2025.104380	1	0	6	2025
+418	frömmel (2007)	Order flows, news, and exchange rate volatility	https://doi.org/10.1016/j.jimonfin.2007.07.002	1	10	35	2007
+419	masry (2013)	Time zone normalization of FX seasonality	https://doi.org/10.1080/14697688.2013.773458	1	0	9	2013
+420	hashimoto (2010)	Random walk or a run. Market microstructure analysis of foreign exchange rate movements based on conditional probability	https://doi.org/10.1080/14697681003792237	2	2	9	2010
+421	mcmillan (2008)	Long-memory in high-frequency exchange rate volatility under temporal aggregation	https://doi.org/10.1080/14697680601150699	1	0	2	2008
+422	bedendo (2004)	A PARSIMONIOUS CONTINUOUS TIME MODEL OF EQUITY INDEX RETURNS: INFERRED FROM HIGH FREQUENCY DATA	https://doi.org/10.1142/s0219024904002773	3	0	3	2004
+423	bjønnes (2019)	The impact of different players on the volume-volatilityrelation in the foreign exchange market	https://doi.org/10.18261/issn.1504-3134-2019-01-04	2	0	2	2019
+424	goodhart (1997)	Calibrating an algorithm for estimating transactions from FXFX exchange rate quotes	https://doi.org/10.1016/s0261-5606(97)00013-2	2	1	10	1997
+425	reitz (2014)	Financial intermediation and the role of price discrimination in the foreign exchange market	https://doi.org/10.1080/1351847x.2013.830139	2	0	1	2014
+426	fecht (2018)	Dealer behaviour in the Euro money market during times of crisis	https://doi.org/10.1080/00036846.2018.1486014	2	0	2	2018
+427	omrane (2004)	The Foreign Exchange Quoting Activity as an Informative Signal	https://doi.org/10.2139/ssrn.488724	2	2	3	2004
+428	stenfors (2018)	Liquidity withdrawal in the FX spot market: A cross-country study using high-frequency data	https://doi.org/10.1016/j.intfin.2018.11.010	2	1	10	2018
+429	stenfors (2017)	Bid-ask spread determination in the FX swap market: Competition, collusion or a convention?	https://doi.org/10.1016/j.intfin.2017.08.001	2	3	30	2017
+430	reitz (2016)	Financial Intermediation and the Role of Price Discrimination in a Two-Tier Market	https://doi.org/10.2139/ssrn.2785342	2	2	5	2016
+431	nagakura (2013)	A State Space Approach to Estimating the Integrated Variance under the Existence of Market Microstructure Noise	https://doi.org/10.1093/jjfinec/nbt015	2	0	4	2013
+432	chionis (1997)	Some tests of market microstructure hypotheses in the foreign exchange market	https://doi.org/10.1016/s1042-444x(97)00015-7	2	0	22	1997
+433	trapletti (2002)	Forecasting exchange rates using cointegration models and intra‐day data	https://doi.org/10.1002/for.822	1	0	16	2002
+434	bjønnes (2000)	FX Trading... Live! Dealer Behavior and Trading Systems in Foreign Exchange Markets	https://doi.org/10.2139/ssrn.244468	2	2	11	2000
+435	becker (2005)	Were Bid-Ask Spreads in the Foreign Exchange Market Excessive During the Asian Crisis?	https://doi.org/10.5089/9781451860535.001	2	0	3	2005
+436	borkovec (2014)	The Cost of Liquidity in the FX Market	https://doi.org/10.3905/jot.2014.10.1.006	2	0	1	2014
+437	petrov (2018)	Instantaneous Volatility Seasonality of Bitcoin in Directional-Change Intrinsic Time	https://doi.org/10.2139/ssrn.3243797	1	0	2	2018
+438	phylaktis (2005)	Macroeconomic Announcements and Private Information in the Foreign Exchange Market	https://doi.org/10.2139/ssrn.677508	2	0	2	2005
+439	batten (2001)	PRICE DISCOVERY IN THE AUSTRALIAN DOLLAR FOREIGN EXCHANGE MARKET	https://doi.org/10.1111/j.1759-3441.2001.tb00299.x	2	0	1	2001
+440	lai (2025)	The role of sovereign credit risk in the FX market	https://doi.org/10.1080/1351847x.2025.2589990	2	0	2	2025
+441	safari (2025)	Trends and reversion in financial markets on time scales from minutes to decades	https://doi.org/10.1016/j.physa.2025.130796	2	0	1	2025
+442	sasaki (2025)	An artificial market model for the forex market	https://doi.org/10.1057/s41599-025-04605-5	2	0	3	2025
+443	macdonald (1999)	High Frequency Exchange Rate Modelling	https://doi.org/10.1007/978-1-4757-2997-9_6	2	0	2	1999
+444	hogan (2004)	Informed and uninformed trading on the Australian dollar	https://doi.org/10.1016/j.irfa.2004.06.004	2	2	5	2004
+445	dacorogna (1996)	Changing time scale for short-term forecasting in financial markets	https://doi.org/10.1002/(sici)1099-131x(199604)15:3<203::aid-for619>3.0.co;2-y	2	2	40	1996
+446	szakmary (1997)	Central bank intervention and trading rule profits in foreign exchange markets	https://doi.org/10.1016/s0261-5606(97)00017-x	1	3	151	1997
+447	lin (1995)	Market closure and predictability of intradaily stock returns in the United States and Japan	https://doi.org/10.1016/0927-5398(94)00009-6	1	0	1	1995
+448	sehgal (2015)	An investigation of price discovery and volatility spillovers in India’s foreign exchange market	https://doi.org/10.1108/jes-11-2012-0157	2	0	53	2015
+449	tang (1998)	Weekly Pattern of Exchange Rate Risks: Evidence from Ten Asian-Pacific Currencies	https://doi.org/10.1023/a:1010050025656	1	1	3	1998
+450	treepongkaruna (2012)	Do trading hours affect volatility links in the foreign exchange market?	https://doi.org/10.1177/0312896211411934	1	1	9	2012
+451	bradley (2013)	Are Analysts’ Recommendations Informative? Intraday Evidence on the Impact of Time Stamp Delays	https://doi.org/10.1111/jofi.12107	3	0	201	2013
+452	serdengeçti (2021)	Dynamics of return and liquidity (co) jumps in emerging foreign exchange markets	https://doi.org/10.1016/j.intfin.2021.101377	2	2	7	2021
+453	jabeen (2021)	Macroeconomic News and Exchange Rates: Exploring the Role of Order Flow	https://doi.org/10.1177/09749101211040146	2	0	2	2021
+454	hasbrouck (2018)	FX Market Metrics: New Findings Based on CLS Bank Settlement Data	https://doi.org/10.2139/ssrn.2912976	2	2	7	2018
+455	ranaldo (2018)	Asymmetric Information Risk in FX Markets	https://doi.org/10.2139/ssrn.3263279	2	0	1	2018
+456	huang (2023)	HFTs and Dealer Banks: Liquidity and Price Discovery in FX Trading	https://doi.org/10.2139/ssrn.4349184	2	1	3	2023
+457	dupuis (2012)	High Frequency Finance: Using Scaling Laws to Build Trading Models	https://doi.org/10.1002/9781118445785.ch20	2	0	13	2012
+458	dungey (2007)	The US treasury market in August 1998: untangling the effects of Hong Kong and Russia with high‐frequency data	https://doi.org/10.1002/ijfe.356	2	0	7	2007
+459	borgy (2010)	Liquidity Problems in the FX Liquid Market: Ask for the 'BIL'	https://doi.org/10.2139/ssrn.1619205	2	1	15	2010
+460	wu (2022)	Informativeness of trades around macroeconomic announcements in the foreign exchange market	https://doi.org/10.1016/j.intfin.2022.101533	2	0	2	2022
+461	kitamura (2016)	The probability of informed trading measured with price impact, price reversal, and volatility	https://doi.org/10.1016/j.intfin.2016.02.001	2	0	7	2016
+462	gau (2014)	Order choices under information asymmetry in foreign exchange markets	https://doi.org/10.1016/j.intfin.2014.01.008	2	0	2	2014
+463	kitamura (2010)	The Impact of Order Flow on the Foreign Exchange Market: A Copula Approach	https://doi.org/10.1007/s10690-010-9118-0	2	0	3	2010
+464	peng (2024)	Predicting FX market movements using GAN with limit order event data	https://doi.org/10.1016/j.frl.2024.106527	2	0	3	2024
+465	kitamura (2016)	Simple measures of market efficiency: A study in foreign exchange markets	https://doi.org/10.1016/j.japwor.2016.11.001	2	1	10	2016
+466	kitamura (2011)	Informational linkages among the major currencies in the EBS market: Evidence from the spot rates of the Euro, Yen and Swiss franc	https://doi.org/10.1016/j.japwor.2011.12.003	2	0	3	2011
+467	chen (2013)	Asymmetric responses of ask and bid quotes to information in the foreign exchange market	https://doi.org/10.1016/j.jbankfin.2013.10.004	2	0	12	2013
+468	chen (2022)	The information effect of order flows in foreign currency futures and spot markets	https://doi.org/10.1002/fut.22345	2	0	5	2022
+469	chang (2017)	Liquidity Commonality in Foreign Exchange Markets During the Global Financial Crisis and the Sovereign Debt Crisis: Effects of Macroeconomic and Quantitative Easing Announcements	https://doi.org/10.1016/j.najef.2017.06.004	2	1	9	2017
+470	sherman (2011)	Herding in the Foreign Exchange Market	https://doi.org/10.2139/ssrn.1907847	2	0	2	2011
+471	schmidt (2010)	Microstructure and Execution Strategies in the Global Spot FX Market	https://doi.org/10.1007/978-4-431-53853-0_3	2	0	1	2010
+472	misik (2026)	Triangular Arbitrage, Market Microstructure, and Correlation Dynamics in Global and Regional Currency Trios	https://doi.org/10.2139/ssrn.6265633	2	0	0	2026
+473	gentner (2025)	The role of hedge funds in the Swiss franc foreign exchange market	https://doi.org/10.1016/j.jimonfin.2025.103311	2	0	1	2025
+474	huang (2025)	Constrained liquidity provision in currency markets	https://doi.org/10.1016/j.jfineco.2025.104028	2	0	16	2025
+475	banti (2011)	Global liquidity risk in the foreign exchange market	https://doi.org/10.1016/j.jimonfin.2011.11.010	2	12	89	2011
+476	nolte (2012)	The Information Content of Retail Investors' Order Flow	https://doi.org/10.1080/1351847x.2014.963633	2	1	13	2012
+477	vitale (2011)	Optimal informed trading in the foreign exchange market	https://doi.org/10.1080/1351847x.2011.601650	2	2	6	2011
+478	danı́elsson (2011)	Liquidity determination in an order-driven market	https://doi.org/10.1080/1351847x.2011.601654	2	3	40	2011
+479	danı́elsson (2011)	Exchange rate determination and inter-market order flow effects	https://doi.org/10.1080/1351847x.2011.601655	2	16	53	2011
+480	reitz (2010)	End-user order flow and exchange rate dynamics – a dealer's perspective	https://doi.org/10.1080/13518471003651925	2	3	12	2010
+481	siikanen (2019)	Trading too expensively in the FX market?	https://doi.org/10.1080/14697688.2019.1615633	2	0	2	2019
+482	bjønnes (2009)	Asymmetric Information in the Interbank Foreign Exchange Market	https://doi.org/10.2139/ssrn.1343833	2	1	3	2009
+483	chelley‐steeley (2013)	Bid-ask spread dynamics in foreign exchange markets	https://doi.org/10.1016/j.irfa.2013.02.003	2	2	8	2013
+484	zhang (2012)	Exchange rate determination and dynamics in China: A market microstructure analysis	https://doi.org/10.1016/j.irfa.2012.08.005	2	2	22	2012
+485	stenfors (2020)	Spoofing and pinging in foreign exchange markets	https://doi.org/10.1016/j.intfin.2020.101278	2	0	7	2020
+486	osler (2012)	Market Microstructure and the Profitability of Currency Trading	https://doi.org/10.1146/annurev-financial-110311-101726	2	1	10	2012
+487	chen (2007)	Asymmetric Linkages between High-Frequency Dem/USD and GBP/USD Exchange Rates	https://doi.org/10.2139/ssrn.1032956	2	0	1	2007
+488	rime (2001)	Private or Public Information in Foreign Exchange Markets? An Empirical Analysis	https://doi.org/10.2139/ssrn.239149	2	7	36	2001
+489	gradojević (2006)	The microstructure of the Canada/U.S. dollar exchange rate: A robustness test	https://doi.org/10.1016/j.econlet.2006.09.001	2	6	16	2006
+490	frömmel (2012)	Spread Components in the Hungarian Forint-Euro Market	https://doi.org/10.2753/ree1540-496x480303	2	1	7	2012
+491	gargano (2018)	The Value of Volume in Foreign Exchange	https://doi.org/10.2139/ssrn.3019870	2	1	10	2018
+492	nolte (2006)	Customer Trading in the Foreign Exchange Market: Empirical Evidence from an Internet Trading Platform	https://doi.org/10.2139/ssrn.908255	2	1	7	2006
+493	phylaktis (2007)	Do Top Trading Banks in Foreign Exchange Business Know More?	https://doi.org/10.2139/ssrn.965813	2	0	2	2007
+494	taylor (2008)	End-User Order Flow and Exchange Rate Dynamics	https://doi.org/10.2139/ssrn.1157681	2	1	28	2008
+495	menkhoff (2016)	Information Flows in Foreign Exchange Markets: Dissecting Customer Currency Trades	https://doi.org/10.1111/jofi.12378	2	13	124	2016
+496	king (2013)	The Market Microstructure Approach to Foreign Exchange: Looking Back and Looking Forward	https://doi.org/10.2139/ssrn.2268871	2	2	10	2013
+497	fourel (2015)	Common Factors, Order Flows, and Exchange Rate Dynamics	https://doi.org/10.2139/ssrn.2636607	2	0	2	2015
+498	breedon (2023)	The currency that came in from the cold: Capital controls and the information content of order flow	https://doi.org/10.1016/j.jimonfin.2023.102945	2	0	2	2023
+499	anifowose (2018)	Currency Order Flow and Exchange Rate Determination: Empirical Evidence from the Malaysian Foreign Exchange Market	https://doi.org/10.1177/0972150918772925	2	2	11	2018
+500	zhang (2013)	Exchange Rate Determination and Forecasting: Can the Microstructure Approach Rescue Us from the Exchange Rate Disparity?	https://doi.org/10.1155/2013/724259	2	0	2	2013
+501	vitale (2007)	A GUIDED TOUR OF THE MARKET MICROSTRUCTURE APPROACH TO EXCHANGE RATE DETERMINATION	https://doi.org/10.1111/j.1467-6419.2007.00524.x	2	5	44	2007
+502	duffuor (2011)	ORDER FLOW AND EXCHANGE RATE DYNAMICS: AN APPLICATION TO EMERGING MARKETS	https://doi.org/10.1002/ijfe.451	2	4	19	2011
+503	vitale (2010)	The impact of FX intervention on FX markets: a market microstructure analysis	https://doi.org/10.1002/ijfe.418	2	0	16	2010
+504	phylaktis (2009)	Asymmetric information, price discovery and macroeconomic announcements in FX market: do top trading banks know more?	https://doi.org/10.1002/ijfe.391	2	7	48	2009
+505	evans (2006)	Understanding order flow	https://doi.org/10.1002/ijfe.287	2	22	89	2006
+506	danı́elsson (2006)	Feedback trading	https://doi.org/10.1002/ijfe.286	2	18	58	2006
+507	ayala (2019)	Score-driven models of stochastic seasonality in location and scale: an application case study of the Indian rupee to USD exchange rate	https://doi.org/10.1080/00036846.2019.1588952	1	0	7	2019
+508	firouzi (2021)	The interrelationship between order flow, exchange rate, and the role of American economic news	https://doi.org/10.1016/j.najef.2021.101492	2	0	5	2021
+509	heinlein (2021)	Do financial markets respond to macroeconomic surprises? Evidence from the UK	https://doi.org/10.1007/s00181-021-02108-1	2	0	11	2021
+510	firouzi (2019)	A comparative study of exchange rates and order flow based on wavelet transform coherence and cross wavelet transform	https://doi.org/10.1016/j.econmod.2019.09.006	2	1	34	2019
+511	zhang (2015)	Day-of-the-week trading patterns of informed and uninformed traders in Taiwan's foreign exchange market	https://doi.org/10.1016/j.econmod.2015.03.004	1	2	8	2015
+512	chaboud (2007)	Frequency of Observation and the Estimation of Integrated Volatility in Deep and Liquid Financial Markets	https://doi.org/10.17016/ifdp.2007.905	2	0	1	2007
+513	osler (2009)	Hedge Funds and the Origins of Private Information in Currency Markets	https://doi.org/10.2139/ssrn.1484711	2	5	20	2009
+514	gradojević (2012)	Multiscale Analysis of Foreign Exchange Order Flows and Technical Trading Profitability	https://doi.org/10.2139/ssrn.2085497	2	0	2	2012
+515	berger (2006)	What Drives Volatility Persistence in the Foreign Exchange Market?	https://doi.org/10.17016/ifdp.2006.862	2	0	4	2006
+516	shiyongyoo (2010)	Enhancing the Prediction Power of Realized Volatility Using Volatilities of Other Financial Markets	https://doi.org/10.31203/aepa.2010.7.4.004	1	0	1	2010
+517	banti (2012)	FX Market Liquidity, Funding Constraints and Capital Flows	https://doi.org/10.2139/ssrn.2081602	2	1	1	2012
+518	goss (2015)	Can Economists Forecast Exchange Rates? The Debate R e‐Visited: The Case of the USD / GBP Market	https://doi.org/10.1111/1467-8454.12057	2	0	1	2015
+519	şahi̇n (2023)	An Empirical Examination of Asymmetry on Exchange Rate Spread Using the Quantile Autoregressive Distributed Lag (QARDL) Model	https://doi.org/10.3390/jrfm16010038	2	0	8	2023
+520	chong (2003)	Maturity Effect on Bid-Ask Spreads of OTC Currency Options	https://doi.org/10.1023/a:1024883004298	2	0	18	2003
+521	hua (2008)	A study on foreign exchange dealers' bid–ask spread quote behavior	https://doi.org/10.1016/j.pacfin.2008.11.003	2	0	4	2008
+522	yamamoto (2026)	Do Macroeconomic Fundamentals Still Drive Currency Price Determination? Evidence from Market Microstructure	https://doi.org/10.2139/ssrn.6037020	2	0	0	2026
+523	king (2010)	Timing exchange rates using order flow: The case of the Loonie	https://doi.org/10.1016/j.jbankfin.2010.02.016	2	6	47	2010
+524	alexander (2019)	A Critical Investigation of Cryptocurrency Data and Analysis	https://doi.org/10.1080/14697688.2019.1641347	3	1	199	2019
+525	alexander (2022)	The role of binance in bitcoin volatility transmission	https://openalex.org/W3174472908	1	0	36	2022
+526	caporale (2021)	The frequency of one-day abnormal returns and price fluctuations in the forex	https://doi.org/10.1080/15140326.2021.1953914	1	0	3	2021
+527	brauneis (2022)	Bitcoin unchained: Determinants of cryptocurrency exchange liquidity	https://doi.org/10.1016/j.jempfin.2022.08.004	2	2	46	2022
+528	ma (2022)	Intraday patterns of price clustering in Bitcoin	https://doi.org/10.1186/s40854-021-00307-4	1	1	20	2022
+529	ahmed (2024)	On the robust drivers of cryptocurrency liquidity: the case of Bitcoin	https://doi.org/10.1186/s40854-023-00598-9	2	0	9	2024
+530	brauneis (2018)	Bitcoin exchange rates: How integrated are markets?	https://doi.org/10.2139/ssrn.3249477	2	1	12	2018
+531	shen (2021)	Bitcoin intraday time series momentum	https://doi.org/10.1111/fire.12290	1	0	37	2021
+532	ma (2019)	On the day-of-the-week effects of Bitcoin markets: international evidence	https://doi.org/10.1108/cfri-12-2018-0158	1	0	20	2019
+533	ke (2007)	Day-of-the-week effect in the Taiwan foreign exchange market	https://doi.org/10.1016/j.jbankfin.2007.03.005	1	7	49	2007
+534	yamori (2004)	DOES THE DAY-OF-THE-WEEK EFFECT IN FOREIGN CURRENCY MARKETS DISAPPEAR? EVIDENCE FROM THE YEN/DOLLAR MARKET	https://doi.org/10.1016/s1569-3767(03)04021-4	1	3	22	2004
+535	labidi (2024)	Islamic mutual funds: Seasonal patterns and determinants of performance across regions	https://doi.org/10.1002/ijfe.3042	1	0	0	2024
+536	singh (2019)	Day-of-the-week effect of major currency pairs: new evidences from investors’ fear gauge	https://doi.org/10.1057/s41260-019-00140-6	1	0	6	2019
+537	a (2006)	Day of the week effect on foreign exchange market volatility: Evidence from Turkey	https://doi.org/10.1016/j.ribaf.2006.03.003	1	7	45	2006
+538	yamori (2004)	The day-of-the-week effect in foreign exchange markets: multi-currency evidence	https://doi.org/10.1016/j.ribaf.2004.02.004	1	8	56	2004
+539	thatcher (2001)	Synthetic Trades and Calendar Day Patterns The Case of the Dollar/Sterling Markets	https://doi.org/10.1111/j.1540-6288.2001.tb00016.x	1	1	16	2001
+540	girardin (2019)	The January effect in the foreign exchange market: Evidence for seasonal equity carry trades	https://doi.org/10.1016/j.econmod.2019.07.021	1	0	9	2019
+541	giot (2004)	Modelling daily Value-at-Risk using realized volatility and ARCH type models	https://doi.org/10.1016/j.jempfin.2003.04.003	1	5	399	2004
+542	ané (2007)	Robust outlier detection for Asia–Pacific stock index returns	https://doi.org/10.1016/j.intfin.2007.03.001	3	0	40	2007
+543	chong (2004)	Options trading profits from correlation forecasts	https://doi.org/10.1080/0960310042000281194	2	0	13	2004
+544	mensi (2025)	Modeling intraday jumps and cojumps in oil and currency markets: the role of U.S. macroeconomic news	https://doi.org/10.1007/s11156-025-01461-x	1	0	0	2025
+545	chen (2022)	Periodicity of trading activity in foreign exchange markets	https://doi.org/10.1111/jfir.12280	1	0	3	2022
+546	novotný (2015)	Trading price jump clusters in foreign exchange markets	https://doi.org/10.1016/j.finmar.2015.03.002	2	1	19	2015
+547	nava (2016)	Time-dependent scaling patterns in high frequency financial data	https://doi.org/10.1140/epjst/e2015-50328-y	3	0	16	2016
+548	schulmeister (2010)	The Interaction between Technical Currency Trading and Exchange Rate Fluctuations	https://doi.org/10.2139/ssrn.884330	2	2	18	2010
+549	cialenco (2010)	Do technical trading profits remain in the foreign exchange market? Evidence from 14 currencies	https://doi.org/10.1016/j.intfin.2010.10.001	2	0	16	2010
+550	kozhan (2011)	The information content of a limit order book: The case of an FX market	https://doi.org/10.1016/j.finmar.2011.07.002	2	3	48	2011
+551	hsu (2014)	Forty Years, Thirty Currencies and 21,000 Trading Rules: A Large-Scale, Data-Snooping Robust Analysis of Technical Trading in the Foreign Exchange Market	https://doi.org/10.2139/ssrn.2517125	3	1	10	2014
+552	psaradellis (2021)	Technical analysis, spread trading, and data snooping control	https://doi.org/10.1016/j.ijforecast.2021.10.002	3	0	8	2021
+553	zeman (2014)	Technical Trading and Testing of Intra-day Market Efficiency in the Foreign Exchange Market	https://doi.org/10.32725/acta.2014.001	1	0	1	2014
+554	kuck (2018)	Intra-day dynamics of exchange rates: New evidence from quantile regression	https://doi.org/10.1016/j.qref.2018.09.001	1	0	7	2018
+555	zeman (2013)	High-frequency data and the effectiveness of the spot exchange rate EUR/USD	https://doi.org/10.11118/actaun201361072965	2	0	1	2013

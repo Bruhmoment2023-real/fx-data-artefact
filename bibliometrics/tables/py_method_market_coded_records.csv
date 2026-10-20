@@ -1,0 +1,687 @@
+﻿id,title,year,methods,markets
+,The determinants of bid-ask spreads in the foreign exchange futures market: A microstructure analysis,1999,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,FX futures / options / forwards
+,"Foreign exchange futures volatility: Day-of-the-week, intraday, and maturity patterns in the presence of macroeconomic announcements",1999,Intraday seasonality / periodicity models; Event study / announcements,FX futures / options / forwards; Retail / broker / tick-level FX
+,Nonsampling measurement error in administrative data: Implications for economic evaluations,1996,Data cleaning / error documentation,
+,"Linking ecological and hydromorphological data: approaches, challenges and future prospects for riverine science",2010,Data cleaning / error documentation,
+,Building architectures for data‐intensive science using the ADAGE framework,2014,Event study / announcements; Data cleaning / error documentation,
+,Modeling and forecasting intraday VaR of an exchange rate portfolio,2018,,Retail / broker / tick-level FX
+,Jump forecasting in foreign exchange markets: A high‐frequency analysis,2023,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Component‐Driven FX Volatility Prediction: Evidence From USDCNH via GARCH‐MIDAS Models Exploiting Leading Indicators,2025,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Bonds / commodities / other
+,Measuring and forecasting S&P 500 index‐futures volatility using high‐frequency data,2002,,FX futures / options / forwards; Equities / stock databases
+,An intraday test of pricing and arbitrage opportunities in the New Zealand bank bill futures market,2002,,"Spot FX, interbank (EBS, Reuters); FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases"
+,Intraday price-reversal patterns in the currency futures market: The impact of the introduction of GLOBEX and the euro,2006,Data cleaning / error documentation,FX futures / options / forwards
+,"Intraday volatility in the bond, foreign exchange, and stock index futures markets",2008,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,Price discovery in electronic foreign exchange markets: The sterling/dollar market,2009,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,A Filtering Process to Remove the Stochastic Component from Intraday Seasonal Volatility,2012,Intraday seasonality / periodicity models; Event study / announcements; Data cleaning / error documentation,FX futures / options / forwards
+,Estimating the unit costs of public hospitals and primary healthcare centers,2012,Data cleaning / error documentation,
+,Are measurements from excised leaves suitable for modeling diurnal patterns of gas exchange of intact leaves?,2011,Intraday seasonality / periodicity models,
+,"Macroeconomic announcements, communication and order flow on the Hungarian foreign exchange market",2010,Event study / announcements; Spread / liquidity / order-flow regressions,
+,TEMPORAL AND SPATIAL PATTERNS OF SPECIFIC LEAF WEIGHT IN SUCCESSIONAL NORTHERN HARDWOOD TREE SPECIES,1986,Intraday seasonality / periodicity models,
+,Fat tails and spurious estimation of consumption‐based asset pricing models,2017,,
+,Bridging the gap between the distribution of realized (ECU) volatility and ARCH modelling (of the Euro): the GARCH‐NIG model,2002,"Volatility models (GARCH, realized vol.)",
+,Quality management system and design of an integrated mesoscale meteorological network in Central Italy,2022,Data cleaning / error documentation,
+,Flexible data anonymization using ARX—Current status and challenges ahead,2020,Data cleaning / error documentation,
+,The impact of ostomy on colorectal cancer patients and caregivers: a qualitative study,2025,Data cleaning / error documentation,
+,Optimising Instrumented Mouthguard Data Analysis: Video Synchronisation Using a Cross-correlation Approach,2025,Data cleaning / error documentation,
+,Can social microblogging be used to forecast intraday exchange rates?,2013,,Retail / broker / tick-level FX; Equities / stock databases
+,The crypto world trades at tea time: intraday evidence from centralized exchanges across the globe,2024,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,Equities / stock databases
+,"Data Gap Analysis, Indicator Selection and Index Development: A Case for Developing Economies",2019,Data cleaning / error documentation,
+,Momentum effects in the cryptocurrency market after one-day abnormal returns,2020,Trading-rule backtests / anomalies,
+,Foreign exchange markets with Last Look,2018,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,The Leverage Effect and Other Stylized Facts Displayed by Bitcoin Returns,2021,,Equities / stock databases
+,Cross-time-frequency analysis of volatility linkages in global currency markets: an extended framework,2022,"Volatility models (GARCH, realized vol.)",
+,Dedollarisation in the BRICS+ currency bloc: a market-based analysis of return and volatility connectedness,2026,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",
+,"Cross-numeraire relative pricing of ethereum: data authority, market frictions, and static arbitrage bounds",2026,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions; Data cleaning / error documentation",
+,Ensemble-based customer churn prediction in banking: a voting classifier approach for improved client retention using demographic and behavioral data,2025,Data cleaning / error documentation,
+,Challenges and strategies for wide-scale artificial intelligence (AI) deployment in healthcare practices: A perspective for healthcare organizations,2024,Data cleaning / error documentation,
+,Diurnal and seasonal variation in air exchange rates and interzonal airflows measured by active and passive tracer gas in homes,2016,Intraday seasonality / periodicity models,
+,On spurious anti-persistence in the US stock indices,2010,,Equities / stock databases
+,Survivorship bias and comparability of UK open-ended fund databases,2018,Data cleaning / error documentation,
+,Losing sleep at the international market: Daylight Saving Time and exchange rates,2024,,
+,Intraday effect of news on emerging European forex markets: An event study analysis,2018,Event study / announcements,
+,Study on a prediction of P2P network loan default based on the machine learning LightGBM and XGboost algorithms according to different high dimensional data cleaning,2018,Data cleaning / error documentation,
+,Intraday-of-the-week effects: What do the exchange rate data tell us?,2020,Intraday seasonality / periodicity models,
+,"Macroeconomic news, senior officials' speeches, and emerging currency markets: An intraday analysis of price jump reaction",2024,Event study / announcements,
+,Causal flows between oil and forex markets using high-frequency data: Asymmetries from good and bad volatility,2019,,Retail / broker / tick-level FX; Bonds / commodities / other
+,On the intraday dynamics of oil price and exchange rate: What can we learn from China and India?,2020,,Bonds / commodities / other
+,Global financial uncertainties and China’s crude oil futures market: Evidence from interday and intraday price dynamics,2021,,FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,"Capturing the dynamics of the China crude oil futures: Markov switching, co-movement, and volatility forecasting",2021,"Volatility models (GARCH, realized vol.)",FX futures / options / forwards; Bonds / commodities / other
+,Position paper on management of personal data in environment and health research in Europe,2022,Data cleaning / error documentation,
+,Trading data for wind power forecasting: A regression market with lasso regularization,2022,Data cleaning / error documentation,
+,How does mistletoe infection affect seasonal physiological responses of hosts with different leaf phenology?,2021,Intraday seasonality / periodicity models,
+,Intraday patterns in foreign exchange returns and realized volatility,2018,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX
+,The inefficiency of Bitcoin revisited: A high-frequency analysis with alternative currencies,2018,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Russia’s ruble during the onset of the Russian invasion of Ukraine in early 2022: The role of implied volatility and attention,2022,,Retail / broker / tick-level FX
+,Historic risk and implied volatility,2019,"Volatility models (GARCH, realized vol.)",FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,On the predictability of the distribution of excess returns in currency markets,2020,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,
+,Analysis of root causes of problems affecting the quality of hospital administrative data: A systematic review and Ishikawa diagram,2021,Data cleaning / error documentation,
+,Intraday evidence of efficacy of 1991–2004 Yen intervention by the Bank of Japan,2006,,
+,Institutional industry herding: Intentional or spurious?,2013,Data cleaning / error documentation,
+,Intraday effects of the currency market,2018,Intraday seasonality / periodicity models,
+,Intra-day seasonality in foreign exchange market transactions,2009,Intraday seasonality / periodicity models; Data cleaning / error documentation,"Spot FX, interbank (EBS, Reuters)"
+,Predictive power of dividend yields and interest rates for stock returns in South Asia: Evidence from a bias-corrected estimator,2019,,Equities / stock databases
+,Trading European Central Bank rumours on the EUR-USD exchange rate market,2018,,Retail / broker / tick-level FX
+,Is Bitcoin a Hedge or Safe-Haven for Currencies? An Intraday Analysis,2018,,Retail / broker / tick-level FX; Bonds / commodities / other
+,Intraday volume-volatility nexus in the FX markets: Evidence from an emerging market,2019,"Volatility models (GARCH, realized vol.)",FX futures / options / forwards
+,Is herding spurious or intentional? Evidence from analyst recommendation revisions and sentiment,2020,,
+,Does Bitcoin still own the dominant power? An intraday analysis,2020,"Volatility models (GARCH, realized vol.)",
+,Volatility transmission in emerging European foreign exchange markets,2011,"Volatility models (GARCH, realized vol.)",
+,The contribution of intraday jumps to forecasting the density of returns,2020,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",FX futures / options / forwards; Bonds / commodities / other
+,Robust estimation of intraweek periodicity in volatility and jump detection,2010,Intraday seasonality / periodicity models,Retail / broker / tick-level FX
+,Discussions on the spurious hyperbolic memory in the conditional variance and a new model,2019,"Volatility models (GARCH, realized vol.)",
+,Is the Presidential Premium Spurious,2020,,Equities / stock databases
+,Foreign exchange market microstructure and the WM/Reuters 4 pm fix,2016,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Fact or friction: Jumps at ultra high frequency,2014,Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,Hedging demand and market intraday momentum,2021,Trading-rule backtests / anomalies,FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,Liquidity in the global currency market,2022,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",
+,The intraday effects of central bank intervention on exchange rate spreads,2012,Event study / announcements; Spread / liquidity / order-flow regressions,
+,"Currency downside risk, liquidity, and financial stability",2018,Spread / liquidity / order-flow regressions,
+,Intraday volatility connectedness on the forex market: the role of uncertainty,2025,,Retail / broker / tick-level FX; Equities / stock databases
+,Exchange rate management in emerging markets: Intervention via an electronic limit order book,2009,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Puzzles in the Tokyo fixing in the forex market: Order imbalances and Bank pricing,2017,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,"Is there an intraday volatility spillover between exchange rate, gold and crude oil?",2023,"Volatility models (GARCH, realized vol.)",Bonds / commodities / other
+,Time-varying effects of macroeconomic news on euro-dollar returns,2019,Event study / announcements,
+,Jump probability using volatility periodicity filters in US Dollar/Euro exchange rates,2020,Intraday seasonality / periodicity models,Retail / broker / tick-level FX
+,Analysis of data clusters obtained by self-organizing methods,2004,Data cleaning / error documentation,Equities / stock databases
+,Decomposing intraday dependence in currency markets: evidence from the AUD/USD spot market,2005,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Tick size reduction and price clustering in a FX order book,2014,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Intraday return inefficiency and long memory in the volatilities of forex markets and the role of trading volume,2018,,Retail / broker / tick-level FX
+,Foreign exchange markets: Price response and spread impact,2021,Spread / liquidity / order-flow regressions,Equities / stock databases
+,What events matter for exchange rate volatility?,2025,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Event study / announcements; Trading-rule backtests / anomalies",Retail / broker / tick-level FX
+,"The survivorship bias, share price effect, and small firm effect in Canadian markets",2003,,Equities / stock databases
+,Realizing the volatility impacts of sovereign credit ratings information on equity and currency markets: Evidence from the Asian Financial Crisis,2012,Event study / announcements,Equities / stock databases
+,Intraday price discovery analysis in the foreign exchange market of an emerging economy: Mexico,2017,,FX futures / options / forwards
+,The intraday dynamics of bitcoin,2019,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions; Data cleaning / error documentation",Retail / broker / tick-level FX; Equities / stock databases
+,Impact of stock market trading on currency market volatility spillovers,2020,"Volatility models (GARCH, realized vol.)",Equities / stock databases
+,Performance of crypto-Forex portfolios based on intraday data,2024,"Volatility models (GARCH, realized vol.)",
+,Real-time quantification of emissions of volatile organic compounds from land spreading of pig slurry measured by PTR-MS and wind tunnels,2018,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,
+,Survivorship bias and attrition effects in measures of performance persistence,1999,,
+,Estimating stochastic volatility diffusion using conditional moments of integrated volatility,2002,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,An investigation of price discovery in informationally-linked markets: equity trading in Malaysia and Singapore,1999,,Equities / stock databases
+,In situ measurements of winter wheat diurnal changes in photosynthesis and environmental factors reveal new insight into photosynthesis improvement by super-high-yield cultivation,2021,Intraday seasonality / periodicity models,Bonds / commodities / other
+,Forecasting Currency Excess Returns: Can the Forward Bias Be Exploited?,2007,Trading-rule backtests / anomalies,
+,INTRADAY PATTERNS IN EXCHANGE RATE OF RETURN OF THE CHILEAN PESO: NEW EVIDENCE FOR DAY-OF-THE-WEEK EFFECT,2010,Intraday seasonality / periodicity models,
+,Seasonal and Diurnal Air Pollution from Residential Cooking and Space Heating in the Eastern Tibetan Plateau,2016,Intraday seasonality / periodicity models,
+,"Diurnal cycle of O3and monoterpenes in a coniferous forest: Importance of atmospheric stability, surface exchange, and chemistry",1993,Intraday seasonality / periodicity models,
+,Diurnal CO2 exchange and photosynthesis of the Samoa tropical forest,1990,Intraday seasonality / periodicity models,
+,"Diurnal and seasonal variations in the photosynthetic performance and water relations of two co‐occurring Mediterranean shrubs, Erica multiflora and Globularia alypum",2003,Intraday seasonality / periodicity models,Bonds / commodities / other
+,Impact of temporal variability of radon concentration in workplaces on the actual radon exposure during working hours,2021,Intraday seasonality / periodicity models,
+,Quality Assurance and measurement errors in monitoring tree crown conditions in Italy,2009,Data cleaning / error documentation,
+,The German Acromegaly Registry: Description of the Database and Initial Results,2006,Data cleaning / error documentation,
+,Market Microstructure of the Foreign Exchange Markets: Evidence from the Electronic Broking System,2011,Intraday seasonality / periodicity models; Event study / announcements,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Spurious normativity enhances learning of compliance and enforcement behavior in artificial agents,2022,,
+,The effect of high CO 2 concentrations on diurnal photosynthesis at high daytime temperatures in small stands of cut roses,2012,Intraday seasonality / periodicity models,
+,Seasonality in foreign exchange volatility,2000,Intraday seasonality / periodicity models,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX; Equities / stock databases"
+,"Does the weekday effect of the yen/dollar spot rates exist in Tokyo, London, and New York? An analysis of panel probability distribution",2008,,
+,The intraday bid–ask spread behaviour of the JPY/USD exchange rate in the EBS electronic brokerage system,2009,"Volatility models (GARCH, realized vol.); Event study / announcements; Spread / liquidity / order-flow regressions","Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Intraweek and intraday trade anomalies: evidence from FOREX market,2014,Trading-rule backtests / anomalies,
+,The winner-loser anomaly: recent evidence from Greece,2017,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Equities / stock databases
+,Is the Relationship Between Landholding and Fertility Spurious? A Response to Cain,1986,,Equities / stock databases
+,A new simple test against spurious long memory using temporal aggregation,2011,,Equities / stock databases
+,Methodology for stochastic volatility process calibration application to the CAC 40 index,2011,"Volatility models (GARCH, realized vol.); Data cleaning / error documentation",FX futures / options / forwards; Bonds / commodities / other
+,Deriving diurnal variations in sun-induced chlorophyll-a fluorescence in winter wheat canopies and maize leaves from ground-based hyperspectral measurements,2016,Intraday seasonality / periodicity models,
+,How big data enriches maritime research – a critical review of Automatic Identification System (AIS) data applications,2019,Data cleaning / error documentation,Retail / broker / tick-level FX
+,"On Regression Analysis with Data Cleaning via Trimming, Winsorization, and Dichotomization",2005,Data cleaning / error documentation,Equities / stock databases
+,Wealth data quality in the National Income Dynamics Study Wave 2,2013,Data cleaning / error documentation,
+,Periodic Autoregressive Conditional Heteroscedasticity,1996,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Real and Spurious Long-Memory Properties of Stock-Market Data,1998,,Equities / stock databases
+,The Role of Jumps in Volatility Spillovers in Foreign Exchange Markets: Meteor Shower and Heat Waves Revisited,2018,,
+,Time-Related Factors of Data Quality in Multichannel Information Systems,2003,Data cleaning / error documentation,
+,Factors Activating Big Data Adoption by Korean Firms,2019,Data cleaning / error documentation,
+,Data quality problems troubling business and financial researchers: A literature review and synthetic analysis,2020,Data cleaning / error documentation,Equities / stock databases
+,Induced persistence or reversals in fund performance?: the effect of survivorship bias,2001,,
+,Execution edge of pit traders and intraday price ranges of soft commodities,2007,Spread / liquidity / order-flow regressions,Bonds / commodities / other
+,Intraday evidence of the informational efficiency of the yen/dollar exchange rate,2008,,
+,"Order imbalance, market returns and volatility: evidence from Thailand during the Asian crisis",2009,,Equities / stock databases
+,Volume and volatility in foreign exchange market microstructure: a Markov switching approach,2012,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions","Spot FX, interbank (EBS, Reuters)"
+,Informed and uninformed trading in the EUR/PLN spot market,2012,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,The Effects of US Macroeconomic Surprises on the Intraday Movements of Foreign Exchange Rates: Cases of USD-EUR and USD-JPY Exchange Rates,2010,"Volatility models (GARCH, realized vol.); Event study / announcements",Retail / broker / tick-level FX
+,Does survivorship bias really matter? An empirical investigation into its effects on the mean reversion of share returns on the JSE (1984–2007),2010,Spread / liquidity / order-flow regressions,
+,Data Governance Model To Enhance Data Quality In Financial Institutions,2022,Data cleaning / error documentation,Retail / broker / tick-level FX
+,"Public information, private information, inventory control, and volatility of intraday NTD/USD exchange rates",2004,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Predicting a flash crash in the yen/dollar foreign exchange market,2016,Spread / liquidity / order-flow regressions,
+,Foreign exchange rate shocks and stabilizing role of interbank markets: evidence from Turkey,2022,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Can ESG improve the predictability of high-frequency volatility in the foreign exchange market?—A new high-frequency volatility model with long memory and asymmetry,2025,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX
+,The tick/volatility ratio as a determinant of the compass rose pattern,2005,,FX futures / options / forwards
+,Forecasting daily volatility with intraday data,2008,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)","Spot FX, interbank (EBS, Reuters); Equities / stock databases"
+,Modelling and trading the EUR/USD exchange rate at the ECB fixing,2009,,
+,Intraday euro exchange rates and international macroeconomic announcements,2010,Event study / announcements,
+,Heterogeneous real-time trading strategies in the foreign exchange market,1995,,"Spot FX, interbank (EBS, Reuters)"
+,Contemporaneous ADR pricing: intraday dynamics during overlapping trading hours,2017,,Retail / broker / tick-level FX; Equities / stock databases
+,Flash crash in an OTC market: trading behaviour of agents in times of market stress,2020,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Can the EU emission trading scheme support CDM forestry?,2005,,
+,Impact of economic data surprises on exchange rates in the inter-dealer market,2007,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Do jumps mislead the FX market?,2012,Event study / announcements; Data cleaning / error documentation,"Spot FX, interbank (EBS, Reuters)"
+,"Exchange rate volatility, macroeconomic announcements and the choice of intraday periodicity filtering method",2013,Intraday seasonality / periodicity models; Event study / announcements; Data cleaning / error documentation,Retail / broker / tick-level FX
+,A continuous time Bayesian network classifier for intraday FX prediction,2014,,Retail / broker / tick-level FX
+,Apparent criticality and calibration issues in the Hawkes self-excited point process model: application to high-frequency financial data,2015,Intraday seasonality / periodicity models; Data cleaning / error documentation,FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Statistical tests of distributional scaling properties for financial return series,2018,,Equities / stock databases
+,"Scale-, time- and asset-dependence of Hawkes process estimates on high frequency price changes",2020,Intraday seasonality / periodicity models,"Spot FX, interbank (EBS, Reuters); FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases"
+,Volatility and jump with intraday periodicity and truncated power variation in Chinese yuan-US dollar exchange rates,2024,Intraday seasonality / periodicity models; Data cleaning / error documentation,Retail / broker / tick-level FX
+,Ebbs and flows: the determinants of local currency bond market liquidity in Poland,2020,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,The effects of conventional and unconventional monetary policy on exchange rate volatility,2021,Event study / announcements,Retail / broker / tick-level FX
+,Anomalies in Stock Market Pricing: Problems in Return Measurements*,2006,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Equities / stock databases
+,Thermal Behavior as a Function of the Time of Day: Heat Exchange Rates and Oxygen Consumption in the Lacertid Lizard Lacerta viridis,1985,Intraday seasonality / periodicity models,
+,Signal quality in cardiorespiratory monitoring,2012,Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX; Bonds / commodities / other
+,A real-time adaptive trading system using genetic programming,2001,Trading-rule backtests / anomalies,Retail / broker / tick-level FX; Bonds / commodities / other
+,Bridging the data gap: engaging developing country farmers in greenhouse gas accounting,2013,Intraday seasonality / periodicity models; Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance,2014,Trading-rule backtests / anomalies,
+,Data quality assessment in the routine health information system: an application of the Lot Quality Assurance Sampling in Benin,2014,Data cleaning / error documentation,
+,339. BARRIERS TO INTERNATIONAL RESEARCH IN NEUROPSYCHOPHARMACOLOGY FOR EARLY CAREER RESEARCHERS – PRELIMINARY DATA FROM THE 1ST CINP FELLOWSHIP PROGRAM SURVEY,2025,,
+,Research-grade data in the real world: challenges and opportunities in data quality from a pragmatic trial in community-based practices,2019,Data cleaning / error documentation,Equities / stock databases
+,Spot Variance Path Estimation and Its Application to High-Frequency Jump Testing,2012,Intraday seasonality / periodicity models,Retail / broker / tick-level FX
+,Understanding Spurious Regression in Financial Economics,2013,,Equities / stock databases
+,Semiparametric Density Forecasts of Daily Financial Returns from Intraday Data,2013,,Retail / broker / tick-level FX; Equities / stock databases
+,Intraday End-of-Day Volume Prediction,2019,,FX futures / options / forwards
+,Effect of Day Length and Night Temperature on Starch Accumulation and Degradation in Soybean,1985,Intraday seasonality / periodicity models,
+,FX Spreads and Dealer Competition Across the 24-Hour Trading Day,1999,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Volatility in the Foreign Currency Futures Market,1991,Event study / announcements,FX futures / options / forwards
+,Understanding FX Liquidity,2015,Spread / liquidity / order-flow regressions,
+,… and the Cross-Section of Expected Returns,2015,,
+,"Fund Liquidation, Self-selection, and Look-ahead Bias in the Hedge Fund Industry",2007,Data cleaning / error documentation,
+,Patterns of stomatal conductance among blue oak (Quercus douglasii) size classes and populations: implications for seedling establishment,2003,Intraday seasonality / periodicity models,Bonds / commodities / other
+,The Primary Care Assessment Survey,1998,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,
+,Single vs. Double Data Entry,2004,Data cleaning / error documentation,
+,"Effect of Bentazon, a Hill Reaction Inhibitor, on Symbiotic Nitrogen-fixing Capability and Apparent Photosynthesis",1979,,
+,"Endogenous Rhythms in Photosynthesis, Sucrose Phosphate Synthase Activity, and Stomatal Resistance in Leaves of Soybean (Glycine max [L.] Merr.)",1985,Intraday seasonality / periodicity models,
+,Diurnal Starch Accumulation and Utilization in Phosphorus-Deficient Soybean Plants,1992,Intraday seasonality / periodicity models,
+,Patterns of Assimilate Production and Translocation in Muskmelon (Cucumis melo L.),1992,Intraday seasonality / periodicity models,
+,Does the measure of information quality influence survival bias?,2001,Data cleaning / error documentation,
+,The January effect anomaly: effect on the returns-earnings association,2015,Trading-rule backtests / anomalies,Equities / stock databases
+,Price bubbles in agricultural commodity markets and contributing factors: evidence for corn and soybeans in China,2020,Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,Antecedents of big data analytics (BDA) adoption in private firms: a sequential explanatory approach,2023,Data cleaning / error documentation,
+,Modeling big data enablers for operations and supply chain management,2018,Data cleaning / error documentation,
+,Intraday analysis of currency ETFs,2015,,Retail / broker / tick-level FX
+,Quality management practices enhance the legitimacy of organizations through improved performance: a perspective from oil processing industries,2024,Data cleaning / error documentation,Bonds / commodities / other
+,Do intraday week effect in currencies hourly trading reflect leverage and asymmetric anomalies? Policy implications for traders,2021,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Trading-rule backtests / anomalies",
+,Dynamics of exchange rate determination and currency order flow in the Thailand foreign exchange market,2017,Spread / liquidity / order-flow regressions,
+,Daily abnormal price changes and trading strategies in the FOREX,2020,Trading-rule backtests / anomalies,
+,Style and fit customization: a web content mining approach to evaluate online mass customization experiences,2020,Data cleaning / error documentation,
+,Revolutionizing primary health care in Tanzania: unravelling the contextual factors on electronic health record systems implementation for effective decision support,2024,Data cleaning / error documentation,
+,The fall and rise of intellectual capital accounting: new prospects from the Big Data revolution,2018,Data cleaning / error documentation,
+,Examining the relationship between emotional intelligence and work engagement of automobile sector employees in Chennai,2022,Data cleaning / error documentation,Bonds / commodities / other
+,Technology takes to securities trading,1997,Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,End-to-End Data Quality Assessment Using Trust for Data Shared IoT Deployments,2022,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,Bonds / commodities / other
+,Data Cleaning for Personal Credit Scoring by Utilizing Social Media Data: An Empirical Study,2020,Data cleaning / error documentation,
+,QuantCloud: Enabling Big Data Complex Event Processing for Quantitative Finance Through a Data-Driven Execution,2018,Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting,2025,Data cleaning / error documentation,Equities / stock databases
+,NMFT: A Copyrighted Data Trading Protocol Based on NFT and AI-Powered Merkle Feature Tree,2025,Data cleaning / error documentation,
+,Electric Demand Response Management for Distributed Large-Scale Internet Data Centers,2014,,
+,"Data‐Snooping, Technical Trading Rule Performance, and the Bootstrap",1999,Trading-rule backtests / anomalies,
+,"Depositary Receipts, Country Funds, and the Peso Crash: The Intraday Evidence",2000,,Equities / stock databases
+,"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",1998,"Volatility models (GARCH, realized vol.); Event study / announcements",
+,Filtering Returns for Unspecified Biases in Priors when Testing Asset Pricing Theory,2003,Data cleaning / error documentation,
+,Safari Science: assessing the reliability of citizen science data for wildlife surveys,2017,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Modeling and Forecasting Realized Volatility,2003,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,A Unifying Microstructure Framework for Modeling Intraday and Interday Asset Pricing Dynamics: the Case of Exchange Rates,1999,,
+,A Comparison of Seasonal Adjustment Methods When Forecasting Intraday Volatility,2002,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",
+,Advancing the Use of Administrative Data for Emergency Department Diagnostic Imaging Research,2015,Data cleaning / error documentation,
+,Is attention all you need for intraday Forex trading?,2023,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,
+,Reduction of financial tick big data for intraday trading,2024,,Retail / broker / tick-level FX
+,Insights from bitcoin trading,2019,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Time‐Varying Volatility in the Foreign Exchange Market: New Evidence on its Persistence and on Currency Spillovers,2004,"Volatility models (GARCH, realized vol.)",
+,Gas exchange is related to the hormone balance in mycorrhizal or nitrogen-fixing alfalfa subjected to drought,1997,,
+,Detecting Intraday Periodicities with Application to High Frequency Exchange Rates,2006,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,Asymmetric Volume‐Return Relation and Concentrated Trading in LIFFE Futures,2007,,FX futures / options / forwards; Equities / stock databases
+,"Monitoring Trends in Poverty and Income Distribution: Data, Methodology and Measurement",2006,Data cleaning / error documentation,
+,INDIVIDUAL EQUITY RETURN DATA FROM THOMSON DATASTREAM: HANDLE WITH CARE!,2006,,Equities / stock databases
+,THE DAYLIGHT SAVING TIME ANOMALY IN STOCK RETURNS: FACT OR FICTION?,2010,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies,Equities / stock databases
+,Development of the Facial Skin Care Index: A Health-Related Outcomes Index for Skin Cancer Patients,2006,Data cleaning / error documentation,
+,Daytime Is Money,2010,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Bonds / commodities / other"
+,Fixing Europe's Democratic Deficit,2012,,
+,Trading Patterns and Prices in the Interbank Foreign Exchange Market,1993,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Explaining Forward Exchange Bias…Intraday,1995,,"Spot FX, interbank (EBS, Reuters)"
+,Why Do Markets Move Together? An Investigation of U.S.‐Japan Stock Return Comovements,1996,Event study / announcements,Equities / stock databases; Bonds / commodities / other
+,Bursting the Big Data Bubble,2017,,Equities / stock databases
+,LOSING SLEEP AT THE MARKET: AN EMPIRICAL NOTE ON THE DAYLIGHT SAVING ANOMALY IN AUSTRALIA,2003,Trading-rule backtests / anomalies,Equities / stock databases
+,Intraday Patterns in FX Returns and Order Flow,2013,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,
+,"Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums",2013,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Equities / stock databases; Bonds / commodities / other
+,Foreign Exchange Fixings and Returns around the Clock,2023,,"Spot FX, interbank (EBS, Reuters)"
+,Volatility and Spillover Effects of Yen Interventions,2013,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Time Zones Matter: The Impact of Distance and Time Zones on Services Trade,2015,,
+,Exchange Rate Volatility and Malawi’s Tobacco Exports to The United Kingdom and The United States,2016,"Volatility models (GARCH, realized vol.)",
+,Interventions to improve the use of EMRs in primary health care: a systematic review and meta-analysis,2019,Data cleaning / error documentation,
+,"Perceptions of data processes in mobile-based versus paper-based health information systems for maternal, newborn and child health: a qualitative study in Andhra Pradesh, India",2015,Data cleaning / error documentation,
+,The NCDR CathPCI Registry: a US national perspective on care and outcomes for percutaneous coronary intervention,2013,Data cleaning / error documentation,
+,Application of AHRQ patient safety indicators to English hospital data,2009,Data cleaning / error documentation,
+,Inoptimality losses in forest management decisions caused by errors in an inventory based on airborne laser scanning and aerial photographs,2010,Data cleaning / error documentation,
+,Seasonal and diurnal patterns in leaf gas exchange of Eucalyptusglobulus trees growing in Portugal,1986,Intraday seasonality / periodicity models,
+,Spot foreign exchange market and time series,2003,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Consistent Hash-based Data Storage Method for Electronic Archiving of Financial Reports,2025,Data cleaning / error documentation,Retail / broker / tick-level FX
+,USAGE AND PERCEIVED IMPACT OF DATA WAREHOUSES: A STUDY IN KOREAN FINANCIAL COMPANIES,2006,Data cleaning / error documentation,
+,Assessing data quality in accounting information systems,1998,Data cleaning / error documentation,Equities / stock databases
+,Validating Data Quality Actions in Scoring Processes,2017,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Audit Data Analysis and Application Based on Correlation Analysis Algorithm,2021,Data cleaning / error documentation,
+,Forecasting Renminbi Exchange Rate Volatility Using CARR‐MIDAS Model,2022,"Volatility models (GARCH, realized vol.)",
+,Safeguarding data privacy: strategies to counteract internal and external hacking threats,2024,Data cleaning / error documentation,
+,Rejoinder: The J-Shape of Performance Persistence Given Survivorship Bias,1997,,
+,Temporal Patterns of Basking Behaviour in a Mediterranean Lacertid Lizard,1991,Intraday seasonality / periodicity models,
+,Use of Three-Dimensional Reflectivity Structure for Automated Detection and Removal of Nonprecipitating Echoes in Radar Data,2002,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Weather Radar Ground Clutter. Part II: Real-Time Identification and Filtering,2009,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,A Real-Time and Offline Quality Control Methodology for SeaSonde High-Frequency Radar Currents,2012,Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX
+,Artificial Intelligence in Value-Based Health Care,2025,Data cleaning / error documentation,
+,The impact of data errors on the outcome of randomized clinical trials,2017,Data cleaning / error documentation,
+,"An Evaluation of the Quality of Obstetric Morbidity Coding Using an Objective Assessment Tool, the Performance Indicators for Coding Quality (PICQ)",2008,Data cleaning / error documentation,
+,The Impact of Trading Information Sets on Exchange Rate Change and Volatility: Evidence From Taiwan,2021,Trading-rule backtests / anomalies,
+,Defining dimensions of research readiness: a conceptual model for primary care research networks,2014,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,
+,Quality of care for children with acute malnutrition at health center level in Uganda: a cross sectional study in West Nile region during the refugee crisis,2018,Data cleaning / error documentation,Equities / stock databases; Bonds / commodities / other
+,Key informant perspectives on the challenges and opportunities for using routine health data for decision-making in Senegal,2021,Data cleaning / error documentation,
+,The challenge of healthcare big data to China’s commercial health insurance industry: evaluation and recommendations,2022,Data cleaning / error documentation,
+,Foreign exchange trading and management with the stochastic dual dynamic programming method,2023,,
+,Impact of trading hours extensions on foreign exchange volatility: intraday evidence from the Moscow exchange,2023,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX
+,"(How) does RBF strengthen strategic purchasing of health care? Comparing the experience of Uganda, Zimbabwe and the Democratic Republic of the Congo",2019,Data cleaning / error documentation,Equities / stock databases
+,Losing Sleep at the Market: The Daylight Saving Anomaly: Reply,2002,Trading-rule backtests / anomalies,
+,Anomalies: The Equity Premium Puzzle,1997,Trading-rule backtests / anomalies,Equities / stock databases; Bonds / commodities / other
+,The High Frequency Impact of Macroeconomic Announcements in the Brazilian Futures Markets,2016,Event study / announcements; Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX
+,"When the Tail Wags the Dog: Industry Leaders, Limited Attention, and Spurious Cross-Industry Information Diffusion",2013,,Equities / stock databases
+,When Mean Square Error Becomes Variance: A Comment on “Business Risk and Return: A Test of Simultaneous Relationships”,1994,,
+,Temporal Availability and Women Career Progression: Evidence from Cross-Time-Zone Acquisitions,2024,,
+,Intraday Business Model Strategies onForex Markets: Comparing the Performanceof Price Pattern Recognition Methods,2016,Data cleaning / error documentation,
+,Asymmetry of price returns—Analysis and perspectives from a non-extensive statistical physics point of view,2017,,Retail / broker / tick-level FX; Equities / stock databases
+,The microscopic relationships between triangular arbitrage and cross-currency correlations in a simple agent based model of foreign exchange markets,2020,,
+,Utilization of social media in floods assessment using data mining techniques,2022,Data cleaning / error documentation,
+,Predicting asthma using imbalanced data modeling techniques: Evidence from 2019 Michigan BRFSS data,2023,Data cleaning / error documentation,
+,Spatial analysis of unimproved drinking water source in East Africa: Using Demographic and Health Survey (DHS) data from 2012–2023,2025,Data cleaning / error documentation,
+,Distance-based outlier detection,2010,Data cleaning / error documentation,
+,Write-Aware Timestamp Tracking: Effective and Efficient Page Replacement for Modern Hardware,2023,Data cleaning / error documentation,
+,The CAPM with Measurement Error: ‘There’s life in the old dog yet!’,2019,,
+,“Be sustainable”: EOSC‐Life recommendations for implementation of FAIR principles in life science data handling,2023,Data cleaning / error documentation,
+,Currency Risk: Comovements and Intraday Cojumps,2016,,
+,Autonomous Exception Intelligence Framework: Cloud Native Financial Systems for Real Time Market Data Pipelines,2023,Data cleaning / error documentation,Equities / stock databases
+,Artificial Intelligence and Big Data in Accounting: The Case of Commercial Banks in Jordan,2025,Data cleaning / error documentation,
+,Studies on Matter Production of Rape Plant : IV. Diurnal changes in apparent photosynthesis and dark resiraton of rape plants under field conditions,1980,Intraday seasonality / periodicity models,Bonds / commodities / other
+,Diurnal Changes in Photosynthesis in Sugarcane Leaves: II. Enzyme activities and metabolite levels relating to sucrose and starch metabolism,2000,Intraday seasonality / periodicity models,
+,Diurnal Change in Water Balance of Heat-Tolerant Snap Bean (Phaseolus vulgaris) Cultivar and Its Association with Growth under High Temperature,2005,Intraday seasonality / periodicity models,
+,Tracking Turbulence : High-Frequency Evidence on Oil-Driven Market Volatility in India,2026,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Measuring Transaction Costs in the Absence of Timestamps,2017,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,Equities / stock databases
+,A comparison of bid-ask spread proxies: evidence from Borsa Istanbul futures,2016,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Bonds / commodities / other
+,The Impacts of Monetary Policy Announcements and Derivatives Maturity on the Mexican Peso Exchange Rate Volatility: GARCH and OCHL Range Models,2025,"Volatility models (GARCH, realized vol.); Event study / announcements",
+,High Frequency Deutsche Mark-US Dollar Returns: FIGARCH Representations and Non Linearities,2000,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Data cleaning / error documentation",Retail / broker / tick-level FX
+,The Recent Experience with Capital Flows to Emerging Market Economies,1999,Spread / liquidity / order-flow regressions,
+,Cross-Time-Frequency Analysis of Volatility Interdependence among Stock and Currency Markets,2021,,Equities / stock databases
+,The impact of monetary policy during the legal regime of martial law on the Ukrainian labor market,2023,Spread / liquidity / order-flow regressions,
+,Pubcreds: Fixing the Peer Review Process by “Privatizing” the Reviewer Commons,2010,,
+,"Window Dressing, Data Mining, Or Data Errors: A Re-Examination Of The Dogs Of The Dow Theory",2011,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Intraday Index Volatility: Evidence From Currency Adjusted Stock Indices,2014,,Retail / broker / tick-level FX; Equities / stock databases
+,Uprawnienia kredytobiorcy zaciągającego kredyt denominowany lub indeksowany do waluty innej niż polska w świetle ustawy antyspreadowej,2018,Spread / liquidity / order-flow regressions,
+,A Comparative Analysis of Traditional and Cloud Data Warehouse,2018,Data cleaning / error documentation,
+,VOLATILITY SPILLOVER OF INTRADAY EXCHANGE RATES ON SOME SELECTED ASEAN COUNTRIES,2021,,
+,Forecasting the High-Frequency Exchange Rate Volatility with Smooth Transition Exponential Smoothing,2022,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Trading Activity and Exchange Rates in High-Frequency EBS Data,2007,Event study / announcements,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Do futures lead price discovery in electronic foreign exchange markets?,2008,,"Spot FX, interbank (EBS, Reuters); FX futures / options / forwards; Equities / stock databases"
+,Bank of England Interest Rate Announcements and the Foreign Exchange Market,2009,Event study / announcements; Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Country-Specific Factors Related to Financial Reporting and the Value Relevance of Accounting Data,2000,,Equities / stock databases
+,Non-Parametric Estimation of Intraday Spot Volatility: Disentangling Instantaneous Trend and Seasonality,2015,Intraday seasonality / periodicity models,Retail / broker / tick-level FX
+,Risk Everywhere: Modeling and Managing Volatility,2016,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Between data cleaning and inference: Pre-averaging and robust estimators of the efficient price,2016,Data cleaning / error documentation,Retail / broker / tick-level FX
+,How Rigged Are Stock Markets? Evidence from Microsecond Timestamps,2016,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,Equities / stock databases
+,The Shadow Price of Latency: Improving Intraday Fill Ratios in Foreign Exchange Markets,2018,Spread / liquidity / order-flow regressions,
+,Information Leakage Prior to SEC Form Filings–Evidence from TAQ Millisecond Data,2019,Trading-rule backtests / anomalies; Data cleaning / error documentation,Equities / stock databases
+,Commonality in FX Liquidity: High-Frequency Evidence,2020,Event study / announcements; Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Stock market anomalies: An extreme bounds analysis,2023,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies,Equities / stock databases
+,Unraveling market mysteries: a comprehensive review of financial anomalies and puzzles,2023,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies,Equities / stock databases
+,Forecasting Bid-Ask Spreads in Foreign Exchange: Analysis and Machine Learning Prediction,2024,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,
+,The High-Frequency Effects of U.S. Macroeconomic Data Releases on Prices and Trading Activity in the Global Interdealer Foreign Exchange Market,2004,Event study / announcements,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Momentum Exhaustion and Fair Value Reversion: An ADX-conditioned VWAP Strategy in FX Markets,2026,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data,2005,Event study / announcements; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Biases in Decomposing Holding-Period Portfolio Returns,2006,Trading-rule backtests / anomalies,
+,Transmission of Volatility and Trading Activity in the Global Interdealer Foreign Exchange Market: Evidence from Electronic Broking Services (EBS) Data,2006,"Volatility models (GARCH, realized vol.)","Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Application and Prospects of Artificial Intelligence Technology in Early Screening of Chronic Obstructive Pulmonary Disease at Primary Healthcare Institutions in China,2024,Data cleaning / error documentation,
+,Agilance: An intelligent strategic control and financial planning system for data-driven environments,2026,,
+,A Systematic Framework for Analyzing Patient-Generated Narrative Data: Protocol for a Content Analysis,2019,Data cleaning / error documentation,
+,Strategies for the Identification and Prevention of Survey Fraud: Data Analysis of a Web-Based Survey,2021,Data cleaning / error documentation,
+,Perceptions in 3.6 Million Web-Based Posts of Online Communities on the Use of Cancer Immunotherapy: Data Mining Using BERTopic,2024,Data cleaning / error documentation,
+,Advancing Health Care With Digital Twins: Meta-Review of Applications and Implementation Challenges,2025,Data cleaning / error documentation,Equities / stock databases
+,"The Cost Effectiveness of a Tailored, Web-Based Care Program to Enhance Postoperative Recovery in Gynecologic Patients in Comparison With Usual Care: Protocol of a Stepped Wedge Cluster Randomized Controlled Trial",2014,Data cleaning / error documentation,
+,Time-to-Expiry Seasonalities in Eurofutures,2001,Intraday seasonality / periodicity models,FX futures / options / forwards; Equities / stock databases
+,Decentralized Ledger Journalism: An Uninvestigated Frontier of Data-Driven Reporting,2025,Data cleaning / error documentation,
+,Autonomous Multi-Zone Replication for Zero-Loss Settlement Systems,2026,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Grandparent caregiving among rural African Americans in a community in the American South: challenges to health and wellbeing,2015,Data cleaning / error documentation,
+,The Microstructure of Foreign Exchange Markets,1997,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Ecosystem Gas Exchange in a California Grassland: Seasonal Patterns and Implications for Scaling,1995,Intraday seasonality / periodicity models,Bonds / commodities / other
+,"Data Truncation Bias, Loss Firms, and Accounting Anomalies",2011,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Modeling a Business Process and Querying the Resulting Database: Analyzing RFID Data to Develop Business Intelligence,2008,Data cleaning / error documentation,Retail / broker / tick-level FX
+,The Effects of Daylight Saving Time Adjustments on Investor Information Processing,2023,Event study / announcements,
+,Effects of Daylight-Saving Time Changes on Stock Market Returns and Stock Market Volatility: Rebuttal,2013,,Equities / stock databases
+,The Impact of Big Data Analytics on The Detection of Errors And Fraud in Accounting Processes,2024,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Leveraging household survey data to measure barriers to health services access in the Americas,2020,Data cleaning / error documentation,Equities / stock databases
+,"Short-Term Spillover Effects in High-order Moments of Stocks, Foreign Currency Exchange and Bitcoin with Intraday Data",2025,,Retail / broker / tick-level FX; Equities / stock databases
+,Price and Volatility Spillovers in the Case of Stock Markets Located in Different Time Zones,2013,,Equities / stock databases
+,Google econometrics: Nowcasting euro area car sales and big data quality requirements,2018,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Simple and effective descriptive analysis of missing data anomalies in smart home energy consumption readings,2021,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Leveraging geographic information systems and data analytics for enhanced public sector decision-making and urban planning,2024,Data cleaning / error documentation,
+,AI Meets Anonymity: How named entity recognition is redefining data privacy,2024,Data cleaning / error documentation,
+,Market data infrastructure: Core components and integration patterns,2025,Data cleaning / error documentation,
+,Crowdsourcing and Its Application to Transportation Data Collection and Management,2014,Data cleaning / error documentation,
+,RANDOM STRATEGY VERSUS TECHNICAL ANALYSIS STRATEGY: THE CASE OF EUR/USD INTRADAY TRADING,2020,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,
+,An Automated Python Script for Data Cleaning and Labeling using Machine Learning Technique,2023,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Data protection and security of machine learning models in market-neutral crypto-currency trading strategies,2025,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,An intraday trading model based on Artificial Immune Systems,2011,,
+,Support System for Trading in Exchange Market by Distributional Forecasting Model,2019,,
+,The Interdependence of FX and Treasury Bonds Markets: The Case of Colombia,2021,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX; Bonds / commodities / other
+,"The effects of intraday foreign exchange market operations in Latin America : results for Chile, Colombia, Mexico and Peru",2014,Event study / announcements,
+,Data Warehousing and Decision Making in Higher Education in the United States,2007,Data cleaning / error documentation,
+,Enhancing Fraud Detection Systems in the USA: A Machine Learning Approach to Identifying Anomalous Transactions,2023,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Prediction based – high frequency trading on financial time series,2012,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Survivorship Bias and Performance of Mutual Funds in Hungary,2014,Data cleaning / error documentation,
+,Predictive modeling of foreign exchange trading signals using machine learning techniques,2024,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,
+,Microstructure of the Yen/Dollar Foreign Exchange Market: Patterns of Intra-day Activity Revealed in the Electronic Broking System,2004,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Intra-Day Seasonality in Activities of the Foreign Exchange Markets: Evidence From the Electronic Broking System,2006,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Intraday Yen/Dollar Exchange Rate Movements: News or Noise?,1988,,Equities / stock databases
+,"DM-Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",1996,"Volatility models (GARCH, realized vol.); Event study / announcements",Retail / broker / tick-level FX
+,Testing for Market Microstructure Effects in Intraday Volatility: A Reassessment of the Tokyo FX Experiment,1998,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,The Asian Liquidity Crisis,1998,Spread / liquidity / order-flow regressions,
+,Discriminating the Multi-Frequency Microwave Brightness Temperature Anomalies Relating to 2017 Mw 7.3 Sarpol Zahab (Iran-Iraq Border) Earthquake,2021,Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX; Bonds / commodities / other
+,QF-TraderNet: Intraday Trading via Deep Reinforcement With Quantum Price Levels Based Profit-And-Loss Control,2021,Trading-rule backtests / anomalies,Bonds / commodities / other
+,Preptimize: Automation of Time Series Data Preprocessing and Forecasting,2024,Intraday seasonality / periodicity models; Data cleaning / error documentation,Equities / stock databases
+,Appropriate Data Quality Checks Improve the Reliability of Values Predicted from Milk Mid-Infrared Spectra,2021,Data cleaning / error documentation,
+,TGEconomicDataset: A Collection of Russian-Language Economic Telegram Channels and a Synthetic Data Generation Framework for Continuous Authentication,2026,Data cleaning / error documentation,FX futures / options / forwards; Bonds / commodities / other
+,Spurious Seasonality Detection: A Non-Parametric Test Proposal,2018,Intraday seasonality / periodicity models,Equities / stock databases
+,Diurnal Tree Stem CH4 and N2O Flux Dynamics from a Riparian Alder Forest,2021,Intraday seasonality / periodicity models,Bonds / commodities / other
+,A Cluster Analysis of Constant Ambient Air Monitoring Data from the Kanto Region of Japan,2014,Data cleaning / error documentation,
+,The Sketch Map Tool Facilitates the Assessment of OpenStreetMap Data for Participatory Mapping,2021,Data cleaning / error documentation,
+,Thematic Analysis of Big Data in Financial Institutions Using NLP Techniques with a Cloud Computing Perspective: A Systematic Literature Review,2023,Data cleaning / error documentation,
+,Modeling of Open Government Data for Public Sector Organizations Using the Potential Theories and Determinants—A Systematic Review,2020,Data cleaning / error documentation,
+,An Open Innovation Intraday Implied Volatility for Pricing Australian Dollar Options,2021,,FX futures / options / forwards
+,Instantaneous Volatility Seasonality of High-Frequency Markets in Directional-Change Intrinsic Time,2019,Intraday seasonality / periodicity models,Retail / broker / tick-level FX; Equities / stock databases
+,True versus Spurious Long Memory in Cryptocurrencies,2020,,
+,Causality between Arbitrage and Liquidity in Platinum Futures,2022,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Bonds / commodities / other
+,The Launch of a Night Trading Session and Currency Futures Market Liquidity: Evidence from the Thailand Futures Exchange,2023,Spread / liquidity / order-flow regressions,FX futures / options / forwards
+,Realized Volatility Spillover Connectedness among the Leading European Currencies after the End of the Sovereign-Debt Crisis: A QVAR Approach,2024,"Volatility models (GARCH, realized vol.)",
+,Order Book Liquidity on Crypto Exchanges,2025,Spread / liquidity / order-flow regressions,
+,The GT-Score: A Robust Objective Function for Reducing Overfitting in Data-Driven Trading Strategies,2026,Trading-rule backtests / anomalies,Equities / stock databases
+,"Point-in-Time Backtesting of Momentum-Trend Equity Strategies: A Formal Bias Taxonomy, ATR Trailing Stop Analysis, and Investor-Experience Metrics",2026,Trading-rule backtests / anomalies,Equities / stock databases
+,Risk Model Validation: An Intraday VaR and ES Approach Using the Multiplicative Component GARCH,2019,"Volatility models (GARCH, realized vol.); Trading-rule backtests / anomalies",Retail / broker / tick-level FX
+,Improving Data Quality for the Australian High Frequency Ocean Radar Network through Real-Time and Delayed-Mode Quality-Control Procedures,2018,Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX
+,A Smart Card-Based Two-Factor Mutual Authentication Scheme for Efficient Deployment of an IoT-Based Telecare Medical Information System,2023,,
+,IoT Data Quality Assessment Framework Using Adaptive Weighted Estimation Fusion,2023,Data cleaning / error documentation,
+,A Review of Data Quality and Cost Considerations for Water Quality Monitoring at the Field Scale and in Small Watersheds,2023,Data cleaning / error documentation,FX futures / options / forwards; Retail / broker / tick-level FX
+,Edukasi Trading Forex kepada Warga Kelurahan Kandri Kecamatan Gunungpati Kota Semarang,2024,Spread / liquidity / order-flow regressions,
+,Transaction-Level Parallelism for High-Throughput Databases Using Versioned Conflict-Free Data Structures,2025,Data cleaning / error documentation,
+,Holistic Analysis of Liquidity for ‘Nifty 50' due to Reciprocal Tariff Imposition,2025,Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,Mapping and Publishing Sequence-Derived Data through Biodiversity Data Platforms,2020,Data cleaning / error documentation,Bonds / commodities / other
+,Forensic Applications in Biodiversity Research: The Clock Is Ticking for Registering Biodiversity (Meta)data,2025,Data cleaning / error documentation,Bonds / commodities / other
+,Measuring the Quality of Hedge Fund Data,2009,Data cleaning / error documentation,Equities / stock databases
+,"Big Data, Small Pickings: Predicting the Stock Market with Google Trends",2017,,Equities / stock databases
+,Long-Memory versus Option-Implied Volatility Predictions,2002,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,The Attractiveness of Investments in Listed German Family Firms:Reality or Deception Caused by Indexes Applying Backtest Data?,2017,Trading-rule backtests / anomalies,Equities / stock databases
+,"The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality",2014,Trading-rule backtests / anomalies,
+,A generalisation approach to temporal data models and their implementations,1998,Data cleaning / error documentation,
+,Sequential Malmquist-Luenberger productivity index for interval data envelopment analysis,2022,,
+,Tick based clustering methodologies establishing support and resistance levels in the currency exchange market,2020,,Retail / broker / tick-level FX
+,Spurious Inference in Reduced-Rank Asset-Pricing Models,2017,Trading-rule backtests / anomalies,
+,Factors Affecting Big Data Adoption,2022,Data cleaning / error documentation,
+,Diurnal Variation of Instantaneous CO2 and H2O Gas-Exchange over Canopy and Leaf Level of Spring Maize in Arid Area,2013,Intraday seasonality / periodicity models,Bonds / commodities / other
+,Health Care System Reforms in Developing Countries,2012,Data cleaning / error documentation,
+,Using Benford’s Law to detect data error and fraud: An examination of companies listed on the Johannesburg Stock Exchange,2014,Data cleaning / error documentation,Equities / stock databases
+,Prevalence of intellectual disability in Iran: Toward a new conceptual framework in data collection,2015,Data cleaning / error documentation,
+,"Intimate partner violence and associated coping strategies among women in a primary care clinic in Port Harcourt, Nigeria",2014,Data cleaning / error documentation,
+,Data-informed decision-making for life-saving commodities investments in Malawi: A qualitative case study,2018,Data cleaning / error documentation,Equities / stock databases; Bonds / commodities / other
+,High Frequency Trading and Limit Order Book Dynamics,2016,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX; Bonds / commodities / other
+,Clinical Data Warehousing: A Scoping Review,2024,Data cleaning / error documentation,
+,AN INVESTIGATION OF THE FACTORS AFFECTING DATA WAREHOUSING SUCCESS,2007,Data cleaning / error documentation,
+,Modeling and Trading the EUR/USD Exchange Rate Using Machine Learning Techniques,2012,,
+,RTASM: An AI-Driven Real-Time Adaptive Streaming Model for Zero-Latency Big Data Processing,2025,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,"Martingales, the Efficient Market Hypothesis, and Spurious Stylized Facts",2007,,
+,Finding informed traders in futures and their inderlying assets in intraday trading,2014,,FX futures / options / forwards; Retail / broker / tick-level FX; Bonds / commodities / other
+,Evolving intraday foreign exchange trading strategies utilizing multiple instruments price series,2014,,Retail / broker / tick-level FX
+,The Long Memory of Order Flow in the Foreign Exchange Spot Market,2016,Spread / liquidity / order-flow regressions,
+,"Market making by an FX dealer: tiers, pricing ladders and hedging rates for optimal risk control",2021,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Synthetic Photovoltaic and Wind Power Forecasting Data,2022,Data cleaning / error documentation,
+,Dealing with multi-currency inventory risk in FX cash markets,2022,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Explaining Anomalies using Denoising Autoencoders for Financial Tabular Data,2022,Trading-rule backtests / anomalies; Data cleaning / error documentation,Bonds / commodities / other
+,Assessing Look-Ahead Bias in Stock Return Predictions Generated By GPT Sentiment Analysis,2023,Trading-rule backtests / anomalies,Equities / stock databases
+,Exploiting Risk-Aversion and Size-dependent fees in FX Trading with Fitted Natural Actor-Critic,2024,Spread / liquidity / order-flow regressions,
+,FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation,2025,Data cleaning / error documentation,
+,FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis,2025,Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,Enhancing OHLC Data with Timing Features: A Machine Learning Evaluation,2025,Data cleaning / error documentation,
+,FX Market Making with Internal Liquidity,2025,Spread / liquidity / order-flow regressions,
+,A Fast and Effective Solution to the Problem of Look-ahead Bias in LLMs,2025,Trading-rule backtests / anomalies,
+,Market Making and Transient Impact in Spot FX,2026,,"Spot FX, interbank (EBS, Reuters)"
+,Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance,2026,,
+,Evaluating LLMs in Finance Requires Explicit Bias Consideration,2026,Trading-rule backtests / anomalies,
+,PolyBench: Benchmarking LLM Forecasting and Trading Capabilities on Live Prediction Market Data,2026,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Spurious Predictability in Financial Machine Learning,2026,Trading-rule backtests / anomalies,
+,Summoning the Oracle to Slay It: Mitigating Look-Ahead Bias in Financial Backtesting with Large Language Models,2026,Trading-rule backtests / anomalies,Equities / stock databases
+,"The Bounce Has No Direction: Sign, Magnitude, and the Microstructure of Equity Return Predictability",2026,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Equities / stock databases; Bonds / commodities / other
+,Look-Ahead-Freedom as Temporal Non-Interference: A Verifiable Correctness Property for Backtesting and Agentic Trading Pipelines,2026,Trading-rule backtests / anomalies,
+,Optimal Execution with Passive Market Impact,2026,Spread / liquidity / order-flow regressions,Equities / stock databases
+,Forecasting Intraday USD/CAD Exchange Rate with News-Derived Monetary-Policy Signals,2026,Event study / announcements,
+,"Packets, Transactions and Queues: Design Principles for HFT Systems from a Measurement Study of CME Market Data",2026,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,FX futures / options / forwards
+,Toward a Framework for Assessing Data Quality1,2001,Data cleaning / error documentation,
+,ARCHITECTURAL PATTERNS AND PERFORMANCE ANALYSIS OF INTEGER SURROGATE KEYS FOR TIME-SERIES DATA WAREHOUSING,2025,Data cleaning / error documentation,Retail / broker / tick-level FX
+,"Frameworks for effective data governance: best practices, challenges, and implementation strategies across industries",2024,Data cleaning / error documentation,Retail / broker / tick-level FX
+,REVIEWING THE ROLE OF BIG DATA ANALYTICS IN FINANCIAL FRAUD DETECTION,2024,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Enhancing audit accuracy: The role of AI in detecting financial anomalies and fraud,2024,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Data analytics in African banking: A review of opportunities and challenges for enhancing financial services,2022,Data cleaning / error documentation,Equities / stock databases
+,On the Intraday Behavior of Bitcoin,2021,,Equities / stock databases
+,Factors Influencing Data Utilization and Performance of Health Management Information Systems: A Case Study,2024,Data cleaning / error documentation,
+,"Data quality analytics, business ethics, and cyber risk management on operational performance and fintech sustainability",2022,Data cleaning / error documentation,
+,Is AI biased? evidence from FinTech-based innovation in supply chain management companies?,2024,Data cleaning / error documentation,
+,Adoption enablers of big data analytics in supply chain management practices: the moderating role of innovation culture,2022,Data cleaning / error documentation,Retail / broker / tick-level FX
+,"IT Systems in Pharmaceutical Operations: Ensuring Data Integrity, Compliance, and Public Safety",2025,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,The Role of Time Zone Differences on Bilateral Service Flows from Kenya,2024,,
+,Using Mobile Phones for High-Frequency Data Collection,2015,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Artificial Intelligence Optimizes the Accounting Data Integration and Financial Risk Assessment Model of the E-commerce Platform,2025,Data cleaning / error documentation,
+,Artificial Intelligence Empowering Robo-Advisors: A Data-Driven Wealth Management Model Analysis,2025,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Comparative Analysis of Deliverable and Non-Deliverable Contracts in the Hong Kong Trading Market - Taking RMB as an Example,2024,,Bonds / commodities / other
+,Time-Series Analysis on AIDE IoT Attack Data Unraveling Trends and Patterns for Enhanced Security,2024,Data cleaning / error documentation,
+,Enforcing Regulatory Compliance Through Data Engineering: An End-to-End Case in Fintech Infrastructure,2021,Data cleaning / error documentation,
+,"High-Frequency Trading: Impact on Market Liquidity, Volatility, and Regulatory Challenges",2025,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX
+,Intraday hedging and the safe haven role of Bitcoin,2021,,Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Empowering modern business intelligence (BI) tools for data-driven decision-making: Innovations with AI and analytics insights,2024,Data cleaning / error documentation,
+,Harnessing Data Analytics for Predictive Insights: Advancing Decision-Making with Big Data Innovations,2025,Data cleaning / error documentation,Retail / broker / tick-level FX
+,The Exchange Rate Volatility During Political Protests: Event Study and the Case of Belarus,2023,Event study / announcements,
+,Do Jumps and Co-jumps Improve Volatility Forecasting of Oil and Currency Markets?,2019,"Volatility models (GARCH, realized vol.); Event study / announcements",Retail / broker / tick-level FX; Bonds / commodities / other
+,Building econometric models for evaluating cost efficiency in healthcare procurement systems,2023,Data cleaning / error documentation,Equities / stock databases
+,Application of Seasonal Holt-Winter model for the prediction of exchange rate volatility,2015,Intraday seasonality / periodicity models,
+,Conceptual framework for enhancing decision-making in higher education through data-driven governance,2024,Data cleaning / error documentation,Equities / stock databases
+,Herd behaviour in the cryptocurrency market: Fundamental vs. spurious herding,2020,Event study / announcements,Equities / stock databases; Bonds / commodities / other
+,Navigating the Role of Reference Data in Financial Data Analysis: Addressing Challenges and Seizing Opportunities,2024,Data cleaning / error documentation,
+,The Role of Reference Data in Financial Data Analysis: Challenges and Opportunities,2023,Data cleaning / error documentation,
+,Easy Trade: Forex Trading bot Using Artificial Intelligence,2024,Spread / liquidity / order-flow regressions,
+,Outlier Detection Using Gaussian Mixture Model Clustering to Optimize XGBoost for Credit Approval Prediction,2024,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Leveraging Machine Learning for Insights and Predictions in Synthetic E-commerce Data in the USA: A Comprehensive Analysis,2025,Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,Designing Smart-Contract-Enabled Liquidity Management for Wholesale Rupiah Digital: A Design Science Research Approach,2026,Spread / liquidity / order-flow regressions,Bonds / commodities / other
+,Sustainable Development of Digital Financial Infrastructure: Evaluating Data Quality and Information Fairness in Cryptocurrency Exchanges,2025,Data cleaning / error documentation,Equities / stock databases
+,Statistical Identification and Backtesting of Mean-Reverting Forex Pairs Using Augmented Dickey-Fuller and Hurst Exponent Methods for Algorithmic Trading,2026,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,
+,The Intradaily Price-Volume Patterns in the Taipei Foreign Exchange Market,1998,,Retail / broker / tick-level FX
+,Hallucination-Aware Prompt Intervention for High-Stakes Text Generation in Healthcare and Finance,2026,Trading-rule backtests / anomalies,
+,Calibration under Sparse Data: Robust Canonical Surface Estimation from Transaction Bars,2026,Data cleaning / error documentation,FX futures / options / forwards
+,Adopting risk intelligence in today's volatile market,2010,Spread / liquidity / order-flow regressions,Equities / stock databases
+,Data governance: Supporting datacentric risk management,2008,Data cleaning / error documentation,"Spot FX, interbank (EBS, Reuters)"
+,"Money upgraded: Rethinking cash and liquidity management in the era of tokenised, programmable value",2026,Spread / liquidity / order-flow regressions,Bonds / commodities / other
+,DATA-DRIVEN TRANSFORMATION: OPTIMIZING ENTERPRISE FINANCIAL MANAGEMENT AND DECISION-MAKING WITH BIG DATA,2024,Data cleaning / error documentation,
+,"Data Warehousing Techniques for High-Cardinality, High-Frequency Time-Series Analytics",2025,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Detecting Manipulative Trading Patterns via Temporal Motif Mining in Order-Book Graphs,2025,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX
+,"One Day in June, 1994: A Study of the Working of Reuters 2000-2 Electronic Foreign Exchange Trading System",1995,,"Spot FX, interbank (EBS, Reuters)"
+,Toward Reuse of Clinical Data for Research and Quality Improvement: The End of the Beginning?,2009,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,
+,Puzzles in the Forex Tokyo “Fixing”: Order Imbalances and Biased Pricing by Banks,2016,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,The Development of Self-Organization Techniques in Modelling: A Review of the Group Method of Data Handling (GMDH),2001,Data cleaning / error documentation,
+,The Foreign Exchange Market: Empirical Studies With High-Frequency Data,2000,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,IMPROVING SURVEY QUALITY THROUGH PRETESTING,1998,Data cleaning / error documentation,
+,The Use Of Dynamically Optimised High Frequency Moving Average Strategies For Intraday Trading,2012,,Retail / broker / tick-level FX
+,Challenges Ahead for Converging Financial Data,2009,Data cleaning / error documentation,
+,The Best Mutual Fund Managers: Testing the Impact of Experience Using a Survivorship Bias Free Dataset,2012,,
+,Fixing global finance : how to curb financial crises in the 21st century,2010,,Bonds / commodities / other
+,Distribution and Dynamics of Central-European Exchange Rates: Evidence from Intraday Data,2009,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Liquidity Crises and Discount Window Lending: Theory and Implications for the Dollarization Debate,2000,Spread / liquidity / order-flow regressions,
+,An Intraday Analysis of the Effectiveness of Foreign Exchange Intervention,2021,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Event study / announcements",Retail / broker / tick-level FX
+,Distinguishing between True and Spurious Long Memory in the Volatility of Stock Market Returns in Latin America,2014,"Volatility models (GARCH, realized vol.)",Equities / stock databases
+,The Data Governance Imperative,2009,Data cleaning / error documentation,
+,A Novel Data Quality Metric for Timeliness considering Supplemental Data,2009,Data cleaning / error documentation,
+,"Improving data quality : data consistency, deduplication, currency and accuracy",2013,Data cleaning / error documentation,
+,Time Consistency of Monetary Policy in Separating Exchange Markets,2001,Event study / announcements; Spread / liquidity / order-flow regressions,
+,The Role of Foreign Exchange Dealers in Providing Overnight Liquidity,2021,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Juran's quality handbook,1999,Data cleaning / error documentation,
+,Fixing the Central Parity and the Evolution of the Currency within the Exchange Rate Mechanism II in the Countries that Joined the Euro Zone,2014,,
+,Asymmetric Effects of FOREX Intervention Using Intraday Data: Evidence from Peru,2013,Event study / announcements,"Spot FX, interbank (EBS, Reuters)"
+,Exchange rate volatility and central bank interventions,2005,"Volatility models (GARCH, realized vol.); Event study / announcements","Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Profitability in an Electronic Foreign Exchange Market: Informed Trading or Differences in Valuation?,2009,,Retail / broker / tick-level FX
+,Modeling the Distribution of Financial Returns by Functional Data Analysis,2002,"Volatility models (GARCH, realized vol.)",
+,"Why ""fixing"" China's currency is no quick fix",2011,,
+,Monetary information arrivals and intraday exchange rate volatility : a comparison of the GARCH and the EGARCH models,2007,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX; Equities / stock databases
+,Exchange Rate Regimes in East Asia after the Crisis: Implications from Intra-daily Data,2003,,
+,Payments-Related Intraday Credit Differentials and the Emergence of a Vehicle Currency,1997,Spread / liquidity / order-flow regressions,
+,Does survivorship bias really matter? An empirical investigation into its effects on the mean reversion of share returns on the JSE Securities Exchange (1984-2006),2008,Spread / liquidity / order-flow regressions,
+,Empirically Based Modeling in the Social Sciences and Spurious Stylized Facts,2007,,
+,New Evidence of Technical Trading Profitability,2013,Trading-rule backtests / anomalies,Retail / broker / tick-level FX
+,"Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method",1998,Data cleaning / error documentation,Equities / stock databases
+,Trading patterns and prices in the Tunisian Interbank foreign exchange market: evidence from high frequency data.,2006,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Are Currency Forwards Effective in Volatile Market Conditions? an Emerging Market Perspective,2012,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Bonds / commodities / other
+,Payment system policies and intraday liquidity in a real time gross settlement system : the Colombian case,2007,Spread / liquidity / order-flow regressions,
+,Using Recon for data cleaning,1995,Data cleaning / error documentation,
+,A VARIETIES OF SPURIOUS LONG MEMORY PROCESS,2006,,Equities / stock databases
+,IS STOCK RETURN PREDICTABILITY SPURIOUS,2003,Spread / liquidity / order-flow regressions,Equities / stock databases
+,"Bank of Japan Interventions, Exchange Rate Volatility, and Spillover Effects: Evidence from High Frequency data",2006,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Event-based microscopic analysis of the FX market,2013,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions; Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,Knowledge discovery from distributed and textual data,1999,Data cleaning / error documentation,Equities / stock databases
+,Support for Resistance: Technical Analysis and Intraday Exchange Rates,2000,Trading-rule backtests / anomalies,
+,The Spurious Relation between Inflation Uncertainty and Stock Returns: Evidence from the U.S.,2013,,Equities / stock databases; Bonds / commodities / other
+,Trading Activity and Foreign Exchange Market Quality,2005,,
+,The Impact of Monetary Policy on the Exchange Rate: A Study Using Intraday Data,2005,Event study / announcements,
+,Spurious Regressions in Technical Trading: Momentum or Contrarian?,2008,Trading-rule backtests / anomalies,Equities / stock databases
+,An effective and adaptive data cleaning technique for colossal RFID data sets in healthcare,2011,Trading-rule backtests / anomalies; Data cleaning / error documentation,Retail / broker / tick-level FX; Equities / stock databases
+,In Search of International Integration: An Examination of Intraday North American Trading of Canadian Dually Listed Stocks,2000,Spread / liquidity / order-flow regressions,Equities / stock databases
+,A new approach to Exchange Rate Volatility Forecasting,2012,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,An Empirical Study on Currency volatility in Foreign Exchange Market,2013,,
+,"Survival, Look-Ahead Bias, and Persistence in Hedge Fund Performance",2005,,
+,High Frequency Exchange Rate Volatility Modelling Using the Multiplicative Component GARCH,2016,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Trading-rule backtests / anomalies",Retail / broker / tick-level FX
+,A bit risky? A comparison between Bitcoin and other assets using an intraday Value at Risk approach,2014,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX; Bonds / commodities / other
+,PSEUDO MATHEMATICS AND FINANCIAL CHARLATANISM: BACKTEST OVERFITTING AND OUT-OF-SAMPLE PERFORMANCE,2013,Trading-rule backtests / anomalies,
+,On Detecting Event Periodicity in Binary Data Series,2015,Intraday seasonality / periodicity models; Data cleaning / error documentation,Equities / stock databases
+,Estimating Probability of Informed Trading on the Bucharest Stock Exchange,2016,Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,The Determinants of Banking Sector Interest Rates Spreads in Zambia,2012,Spread / liquidity / order-flow regressions,FX futures / options / forwards
+,Intraday Dynamics of Euro Area Sovereign Credit Risk Contagion,2016,Event study / announcements,Bonds / commodities / other
+,Survivorship bias in Brazilian stock funds,2016,,Equities / stock databases
+,The ICWSM 2009 Spinn3r Dataset,2009,Data cleaning / error documentation,
+,Fixing the Money Stock vs. Fixing the Interest Rate: A VAR Model,1993,,Equities / stock databases
+,Fixing an Impaired Monetary Transmission Mechanism: The Hungarian Experience,2016,,
+,"Essays on skills, health and human inequality",2013,,
+,Reporting Practices and Data Quality in Health Information Systems in Developing Countries: An Exploratory Case Study in Kenya,2016,Data cleaning / error documentation,
+,Impact of a data warehouse model for improved decision-making process in healthcare,2011,Data cleaning / error documentation,FX futures / options / forwards; Retail / broker / tick-level FX
+,Following the Football: Short-Term Market Reactions to a Potentially Spurious Intermediate-Term Leading Indicator,2013,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Equities / stock databases
+,Fixing Exchange Rates,2003,,
+,XBRL and Data Standardization: Transforming the Way CPAs Work; Save Time and Improve Reporting,2005,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,
+,Mobile Phone Anomalous Behaviour Detection for Real-time Information Theft Tracking,2011,Trading-rule backtests / anomalies; Data cleaning / error documentation,
+,Effect of ozone exposure on seasonal gas exchange of five western conifers,1998,Intraday seasonality / periodicity models,
+,Ethereum as a Hedge: The intraday analysis,2020,,Equities / stock databases; Bonds / commodities / other
+,The Effect of Organizational Attributes on the Adoption of Data Mining Techniques in the Financial Service Industry: An Empirical Study in Taiwan,2003,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Comparing Wealth: Data Quality of the HFCS,2014,Data cleaning / error documentation,
+,Comparing Garman-Klass and DU Volatility and Symmetry Measures in Intraday Futures Returns and Volumes: A Vector Autoregression Analysis,2008,,FX futures / options / forwards; Equities / stock databases
+,Financial markets tick by tick : insights in financial markets microstructure,1999,Trading-rule backtests / anomalies,FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,The High Frequency Game Changer: How Automated Trading Strategies Have Revolutionized the Markets,2011,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Discharge Planning Handbook for Healthcare: Top 10 Secrets to Unlocking a New Revenue Pipeline,2008,Data cleaning / error documentation,
+,Forex Patterns and Probabilities: Trading Strategies for Trending and Range-Bound Markets,2009,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies; Data cleaning / error documentation,Equities / stock databases; Bonds / commodities / other
+,Understanding Volatility and Liquidity in the Financial Markets: Building a Comprehensive System of Risk Management,1998,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX; Bonds / commodities / other
+,Intermarket Trading Strategies,2008,,FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,"On Balance of Payments Crisis in Serbia: If it ain’t broken, why fixing it might still be a good idea?",2008,,
+,On the Normal Inverse Gaussian Distribution in Modeling Volatility in the Financial Markets,2002,"Volatility models (GARCH, realized vol.)",
+,The Need for Data Governance: A Case Study,2007,Data cleaning / error documentation,
+,Essentials of Foreign Exchange Trading,2009,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Retail / broker / tick-level FX; Bonds / commodities / other
+,Alternative Beta Strategies and Hedge Fund Replication,2008,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies; Data cleaning / error documentation,FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,Survivorship bias in mutual fund performance : evidence in Canadian mutual funds,2000,Spread / liquidity / order-flow regressions,Equities / stock databases
+,"Information Quality Applied: Best Practices for Improving Business Information, Processes and Systems",2009,Data cleaning / error documentation,
+,"News, liquidity dynamics and intraday jumps: evidence from the HUF/EUR market",2013,Event study / announcements; Spread / liquidity / order-flow regressions,
+,Market Time DataTM Improving Technical Analysis and Technical Trading,1998,Trading-rule backtests / anomalies,Retail / broker / tick-level FX
+,Essays on the asymmetric news effects on exchange rate volatility,2009,Intraday seasonality / periodicity models; Event study / announcements; Data cleaning / error documentation,Retail / broker / tick-level FX
+,Forecasting realized volatility: a Bayesian model‐averaging approach,2009,"Volatility models (GARCH, realized vol.)",Equities / stock databases
+,Spurious Regressions in Financial Economics?,2002,,Equities / stock databases
+,An Investigation of Long Range Dependence in Intra-Day Foreign Exchange Rate Volatility,1997,Intraday seasonality / periodicity models,
+,Announcement Effects and Seasonality in the Intra-day Foreign Exchange Market,1996,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Event study / announcements",
+,High-Frequency Data and Volatility in Foreign-Exchange Rates,1996,,Retail / broker / tick-level FX
+,Intra-Day and Inter-Market Volatility in Foreign Exchange Rates,1991,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.)",
+,"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",1997,Event study / announcements,"Spot FX, interbank (EBS, Reuters)"
+,Is There Private Information in the FX Market? The Tokyo Experiment,1998,Trading-rule backtests / anomalies,
+,The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement,1982,,
+,Exchange Rate Returns Standardized by Realized Volatility are (Nearly) Gaussian,2000,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX
+,Nonlinear Features of Realized FX Volatility,2002,"Volatility models (GARCH, realized vol.)",
+,The Microstructure Approach to Exchange Rates,2001,,
+,"Macroeconomic News, Order Flows, and Exchange Rates",2008,Event study / announcements; Spread / liquidity / order-flow regressions,
+,An Empirical Study of Liquidity and Information Effects of Order Flow on Exchange Rates,2004,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,"Public Information Arrival, Exchange Rate Volatility, and Quote Frequency",2000,,"Spot FX, interbank (EBS, Reuters)"
+,Fixed versus Flexible: Lessons from EMS Order Flow,2001,Event study / announcements; Spread / liquidity / order-flow regressions,
+,Foreign Exchange Volume: Sound and Fury Signifying Nothing?,1995,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,One Day in June 1993: A Study of the Working of the Reuters 2000-2 Electronic Foreign Exchange Trading System,1995,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Market Making in the Interbank Foreign Exchange Market,2003,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Government Intervention and Adverse Selection Costs in Foreign Exchange Markets,2000,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,FX Trading and Exchange Rate Dynamics,2002,,"Spot FX, interbank (EBS, Reuters)"
+,EXCHANGE RATE RISK and THE BID‐ASK SPREAD: A SEVEN COUNTRY COMPARISON,1988,Spread / liquidity / order-flow regressions,
+,"RISK, TRANSACTIONS CHARGES, AND THE MARKET FOR FOREIGN EXCHANGE SERVICES",1982,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,Market Microstructure Effects of Government Intervention in the Foreign Exchange Market,1991,Spread / liquidity / order-flow regressions,FX futures / options / forwards
+,Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor,2008,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Bid–ask spread and order size in the foreign exchange market: an empirical investigation,2008,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,MODELING HIGH-FREQUENCY FOREIGN EXCHANGE DATA DYNAMICS,2003,Data cleaning / error documentation,Retail / broker / tick-level FX
+,Analysis of spreads in the dollar/euro and deutschemark/dollar foreign exchange markets,2002,Spread / liquidity / order-flow regressions,
+,The Week-End Effect in Common Stock Returns: The International Evidence,1985,Intraday seasonality / periodicity models,Equities / stock databases
+,Deterministic and Stochastic Methods for Estimation of Intra‐day Seasonal Components with High Frequency Data,2001,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Event study / announcements",Retail / broker / tick-level FX
+,Variance‐ratio Statistics and High‐frequency Data: Testing for Changes in Intraday Volatility Patterns,2001,Data cleaning / error documentation,
+,Do technical trading rules generate profits? Conclusions from the intra-day foreign exchange market,1997,Trading-rule backtests / anomalies,
+,How Do UK-Based Foreign Exchange Dealers Think Their Market Operates?,2000,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Currency Traders and Exchange Rate Dynamics: A Survey of the U.S. Market,2000,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,A Composite Efficiency Index for ASEAN Foreign Exchange Markets,2025,Trading-rule backtests / anomalies,
+,Jumps and Post-FOMC Announcement Returns in Currency Markets,2025,Event study / announcements,Retail / broker / tick-level FX
+,Time zone normalization of FX seasonality,2013,Intraday seasonality / periodicity models,
+,Random walk or a run. Market microstructure analysis of foreign exchange rate movements based on conditional probability,2010,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Retail / broker / tick-level FX
+,Long-memory in high-frequency exchange rate volatility under temporal aggregation,2008,,Retail / broker / tick-level FX
+,A PARSIMONIOUS CONTINUOUS TIME MODEL OF EQUITY INDEX RETURNS: INFERRED FROM HIGH FREQUENCY DATA,2004,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Data cleaning / error documentation",FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases
+,The impact of different players on the volume-volatilityrelation in the foreign exchange market,2019,,"Spot FX, interbank (EBS, Reuters)"
+,Financial intermediation and the role of price discrimination in the foreign exchange market,2014,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,"Spot FX, interbank (EBS, Reuters)"
+,Dealer behaviour in the Euro money market during times of crisis,2018,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,A State Space Approach to Estimating the Integrated Variance under the Existence of Market Microstructure Noise,2013,"Volatility models (GARCH, realized vol.)",
+,Forecasting exchange rates using cointegration models and intra‐day data,2002,Intraday seasonality / periodicity models,
+,Were Bid-Ask Spreads in the Foreign Exchange Market Excessive During the Asian Crisis?,2005,Spread / liquidity / order-flow regressions,
+,The Cost of Liquidity in the FX Market,2014,Spread / liquidity / order-flow regressions,
+,The role of sovereign credit risk in the FX market,2025,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",
+,Trends and reversion in financial markets on time scales from minutes to decades,2025,,FX futures / options / forwards; Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,An artificial market model for the forex market,2025,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Retail / broker / tick-level FX
+,Changing time scale for short-term forecasting in financial markets,1996,,Retail / broker / tick-level FX
+,An investigation of price discovery and volatility spillovers in India’s foreign exchange market,2015,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",FX futures / options / forwards; Equities / stock databases; Bonds / commodities / other
+,Do trading hours affect volatility links in the foreign exchange market?,2012,,
+,Are Analysts’ Recommendations Informative? Intraday Evidence on the Impact of Time Stamp Delays,2013,Event study / announcements; Data cleaning / error documentation,
+,Macroeconomic News and Exchange Rates: Exploring the Role of Order Flow,2021,"Volatility models (GARCH, realized vol.); Event study / announcements; Spread / liquidity / order-flow regressions",
+,High Frequency Finance: Using Scaling Laws to Build Trading Models,2012,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,The US treasury market in August 1998: untangling the effects of Hong Kong and Russia with high‐frequency data,2007,Spread / liquidity / order-flow regressions,Equities / stock databases; Bonds / commodities / other
+,Predicting FX market movements using GAN with limit order event data,2024,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,The information effect of order flows in foreign currency futures and spot markets,2022,Event study / announcements; Spread / liquidity / order-flow regressions,FX futures / options / forwards
+,Constrained liquidity provision in currency markets,2025,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Optimal informed trading in the foreign exchange market,2011,Spread / liquidity / order-flow regressions,
+,Liquidity determination in an order-driven market,2011,Spread / liquidity / order-flow regressions,
+,Exchange rate determination and inter-market order flow effects,2011,Spread / liquidity / order-flow regressions,
+,End-user order flow and exchange rate dynamics – a dealer's perspective,2010,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,"Spot FX, interbank (EBS, Reuters)"
+,Trading too expensively in the FX market?,2019,Spread / liquidity / order-flow regressions,
+,Market Microstructure and the Profitability of Currency Trading,2012,Trading-rule backtests / anomalies,
+,Spread Components in the Hungarian Forint-Euro Market,2012,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Information Flows in Foreign Exchange Markets: Dissecting Customer Currency Trades,2016,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,The currency that came in from the cold: Capital controls and the information content of order flow,2023,Spread / liquidity / order-flow regressions,
+,Currency Order Flow and Exchange Rate Determination: Empirical Evidence from the Malaysian Foreign Exchange Market,2018,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Exchange Rate Determination and Forecasting: Can the Microstructure Approach Rescue Us from the Exchange Rate Disparity?,2013,Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"
+,A GUIDED TOUR OF THE MARKET MICROSTRUCTURE APPROACH TO EXCHANGE RATE DETERMINATION,2007,,
+,ORDER FLOW AND EXCHANGE RATE DYNAMICS: AN APPLICATION TO EMERGING MARKETS,2011,Spread / liquidity / order-flow regressions; Data cleaning / error documentation,
+,The impact of FX intervention on FX markets: a market microstructure analysis,2010,,
+,"Asymmetric information, price discovery and macroeconomic announcements in FX market: do top trading banks know more?",2009,Event study / announcements; Spread / liquidity / order-flow regressions,"Spot FX, interbank (EBS, Reuters)"
+,Understanding order flow,2006,Spread / liquidity / order-flow regressions,
+,Feedback trading,2006,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX
+,Score-driven models of stochastic seasonality in location and scale: an application case study of the Indian rupee to USD exchange rate,2019,"Intraday seasonality / periodicity models; Volatility models (GARCH, realized vol.); Data cleaning / error documentation",
+,Do financial markets respond to macroeconomic surprises? Evidence from the UK,2021,Event study / announcements; Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX; Equities / stock databases
+,Frequency of Observation and the Estimation of Integrated Volatility in Deep and Liquid Financial Markets,2007,"Volatility models (GARCH, realized vol.); Event study / announcements; Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,What Drives Volatility Persistence in the Foreign Exchange Market?,2006,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX
+,Enhancing the Prediction Power of Realized Volatility Using Volatilities of Other Financial Markets,2010,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX; Equities / stock databases; Bonds / commodities / other
+,Can Economists Forecast Exchange Rates? The Debate R e‐Visited: The Case of the USD / GBP Market,2015,Spread / liquidity / order-flow regressions,FX futures / options / forwards; Bonds / commodities / other
+,An Empirical Examination of Asymmetry on Exchange Rate Spread Using the Quantile Autoregressive Distributed Lag (QARDL) Model,2023,Spread / liquidity / order-flow regressions,Equities / stock databases
+,The role of binance in bitcoin volatility transmission,2022,"Volatility models (GARCH, realized vol.)",Retail / broker / tick-level FX; Equities / stock databases
+,The frequency of one-day abnormal returns and price fluctuations in the forex,2021,Intraday seasonality / periodicity models,
+,Bitcoin unchained: Determinants of cryptocurrency exchange liquidity,2022,Spread / liquidity / order-flow regressions,Equities / stock databases
+,Intraday patterns of price clustering in Bitcoin,2022,Intraday seasonality / periodicity models,Retail / broker / tick-level FX
+,On the robust drivers of cryptocurrency liquidity: the case of Bitcoin,2024,"Volatility models (GARCH, realized vol.); Spread / liquidity / order-flow regressions",Retail / broker / tick-level FX
+,Bitcoin exchange rates: How integrated are markets?,2018,Spread / liquidity / order-flow regressions,Retail / broker / tick-level FX; Equities / stock databases
+,Bitcoin intraday time series momentum,2021,Spread / liquidity / order-flow regressions; Trading-rule backtests / anomalies,Equities / stock databases
+,On the day-of-the-week effects of Bitcoin markets: international evidence,2019,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,
+,DOES THE DAY-OF-THE-WEEK EFFECT IN FOREIGN CURRENCY MARKETS DISAPPEAR? EVIDENCE FROM THE YEN/DOLLAR MARKET,2004,Intraday seasonality / periodicity models; Trading-rule backtests / anomalies,
+,Islamic mutual funds: Seasonal patterns and determinants of performance across regions,2024,Intraday seasonality / periodicity models,Equities / stock databases
+,Synthetic Trades and Calendar Day Patterns The Case of the Dollar/Sterling Markets,2001,Intraday seasonality / periodicity models,
+,Options trading profits from correlation forecasts,2004,"Volatility models (GARCH, realized vol.)",FX futures / options / forwards
+,Periodicity of trading activity in foreign exchange markets,2022,Intraday seasonality / periodicity models; Spread / liquidity / order-flow regressions,
+,Time-dependent scaling patterns in high frequency financial data,2016,,Retail / broker / tick-level FX; Equities / stock databases
+,Technical Trading and Testing of Intra-day Market Efficiency in the Foreign Exchange Market,2014,Trading-rule backtests / anomalies,
+,High-frequency data and the effectiveness of the spot exchange rate EUR/USD,2013,,"Spot FX, interbank (EBS, Reuters); Retail / broker / tick-level FX"

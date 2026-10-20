@@ -1,0 +1,5 @@
+06_step4_demo_rule.log # exit=0 wall_s=18.1 cpu_s=0.0 peak_rss_mb=5
+07_step5_analyze_profiles.log # exit=0 wall_s=135.5 cpu_s=0.0 peak_rss_mb=5
+08_step3_analyze_ticks.log # exit=0 wall_s=245.5 cpu_s=0.0 peak_rss_mb=5
+09_step6_analyze_fxcm.log # exit=0 wall_s=362.4 cpu_s=0.0 peak_rss_mb=5
+10_step7_make_figures.log # exit=0 wall_s=29.4 cpu_s=0.0 peak_rss_mb=5

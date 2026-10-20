@@ -1,0 +1,8 @@
+12_step2_build_daily_idx_A.log # exit=0 wall_s=275.0 cpu_s=0.0 peak_rss_mb=5
+13_step2_build_daily_idx_B.log # exit=0 wall_s=185.3 cpu_s=0.0 peak_rss_mb=5
+21_switch_date_B.log # exit=0 wall_s=43.9 cpu_s=0.0 peak_rss_mb=5
+22_switch_date_C.log # exit=0 wall_s=67.6 cpu_s=0.0 peak_rss_mb=5
+23_break_2015_A.log # exit=0 wall_s=83.9 cpu_s=0.0 peak_rss_mb=5
+24_break_2015_B.log # exit=0 wall_s=62.9 cpu_s=0.0 peak_rss_mb=5
+25_break_2015_test.log # exit=0 wall_s=5.6 cpu_s=0.0 peak_rss_mb=5
+26_robustness.log # exit=0 wall_s=15.7 cpu_s=0.0 peak_rss_mb=5

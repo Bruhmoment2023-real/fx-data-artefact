@@ -1,0 +1,24 @@
+{
+ "date": "2026-10-17",
+ "records_identified": 13199,
+ "by_db": {
+  "crossref": 8750,
+  "s2": 4340,
+  "arxiv": 76,
+  "seed": 33
+ },
+ "duplicates_removed_identifiers": 4409,
+ "unique_records": 8790,
+ "removed_title_prescreen": 5840,
+ "sent_to_openalex": 2950,
+ "duplicates_removed_openalex": 13,
+ "excluded_reasons": {
+  "offtopic_fails_inclusion_rule": 1765,
+  "type_excluded": 153,
+  "no_openalex_record (no DOI / not indexed)": 115,
+  "uncited_older_record (citation floor)": 60,
+  "language_not_english": 13,
+  "paratext_or_container_record": 2
+ },
+ "included_after_search_screen": 829
+}

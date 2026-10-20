@@ -1,0 +1,44 @@
+PRE-SPECIFICATION OF THE DEMONSTRATION RULE
+Written 2026-10-13, after the minute-of-day profile (step 2) had been looked at and BEFORE any
+rule profit-and-loss was computed. Nothing below was changed after the first run of demo_rule.py.
+
+What had been seen when this was written (so the reader can judge how "pre" it is):
+  - the pooled one-minute mean-return profile for EURUSD, USDJPY, GBPUSD, AUDUSD (the 16:59 and
+    17:00 bars are strongly negative, 17:05 and 18:00 strongly positive);
+  - the weekly close label and the 08:30 volatility peak by year and daylight-saving regime.
+  No hourly or daily rule return had been computed.
+
+RULE (one rule, no parameters fitted)
+  "Short the last New York hour." Every trading day, sell the pair at 16:00 New York time and buy
+  it back at 17:00 New York time. Daily profit = minus the sum of one-minute bid-to-bid log returns
+  of the bars stamped 16:00 ... 16:59 New York. No cost is charged (this is what a naive backtest on
+  bid-only bars does). A day counts if the hour has at least 30 bars. Monday to Friday.
+
+PAIRS
+  Headline: EURUSD, USDJPY, GBPUSD, AUDUSD. Extension (reported separately, same code): USDCHF,
+  USDCAD, NZDUSD, EURGBP, EURJPY, GBPJPY. Metals are not part of the demonstration.
+
+SAMPLE
+  All data on disk, 2009-01 to 2026-10. Also reported for 2015-2026 only and year by year.
+
+2 x 2 DESIGN
+  Clock:  (a) "documented" = the vendor's stated convention, label + 5 h = UTC, then UTC -> New York;
+          (b) "true" = the measured two-era convention (fxclock.label_to_utc default).
+  Mask:   (a) none;
+          (b) narrow mask = returns of bars 16:55 ... 17:04 New York set to zero, with New York time
+              computed on the SAME clock the rule uses (a user with the wrong clock masks the wrong minutes).
+  Also reported: wide mask 16:55 ... 18:04, and the New-York-for-all-years clock used in the earlier project.
+
+STATISTICS
+  Mean daily profit in basis points, standard deviation, t = mean / (sd / sqrt(n)),
+  Sharpe = mean / sd * sqrt(252). No significance stars, no selection among pairs or variants:
+  all pairs and all four cells are reported.
+
+SUPPORTING SCAN (descriptive, not a second rule)
+  The same statistics for "long during New York hour h" for all 24 hours, on both clocks, masked and
+  unmasked, to show where a time-of-day search would land.
+
+WHAT WOULD COUNT AGAINST THE NOTE'S CLAIM
+  - If the unmasked true-clock rule does not have a clearly higher Sharpe than the masked one.
+  - If the documented-clock version is as strong as the true-clock version (the clock would not matter).
+  Either outcome is reported as it comes.

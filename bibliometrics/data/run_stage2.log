@@ -1,0 +1,24 @@
+=== 03-fx-data-artefact :: snowball
+snowball: central=25 backward candidates=694 forward candidates=1669
+  snowball 400/2322 (63s)
+  snowball 800/2322 (140s)
+  snowball 1200/2322 (227s)
+  snowball 1600/2322 (635s)
+  snowball 2000/2322 (699s)
+snowball: {'central_papers': 25, 'backward_candidates': 694, 'forward_candidates': 1628, 'snowball_screened': 2322, 'snowball_duplicates': 40, 'snowball_excluded_reasons': {'offtopic_fails_inclusion_rule': 1694, 'no_openalex_record': 175, 'offtopic_exclusion_term_in_title': 79, 'type_excluded': 49, 'language_not_english': 27, 'year_out_of_range': 17, 'uncited_older_record (citation floor)': 17, 'paratext_or_container_record': 12}, 'snowball_included': 212, 'backward_included': 71, 'forward_included': 141, 'final_corpus': 1041}
+=== snowball done in 802s
+=== 03-fx-data-artefact :: refs
+refs: distinct cited works=21364 to resolve=5000 (cap 5000)
+  refs 2000/5000 (208s)
+  refs 4000/5000 (543s)
+refs: resolved 4641/5000
+=== refs done in 801s
+=== 03-fx-data-artefact :: master
+  crossref-check 500/939 (103s)
+master: corpus=1041 edges=2961 refs_labelled=5672 manual_removed=0
+sublit
+c_data_quality            416
+a_intraday_seasonality    362
+b_fx_microstructure       261
+seed                        2
+=== master done in 306s

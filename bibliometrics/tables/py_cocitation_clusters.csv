@@ -1,0 +1,151 @@
+﻿oa_id,cluster,citations_in_corpus,first_author,year,title,source,doi,in_corpus
+W3123217382,1,96,Torben G. Andersen,1998.0,"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",The Journal of Finance,10.1111/0022-1082.85732,1
+W2008034279,1,81,Tim Bollerslev,1993.0,Trading Patterns and Prices in the Interbank Foreign Exchange Market,The Journal of Finance,10.1111/j.1540-6261.1993.tb04760.x,1
+W2157495061,1,76,Anat R. Admati,1988.0,A Theory of Intraday Patterns: Volume and Price Variability,Review of Financial Studies,10.1093/rfs/1.1.3,0
+W1989824032,1,72,Richard T. Baillie,1991.0,Intra-Day and Inter-Market Volatility in Foreign Exchange Rates,The Review of Economic Studies,10.2307/2298012,1
+W2146399390,1,69,Torben G. Andersen,1997.0,Intraday periodicity and volatility persistence in financial markets,Journal of Empirical Finance,10.1016/s0927-5398(97)00004-2,1
+W1999996900,1,57,Tim Bollerslev,1986.0,Generalized autoregressive conditional heteroskedasticity,Journal of Econometrics,10.1016/0304-4076(86)90063-1,0
+W2057418282,1,57,Michel M. Dacorogna,1993.0,A geographical model for the daily and weekly seasonal volatility in the foreign exchange market,Journal of International Money and Finance,10.1016/0261-5606(93)90004-u,1
+W2117178635,1,56,Whitney K. Newey,1987.0,"A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix",Econometrica,10.2307/1913610,0
+W3023906401,1,49,Whitney K. Newey,1986.0,"A Simple, Positive Semi-Definite, Heteroskedasticity and AutocorrelationConsistent Covariance Matrix",National Bureau of Economic Research,10.3386/t0055,0
+W1979575715,1,49,Robert F. Engle,1982.0,Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation,Econometrica,10.2307/1912773,0
+W2151073625,1,47,Takatoshi Ito,1998.0,Is There Private Information in the FX Market? The Tokyo Experiment,The Journal of Finance,10.1111/0022-1082.00045,1
+W2036760811,1,45,Campbell R. Harvey,1991.0,Volatility in the Foreign Currency Futures Market,Review of Financial Studies,10.1093/rfs/4.3.543,1
+W2157403008,1,44,Peter K. Clark,1973.0,A Subordinated Stochastic Process Model with Finite Variance for Speculative Prices,Econometrica,10.2307/1913889,0
+W2034358898,1,44,Ulrich Müller,1990.0,"Statistical study of foreign exchange rates, empirical evidence of a price change scaling law, and intraday analysis",Journal of Banking & Finance,10.1016/0378-4266(90)90009-q,1
+W2001340398,1,39,Louis H. Ederington,1993.0,How Markets Process Information: News Releases and Volatility,The Journal of Finance,10.1111/j.1540-6261.1993.tb04750.x,0
+W2008592128,1,37,Charles Goodhart,1991.0,Every minute counts in financial markets,Journal of International Money and Finance,10.1016/0261-5606(91)90025-f,1
+W1607252224,1,37,Takatoshi Ito,1986.0,News from the U. S. and Japan: Which Moves the Yen/Dollar Exchange Rate?,National Bureau of Economic Research,10.3386/w1853,0
+W2110752212,1,35,George E. Tauchen,1983.0,The Price Variability-Volume Relationship on Speculative Markets,Econometrica,10.2307/1912002,0
+W2131773668,1,33,Burton Gordon Malkiel,1970.0,EFFICIENT CAPITAL MARKETS: A REVIEW OF THEORY AND EMPIRICAL WORK*,The Journal of Finance,10.1111/j.1540-6261.1970.tb00518.x,0
+W1567579011,1,32,Robert F. Engle,1990.0,Meteor Showers or Heat Waves? Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market,Econometrica,10.2307/2938189,0
+W3122088046,1,32,Robert F. Engle,1988.0,Meteor Showers or Heat Waves? Heteroskedastic Intra-Daily Volatility in the Foreign Exchange Market,National Bureau of Economic Research,10.3386/w2609,0
+W1999814123,1,31,Daniel B. Nelson,1991.0,Conditional Heteroskedasticity in Asset Returns: A New Approach,Econometrica,10.2307/2938260,0
+W3096016272,1,31,Takatoshi Ito,1987.0,News from the U.S. and Japan,Journal of Monetary Economics,10.1016/0304-3932(87)90049-3,0
+W3124998806,1,31,K. Wong,1997.0,The Microstructure of Foreign Exchange Markets,Southern Economic Journal,10.2307/1061089,1
+W2157765381,1,29,Jeffrey A. Frankel,1996.0,The Microstructure of Foreign Exchange Markets,University of Chicago Press eBooks,10.7208/chicago/9780226260235.001.0001,0
+W4231546411,1,28,Eugene F. Fama,1970.0,Efficient Capital Markets: A Review of Theory and Empirical Work,The Journal of Finance,10.2307/2325486,0
+W2030548181,1,27,LAWRENCE E. HARRIS,1986.0,A transaction data study of weekly and intradaily patterns in stock returns,Journal of Financial Economics,10.1016/0304-405x(86)90044-9,0
+W1997050895,1,27,Charles Goodhart,1997.0,High frequency data in financial markets: Issues and applications,Journal of Empirical Finance,10.1016/s0927-5398(97)00003-0,0
+W1485872351,1,26,Kenneth R. French,1986.0,Stock return variances,Journal of Financial Economics,10.1016/0304-405x(86)90004-8,0
+W1522043862,1,26,William A. Brock,1992.0,Periodic market closure and trading volume,Journal of Economic Dynamics and Control,10.1016/0165-1889(92)90045-g,0
+W2161080182,1,26,JAMES W. McFARLAND,1982.0,The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement,The Journal of Finance,10.1111/j.1540-6261.1982.tb02218.x,1
+W3121329626,1,26,Ramon Paul DeGennaro,1997.0,"Public information releases, private information arrival and volatility in the foreign exchange market",Journal of Empirical Finance,10.1016/s0927-5398(97)00012-1,1
+W2167759315,1,25,F. Douglas Foster,1990.0,"A Theory of the Interday Variations in Volume, Variance, and Trading Costs in Securities Markets",Review of Financial Studies,10.1093/rfs/3.4.593,0
+W3124009593,1,25,Torben G. Andersen,1997.0,Heterogeneous Information Arrivals and Return Volatility Dynamics: Uncovering the Long‐Run in High Frequency Returns,The Journal of Finance,10.1111/j.1540-6261.1997.tb02722.x,0
+W1576326745,1,24,Tim Bollerslev,1992.0,ARCH modeling in finance,Journal of Econometrics,10.1016/0304-4076(92)90064-x,0
+W2033096392,1,24,David A. Easley,1992.0,Time and the Process of Security Price Adjustment,The Journal of Finance,10.1111/j.1540-6261.1992.tb04402.x,0
+W1983495487,1,24,David Arthur Hsieh,1988.0,The statistical properties of daily foreign exchange rates: 1974–1983,Journal of International Economics,10.1016/0022-1996(88)90025-6,0
+W4256031309,1,23,R.J.K. Wood,1985.0,An Investigation of Transactions Data for NYSE Stocks,The Journal of Finance,10.2307/2327796,0
+W1966795804,1,23,Bin Zhou,1996.0,High-Frequency Data and Volatility in Foreign-Exchange Rates,Journal of Business and Economic Statistics,10.1080/07350015.1996.10524628,1
+W1969306056,1,22,Dominique M. Guillaume,1997.0,From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets,Finance and Stochastics,10.1007/s007800050018,1
+W2044902013,1,22,Charles Goodhart,1993.0,News effects in a high‐frequency model of the sterling‐dollar exchange rate,Journal of Applied Econometrics,10.1002/jae.3950080102,0
+W2090637028,1,21,Eugene F. Fama,1965.0,The Behavior of Stock-Market Prices,The Journal of Business,10.1086/294743,0
+W2078236117,1,20,Kenneth R. French,1980.0,Stock returns and the weekend effect,Journal of Financial Economics,10.1016/0304-405x(80)90021-5,0
+W3125379823,1,20,Charles A.E. Goodhart,1995.0,One Day in June 1993: A Study of the Working of the Reuters 2000-2 Electronic Foreign Exchange Trading System,RePEc: Research Papers in Economics,,1
+W1980960732,1,20,Marcia Millon Cornett,1995.0,Seasonalities and intraday return patterns in the foreign currency futures market,Journal of Banking & Finance,10.1016/0378-4266(95)00084-t,1
+W2078837159,1,19,Charles M. Jones,1994.0,"Transactions, Volume, and Volatility",Review of Financial Studies,10.1093/rfs/7.4.631,0
+W2171320506,1,19,Thomas D. Berry,1994.0,Public Information Arrival,The Journal of Finance,10.1111/j.1540-6261.1994.tb02456.x,0
+W1585177194,1,19,Richard K. Lyons,1995.0,Foreign Exchange Volume: Sound and Fury Signifying Nothing?,National Bureau of Economic Research,10.3386/w4984,1
+W3122376683,1,18,David Arthur Hsieh,1996.0,Bid-Ask Spreads in Foreign Exchange Markets: Implications for Models of Asymmetric Information,NBER Chapters,,1
+W3121144874,1,18,Yuanchen Chang,2003.0,Information arrivals and intraday exchange rate volatility,Journal of International Financial Markets Institutions and Money,10.1016/s1042-4431(02)00039-2,1
+W1976451190,1,18,Richard K. Lyons,1998.0,Profits and position control: a week of FX dealing,Journal of International Money and Finance,10.1016/s0261-5606(97)00053-3,0
+W2005424182,1,17,Zhuanxin Ding,1993.0,A long memory property of stock market returns and a new model,Journal of Empirical Finance,10.1016/0927-5398(93)90006-d,0
+W2093230975,1,17,Greta M. Ljung,1978.0,On a Measure of Lack of Fit in Time Series Models,Biometrika,10.1093/biomet/65.2.297,0
+W1599899511,1,17,Hali J. Edison,1993.0,The Effectiveness of Central-Bank Intervention: A Survey of the Literature After 1982,Medical Entomology and Zoology,,0
+W3123254653,2,108,Richard K. Lyons,1995.0,Tests of microstructural hypotheses in the foreign exchange market,Journal of Financial Economics,10.1016/0304-405x(95)00832-y,1
+W4247454715,2,106,Martin D.D. Evans,2002.0,Order Flow and Exchange Rate Dynamics,Journal of Political Economy,10.1086/324391,0
+W2050031929,2,90,Albert S. Kyle,1985.0,Continuous Auctions and Insider Trading,Econometrica,10.2307/1913210,0
+W3021500197,2,89,Martin D.D. Evans,1999.0,Order Flow and Exchange Rate Dynamics,National Bureau of Economic Research,10.3386/w7317,0
+W2054563639,2,87,Richard G. Payne,2003.0,Informed trade in spot foreign exchange markets: an empirical investigation,Journal of International Economics,10.1016/s0022-1996(03)00003-5,1
+W1572909356,2,78,Richard K. Lyons,2001.0,The Microstructure Approach to Exchange Rates,The MIT Press eBooks,10.7551/mitpress/4602.001.0001,1
+W1985808284,2,73,Lawrence R. Glosten,1985.0,"Bid, ask and transaction prices in a specialist market with heterogeneously informed traders",Journal of Financial Economics,10.1016/0304-405x(85)90044-3,0
+W3123491874,2,56,Geir Høidal Bjønnes,2004.0,Dealer behavior and trading systems in foreign exchange markets,Journal of Financial Economics,10.1016/j.jfineco.2004.08.001,1
+W2030373975,2,53,Richard K. Lyons,1997.0,A simultaneous trade model of the foreign exchange hot potato,Journal of International Economics,10.1016/s0022-1996(96)01471-7,0
+W1572930125,2,44,Richard A. Meese,1983.0,Empirical exchange rate models of the seventies,Journal of International Economics,10.1016/0022-1996(83)90017-x,0
+W2140945868,2,43,Dagfinn Rime,2009.0,"Exchange rate forecasting, order flow and macroeconomic information",Journal of International Economics,10.1016/j.jinteco.2009.03.005,1
+W2119573044,2,42,David W. Berger,2007.0,Order flow and exchange rate dynamics in electronic brokerage system data,Journal of International Economics,10.1016/j.jinteco.2007.10.004,0
+W2108032253,2,42,Joel Hasbrouck,1991.0,Measuring the Information Content of Stock Trades,The Journal of Finance,10.1111/j.1540-6261.1991.tb03749.x,0
+W3122765589,2,37,Martin D.D. Evans,2002.0,FX Trading and Exchange Rate Dynamics,The Journal of Finance,10.1111/1540-6261.00501,1
+W2002115391,2,37,Martin D.D. Evans,2008.0,How is macro news transmitted to exchange rates?,Journal of Financial Economics,10.1016/j.jfineco.2007.06.001,0
+W3023276444,2,35,Takatoshi Ito,2006.0,Intraday seasonality in activities of the foreign exchange markets: Evidence from the electronic broking system,Journal of the Japanese and International Economies,10.1016/j.jjie.2006.06.005,1
+W3124927501,2,35,Martin D.D. Evans,2005.0,Meese-Rogoff Redux: Micro-Based Exchange-Rate Forecasting,American Economic Review,10.1257/000282805774669934,0
+W2157764735,2,33,Ryan Love,2008.0,"Macroeconomic News, Order Flows, and Exchange Rates",Journal of Financial and Quantitative Analysis,10.1017/s0022109000003598,1
+W3121586210,2,33,David W. Berger,2005.0,Order Flow and Exchange Rate Dynamics in Electronic Brokerage System Data,SSRN Electronic Journal,10.2139/ssrn.709181,1
+W2116912141,2,33,Yin‐Wong Cheung,2001.0,Currency traders and exchange rate dynamics: a survey of the US market,Journal of International Money and Finance,10.1016/s0261-5606(01)00002-x,1
+W2155449817,2,31,Kenneth A. Froot,2005.0,"Currency Returns, Intrinsic Value, and Institutional‐Investor Flows",The Journal of Finance,10.1111/j.1540-6261.2005.00769.x,0
+W2103642314,2,29,Martin D.D. Evans,2002.0,Informational integration and FX trading,Journal of International Money and Finance,10.1016/s0261-5606(02)00024-4,1
+W1979986072,2,26,David A. Easley,1987.0,"Price, trade size, and information in securities markets",Journal of Financial Economics,10.1016/0304-405x(87)90029-8,0
+W2093362178,2,26,Charles M.C. Lee,1991.0,Inferring Trade Direction from Intraday Data,The Journal of Finance,10.1111/j.1540-6261.1991.tb02683.x,0
+W2041462006,2,25,Mark Taylor,1992.0,The use of technical analysis in the foreign exchange market,Journal of International Money and Finance,10.1016/0261-5606(92)90048-3,1
+W3124682187,2,25,Kathryn M.E. Dominguez,2002.0,The market microstructure of central bank intervention,Journal of International Economics,10.1016/s0022-1996(02)00091-0,0
+W3122601085,2,24,Martin D.D. Evans,2005.0,Do currency markets absorb news quickly?,Journal of International Money and Finance,10.1016/j.jimonfin.2004.12.004,0
+W2151842039,2,24,Ian W. Marsh,2005.0,Customer Order Flow and Exchange Rate Movements: Is There Really Information Content?,SSRN Electronic Journal,10.2139/ssrn.704944,1
+W2080984053,2,23,Geir Høidal Bjønnes,2005.0,Liquidity provision in the overnight foreign exchange market,Journal of International Money and Finance,10.1016/j.jimonfin.2004.12.003,0
+W1597232297,2,22,Martin D.D. Evans,2006.0,Understanding order flow,International Journal of Finance & Economics,10.1002/ijfe.287,1
+W1616682228,2,22,Kathryn M.E. Dominguez,2006.0,What defines ‘news’ in foreign exchange markets?,Journal of International Money and Finance,10.1016/j.jimonfin.2005.10.009,1
+W1991698722,2,22,William P. Killeen,2006.0,Fixed versus flexible: Lessons from EMS order flow,Journal of International Money and Finance,10.1016/j.jimonfin.2005.11.011,0
+W3125454191,2,22,Jeffrey A. Frankel,1995.0,Empirical research on nominal exchange rates,RePEc: Research Papers in Economics,,0
+W1973340530,2,21,Maureen O’Hara,1995.0,Market microstructure theory,,,0
+W3022473169,2,21,Carol L. Osler,2011.0,Price discovery in currency markets,Journal of International Money and Finance,10.1016/j.jimonfin.2011.08.004,0
+W2028995298,2,21,Lars Peter Hansen,1982.0,Large Sample Properties of Generalized Method of Moments Estimators,Econometrica,10.2307/1912775,0
+W2599673054,2,20,Richard K. Lyons,1993.0,Tests of Microstructural Hypotheses in the Foreign Exchange Market,National Bureau of Economic Research,10.3386/w4471,0
+W2125520394,2,19,Narasimhan Jegadeesh,1993.0,Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency,The Journal of Finance,10.1111/j.1540-6261.1993.tb04702.x,0
+W2113107692,2,19,Lukas Menkhoff,2012.0,Carry Trades and Global Foreign Exchange Volatility,The Journal of Finance,10.1111/j.1540-6261.2012.01728.x,0
+W2080887613,2,19,Carol L. Osler,2003.0,Currency Orders and Exchange Rate Dynamics: An Explanation for the Predictive Success of Technical Analysis,The Journal of Finance,10.1111/1540-6261.00588,0
+W2021854157,2,19,Michael J. Sager,2008.0,Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor,Journal of money credit and banking,10.1111/j.1538-4616.2008.00129.x,1
+W4243985695,2,18,Jón Danı́elsson,2006.0,Feedback trading,International Journal of Finance & Economics,10.1002/ijfe.286,1
+W1985382365,2,18,Charles Goodhart,1988.0,The Foreign Exchange Market: A Random Walk with a Dragging Anchor,Economica,10.2307/2553908,0
+W2158249746,2,18,Richard K. Lyons,1999.0,Order Flow and Exchange Rate Dynamics,SSRN Electronic Journal,10.2139/ssrn.174888,1
+W2093695665,2,18,Ananth Madhavan,1991.0,A Bayesian model of intraday specialist pricing,Journal of Financial Economics,10.1016/0304-405x(91)90028-i,0
+W2099194903,2,17,Michael T. Melvin,2003.0,The Global Transmission of Volatility in the Foreign Exchange Market,The Review of Economics and Statistics,10.1162/003465303322369803,0
+W1986638341,2,17,Michael J. Sager,2006.0,Under the microscope: the structure of the foreign exchange market,International Journal of Finance & Economics,10.1002/ijfe.277,0
+W2162796440,2,17,Martin D.D. Evans,2002.0,Time-varying liquidity in foreign exchange,Journal of Monetary Economics,10.1016/s0304-3932(02)00124-1,1
+W3020973363,2,17,Martin D.D. Evans,2007.0,Exchange Rate Fundamentals and Order Flow,National Bureau of Economic Research,10.3386/w13151,0
+W3122448224,2,17,Vicentiu Covrig,2002.0,Asymmetric information and price discovery in the FX market: does Tokyo know more about the yen?,Journal of Empirical Finance,10.1016/s0927-5398(01)00056-1,0
+W3123637206,2,17,Philippe Bacchetta,2006.0,Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?,American Economic Review,10.1257/aer.96.3.552,0
+W3021190191,2,17,Ľuboš Pástor,2003.0,Liquidity Risk and Expected Stock Returns,Journal of Political Economy,10.1086/374184,0
+W2312297414,2,17,Steven Carl Mann,1996.0,Market Microstructure Theory.,The Journal of Finance,10.2307/2329383,0
+W3123647737,3,89,Torben G. Anderson,2003.0,Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange,American Economic Review,10.1257/000282803321455151,0
+W3125412410,3,55,Torben G. Andersen,2001.0,The Distribution of Realized Exchange Rate Volatility,Journal of the American Statistical Association,10.1198/016214501750332965,0
+W2068138154,3,47,Torben G. Andersen,1998.0,"Answering the Skeptics: Yes, Standard Volatility Models do Provide Accurate Forecasts",International Economic Review,10.2307/2527343,0
+W3121364726,3,47,Torben G. Andersen,2003.0,Modeling and Forecasting Realized Volatility,Econometrica,10.1111/1468-0262.00418,1
+W2057598251,3,38,Luc Bauwens,2005.0,"News announcements, market activity and volatility in the euro/dollar foreign exchange market",Journal of International Money and Finance,10.1016/j.jimonfin.2005.08.008,0
+W2007514734,3,36,Michael T. Melvin,2000.0,"Public Information Arrival, Exchange Rate Volatility, and Quote Frequency",The Economic Journal,10.1111/1468-0297.00558,1
+W2051235503,3,33,Ole Eiler Barndorff-Nielsen,2004.0,Power and Bipower Variation with Stochastic Volatility and Jumps,Journal of Financial Econometrics,10.1093/jjfinec/nbh001,0
+W2613001510,3,31,"Gençay, Ramazan",2001.0,An Introduction to High-Frequency Finance,Elsevier eBooks,10.1016/b978-0-12-279671-5.x5000-x,1
+W1970210843,3,28,Jón Danı́elsson,2002.0,Real trading patterns and prices in spot foreign exchange markets,Journal of International Money and Finance,10.1016/s0261-5606(01)00043-2,1
+W2125142831,3,27,Suzanne S. Lee,2007.0,Jumps in Financial Markets: A New Nonparametric Test and Jump Dynamics,Review of Financial Studies,10.1093/rfs/hhm056,0
+W2170859022,3,25,Stephen J. Taylor,1997.0,The incremental volatility information in one million foreign exchange quotations,Journal of Empirical Finance,10.1016/s0927-5398(97)00010-8,0
+W1967702748,3,25,Álvaro Santos Almeida,1998.0,The Effects of Macroeconomic News on High Frequency Exchange Rate Behavior,Journal of Financial and Quantitative Analysis,10.2307/2331101,0
+W3125167766,3,24,Jun Ping Cai,2001.0,"‘Once-in-a-generation’ yen volatility in 1998: fundamentals, intervention, and order flow",Journal of International Money and Finance,10.1016/s0261-5606(00)00056-5,1
+W2140585983,3,24,Ole Eiler Barndorff-Nielsen,2002.0,Econometric Analysis of Realized Volatility and its Use in Estimating Stochastic Volatility Models,Journal of the Royal Statistical Society Series B (Statistical Methodology),10.1111/1467-9868.00336,0
+W2163725872,3,23,Clara Vega,2002.0,Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange,SSRN Electronic Journal,10.2139/ssrn.312158,0
+W1601500677,3,22,Alain Chaboud,2004.0,The High-Frequency Effects of U.S. Macroeconomic Data Releases on Prices and Trading Activity in the Global Interdealer Foreign Exchange Market,International Finance Discussion Paper,10.17016/ifdp.2004.823,1
+W2164551452,3,21,Kris Boudt,2010.0,Robust estimation of intraweek periodicity in volatility and jump detection,Journal of Empirical Finance,10.1016/j.jempfin.2010.11.005,1
+W1963787328,3,21,Torben G. Andersen,2001.0,The distribution of realized stock return volatility,Journal of Financial Economics,10.1016/s0304-405x(01)00055-1,0
+W3125987794,3,20,Torben G. Andersen,2007.0,"Roughing It Up: Including Jump Components in the Measurement, Modeling, and Forecasting of Return Volatility",The Review of Economics and Statistics,10.1162/rest.89.4.701,0
+W2096669492,3,20,Torben G. Andersen,2007.0,"Real-time price discovery in global stock, bond and foreign exchange markets",Journal of International Economics,10.1016/j.jinteco.2007.02.004,0
+W2136215272,3,18,Ole Eiler Barndorff-Nielsen,2005.0,Econometrics of Testing for Jumps in Financial Economics Using Bipower Variation,Journal of Financial Econometrics,10.1093/jjfinec/nbi022,0
+W2058479869,3,17,Jérôme Lahaye,2010.0,"Jumps, cojumps and macro announcements",Journal of Applied Econometrics,10.1002/jae.1149,0
+W2134182509,3,17,Jon Faust,2006.0,The high-frequency response of exchange rates and interest rates to macroeconomic announcements,Journal of Monetary Economics,10.1016/j.jmoneco.2006.05.015,0
+W1498286110,4,52,Tim Bollerslev,1994.0,Bid—ask spreads and volatility in the foreign exchange market,Journal of International Economics,10.1016/0022-1996(94)90008-6,1
+W2029929857,4,45,Hendrik Bessembinder,1994.0,Bid-ask spreads in the interbank foreign exchange markets,Journal of Financial Economics,10.1016/0304-405x(94)90036-1,1
+W2158120228,4,35,Richard W. Roll,1984.0,A Simple Implicit Measure of the Effective Bid-Ask Spread in an Efficient Market,The Journal of Finance,10.1111/j.1540-6261.1984.tb03897.x,0
+W2022342755,4,34,Bettina Peiers,1997.0,"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",The Journal of Finance,10.1111/j.1540-6261.1997.tb01122.x,1
+W2125531201,4,25,Hans R. Stoll,1978.0,THE SUPPLY OF DEALER SERVICES IN SECURITIES MARKETS,The Journal of Finance,10.1111/j.1540-6261.1978.tb02053.x,0
+W1599491685,4,23,Yakov Amihud A,1980.0,Dealership market,Journal of Financial Economics,10.1016/0304-405x(80)90020-3,0
+W2315462057,4,23,Loriano Mancini,2013.0,"Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums",The Journal of Finance,10.1111/jofi.12053,1
+W2025268472,4,22,Thomas Ho,1981.0,Optimal dealer pricing under transactions and return uncertainty,Journal of Financial Economics,10.1016/0304-405x(81)90020-9,0
+W2332431545,4,21,Francis Breedon,2013.0,Intraday Patterns in FX Returns and Order Flow,Journal of money credit and banking,10.1111/jmcb.12032,1
+W3121401171,4,21,Yakov Amihud A,2002.0,Illiquidity and stock returns: cross-section and time-series effects,Journal of Financial Markets,10.1016/s1386-4181(01)00024-6,0
+W3123783648,4,20,Nina Karnaukh,2015.0,Understanding FX Liquidity,Alexandria (UniSG) (University of St.Gallen),10.1093/rfs/hhv029,0
+W3122898452,4,19,Sanford J. Grossman,1988.0,Liquidity and Market Structure,The Journal of Finance,10.1111/j.1540-6261.1988.tb04594.x,0
+W2076558691,4,19,Philipp Hartmann,1999.0,Trading volumes and transaction costs in the foreign exchange market,Journal of Banking & Finance,10.1016/s0378-4266(98)00115-0,0
+W1966977762,4,18,Thomas E. Copeland,1983.0,Information Effects on the Bid-Ask Spread,The Journal of Finance,10.1111/j.1540-6261.1983.tb03834.x,0
+W2036132314,4,18,Debra A. Glassman,1987.0,Exchange rate risk and transactions costs: Evidence from bid-ask spreads,Journal of International Money and Finance,10.1016/0261-5606(87)90024-6,1
+W2160573132,4,18,Peter L. Bossaerts,1991.0,Market Microstructure Effects of Government Intervention in the Foreign Exchange Market,Review of Financial Studies,10.1093/rfs/4.3.513,1
+W1841663771,4,18,Roger D. Huang,1999.0,FX Spreads and Dealer Competition Across the 24-Hour Trading Day,Review of Financial Studies,10.1093/rfs/12.1.61,1
+W2043881376,4,18,Thomas S. Y. Ho,1983.0,The Dynamics of Dealer Markets Under Competition,The Journal of Finance,10.1111/j.1540-6261.1983.tb02282.x,0
+W2133756464,4,18,Yin‐Wong Cheung,2000.0,A survey of market practitioners’ views on exchange rate dynamics,Journal of International Economics,10.1016/s0022-1996(99)00009-4,1
+W2032712062,4,17,Harold Demsetz,1968.0,The Cost of Transacting,The Quarterly Journal of Economics,10.2307/1882244,0

@@ -1,0 +1,19 @@
+﻿keyword,burst_start,burst_end,records_in_burst,total_records,excess
+order flow,2006,2013,37,69,18.75
+data quality,2022,2025,30,74,18.1
+high-frequency data,2001,2009,37,88,15.68
+bid-ask spread,1982,2000,24,62,15.01
+market microstructure,1995,2001,28,101,14.96
+exchange rate volatility,1991,2002,32,98,14.68
+bitcoin,2018,2022,17,20,13.36
+euro-dollar exchange rate,2003,2010,21,35,13.0
+foreign exchange market,2004,2007,31,179,12.82
+eur/usd,2010,2014,15,26,10.43
+private information,1997,2009,18,25,10.04
+survivorship bias,1995,2003,15,28,10.02
+yen-dollar exchange rate,2004,2013,16,21,9.53
+market microstructure,2004,2006,16,101,8.73
+stock returns,2009,2013,14,31,8.55
+currency futures,1990,1999,10,24,7.33
+realized volatility,2002,2004,10,42,7.02
+high-frequency data,2013,2013,10,88,6.55

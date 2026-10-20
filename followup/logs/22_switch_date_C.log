@@ -1,0 +1,12 @@
+# started 2026-10-13T18:14:45.402427+00:00
+# cwd code
+# cmd D:/Research-Publishing/03-fx-data-artefact/.venv/Scripts/python runstat.py switch_date.py SPXUSD NSXUSD UKXGBP GRXEUR JPXJPY UDXUSD WTIUSD
+SPXUSD days 206 weeks 33
+NSXUSD days 206 weeks 33
+UKXGBP days 190 weeks 33
+GRXEUR days 184 weeks 31
+JPXJPY days 206 weeks 33
+UDXUSD days 206 weeks 33
+WTIUSD days 206 weeks 33
+# runstat script=switch_date.py wall_s=67.4 cpu_s=31.2 peak_rss_mb=177
+# exit=0 wall_s=67.6 cpu_s=0.0 peak_rss_mb=5

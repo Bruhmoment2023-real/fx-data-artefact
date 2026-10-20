@@ -1,0 +1,37 @@
+﻿oa_id,year,first_author,title,doi,cited_by
+W2008592128,1991,Charles Goodhart,Every minute counts in financial markets,10.1016/0261-5606(91)90025-f,189
+W1989824032,1991,Richard T. Baillie,Intra-Day and Inter-Market Volatility in Foreign Exchange Rates,10.2307/2298012,489
+W2036760811,1991,Campbell R. Harvey,Volatility in the Foreign Currency Futures Market,10.1093/rfs/4.3.543,284
+W2008034279,1993,Tim Bollerslev,Trading Patterns and Prices in the Interbank Foreign Exchange Market,10.1111/j.1540-6261.1993.tb04760.x,365
+W2063213430,1994,Mark D. Flood,Market structure and inefficiency in the foreign exchange market,10.1016/0261-5606(94)90012-4,35
+W1585177194,1995,Richard K. Lyons,Foreign Exchange Volume: Sound and Fury Signifying Nothing?,10.3386/w4984,98
+W3123254653,1995,Richard K. Lyons,Tests of microstructural hypotheses in the foreign exchange market,10.1016/0304-405x(95)00832-y,515
+W1971024316,1996,Charles Goodhart,Microstructural dynamics in a foreign exchange electronic broking system,10.1016/s0261-5606(96)00044-7,56
+W1969306056,1997,Dominique M. Guillaume,From the bird's eye to the microscope: A survey of new stylized facts of the intra-daily foreign exchange markets,10.1007/s007800050018,522
+W3121329626,1997,Ramon Paul DeGennaro,"Public information releases, private information arrival and volatility in the foreign exchange market",10.1016/s0927-5398(97)00012-1,160
+W2022342755,1997,Bettina Peiers,"Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",10.1111/j.1540-6261.1997.tb01122.x,236
+W3123217382,1998,Torben G. Andersen,"Deutsche Mark–Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",10.1111/0022-1082.85732,1185
+W2151073625,1998,Takatoshi Ito,Is There Private Information in the FX Market? The Tokyo Experiment,10.1111/0022-1082.00045,279
+W2158249746,1999,Richard K. Lyons,Order Flow and Exchange Rate Dynamics,10.2139/ssrn.174888,183
+W2891945306,2000,Yin‐Wong Cheung,How Do UK-Based Foreign Exchange Dealers Think Their Market Operates?,10.3386/w7524,53
+W2106705417,2000,Geir Høidal Bjønnes,FX Trading... Live! Dealer Behavior and Trading Systems in Foreign Exchange Markets,10.2139/ssrn.244468,11
+W3122765589,2002,Martin D.D. Evans,FX Trading and Exchange Rate Dynamics,10.1111/1540-6261.00501,177
+W2054563639,2003,Richard G. Payne,Informed trade in spot foreign exchange markets: an empirical investigation,10.1016/s0022-1996(03)00003-5,274
+W3123491874,2004,Geir Høidal Bjønnes,Dealer behavior and trading systems in foreign exchange markets,10.1016/j.jfineco.2004.08.001,239
+W2151842039,2005,Ian W. Marsh,Customer Order Flow and Exchange Rate Movements: Is There Really Information Content?,10.2139/ssrn.704944,63
+W1597232297,2006,Martin D.D. Evans,Understanding order flow,10.1002/ijfe.287,89
+W1530242786,2007,Lukas Menkhoff,Local information in foreign exchange markets,10.1016/j.jimonfin.2007.10.003,26
+W2021854157,2008,Michael J. Sager,Commercially Available Order Flow Data and Exchange Rate Movements:Caveat Emptor,10.1111/j.1538-4616.2008.00129.x,68
+W2140945868,2009,Dagfinn Rime,"Exchange rate forecasting, order flow and macroeconomic information",10.1016/j.jinteco.2009.03.005,280
+W2004040129,2009,Angelo Ranaldo,Segmentation and time-of-day patterns in foreign exchange markets,10.1016/j.jbankfin.2009.05.019,42
+W3123518036,2010,Michael R. King,Timing exchange rates using order flow: The case of the Loonie,10.1016/j.jbankfin.2010.02.016,47
+W3123550661,2011,Chiara Banti,Global liquidity risk in the foreign exchange market,10.1016/j.jimonfin.2011.11.010,89
+W2315462057,2013,Loriano Mancini,"Liquidity in the Foreign Exchange Market: Measurement, Commonality, and Risk Premiums",10.1111/jofi.12053,318
+W2332431545,2013,Francis Breedon,Intraday Patterns in FX Returns and Order Flow,10.1111/jmcb.12032,49
+W3121993375,2017,Louis R. Piccotti,"Jumps, cojumps, and efficiency in the spot foreign exchange market",10.1016/j.jbankfin.2017.09.007,33
+W2889923286,2018,Siroos Khademalomoom,Intraday effects of the currency market,10.1016/j.intfin.2018.09.008,25
+W2753174893,2019,Andrea Eross,The intraday dynamics of bitcoin,10.1016/j.ribaf.2019.01.008,120
+W3046759733,2020,Jinghua Wang,Does Bitcoin still own the dominant power? An intraday analysis,10.1016/j.irfa.2020.101551,65
+W3118310033,2021,Süleyman Serdengeçti,Dynamics of return and liquidity (co) jumps in emerging foreign exchange markets,10.1016/j.intfin.2021.101377,7
+W4318570830,2023,Sevcan Uzun,Jump forecasting in foreign exchange markets: A high‐frequency analysis,10.1002/for.2951,6
+W4390753614,2024,Carlos Esparcia,Performance of crypto-Forex portfolios based on intraday data,10.1016/j.ribaf.2024.102217,6

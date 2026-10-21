@@ -1,0 +1,14 @@
+Dated snapshots of the two GitHub write-ups cited in the paper (Related work and Online sources).
+Retrieved 21 October 2026 from the public GitHub REST API (api.github.com/repos/...), saved unchanged as JSON.
+
+pwb-toolbox-pr87.json            jay79-boop/pwb-toolbox pull request 87 (created 2026-08-22, closed)
+tradedesk-marketdata-issue82.json radiusred/tradedesk-marketdata issue 82 (created 2026-10-09, closed)
+tradedesk-marketdata-issue93.json radiusred/tradedesk-marketdata issue 93 (created 2026-10-09, closed)
+*-comments.json                  the comment threads at the same date
+
+Quoted lines checked against these copies on 21 October 2026:
+- PR 87 body: "histdata's ASCII M1 exports are stamped New York local time *with DST*, not the fixed EST
+  they are usually read as" (the paper drops the Markdown emphasis); "+39 points over eight years; read
+  correctly, +7"; the body ends "Generated with [Claude Code]".
+- Issue 82 body: "HistData's own description is wrong and the README should say so"; evidence on
+  25 instruments, 2020-01 onwards; provider switch 2018-12-16.

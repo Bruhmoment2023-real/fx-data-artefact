@@ -1,0 +1,112 @@
+{
+  "url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82",
+  "repository_url": "https://api.github.com/repos/radiusred/tradedesk-marketdata",
+  "labels_url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82/labels{/name}",
+  "comments_url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82/comments",
+  "events_url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82/events",
+  "html_url": "https://github.com/radiusred/tradedesk-marketdata/issues/82",
+  "id": 5776137899,
+  "node_id": "I_kwDOQy0cZc8AAAABWEjeqw",
+  "number": 82,
+  "title": "HistData timestamps are one hour late in summer: \"EST\" is not a fixed UTC-5",
+  "user": {
+    "login": "davison",
+    "id": 591251,
+    "node_id": "MDQ6VXNlcjU5MTI1MQ==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/591251?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/davison",
+    "html_url": "https://github.com/davison",
+    "followers_url": "https://api.github.com/users/davison/followers",
+    "following_url": "https://api.github.com/users/davison/following{/other_user}",
+    "gists_url": "https://api.github.com/users/davison/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/davison/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/davison/subscriptions",
+    "organizations_url": "https://api.github.com/users/davison/orgs",
+    "repos_url": "https://api.github.com/users/davison/repos",
+    "events_url": "https://api.github.com/users/davison/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/davison/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "labels": [
+    {
+      "id": 9926196496,
+      "node_id": "LA_kwDOQy0cZc8AAAACT6W9EA",
+      "url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/labels/bug",
+      "name": "bug",
+      "color": "d73a4a",
+      "default": true,
+      "description": "Something isn't working",
+      "archived_at": null,
+      "archived_by": null
+    }
+  ],
+  "state": "closed",
+  "locked": false,
+  "assignees": [
+
+  ],
+  "milestone": null,
+  "comments": 2,
+  "created_at": "2026-10-09T09:46:41Z",
+  "updated_at": "2026-10-09T12:40:30Z",
+  "closed_at": "2026-10-09T12:40:30Z",
+  "assignee": null,
+  "author_association": "CONTRIBUTOR",
+  "issue_field_values": [
+
+  ],
+  "type": null,
+  "active_lock_reason": null,
+  "sub_issues_summary": {
+    "total": 0,
+    "completed": 0,
+    "percent_completed": 0
+  },
+  "issue_dependencies_summary": {
+    "blocked_by": 0,
+    "total_blocked_by": 0,
+    "blocking": 0,
+    "total_blocking": 0
+  },
+  "body": "## Defect\n\n`histdata.py` converts HistData timestamps with a fixed `EST_OFFSET = 5h` (`histdata.py:65`, per HistData's own description \"EST without daylight saving\"). Measured against a Dukascopy cache of the same instruments, that is wrong for about seven months of every year, in both of HistData's provider eras, and the error is exactly one hour.\n\n## Evidence (2026-10-09, 25 instruments, 2020-01 → 2026-02 against Dukascopy)\n\n- Winter days are **byte-identical** to Dukascopy apart from `volume` (HistData 0.0). E.g. EURUSD 2024-01-10, 2025-03-06, 2025-03-11, 2025-03-27, 2025-10-29, 2025-11-05, 2026-01-14: every minute matches at shift 0.\n- Summer days match **only when shifted by −60 min**: EURUSD 2024-06-12 1374/1374 minutes identical at −60 (13 at 0); 2025-04-02 and 2025-10-23 likewise; USA500IDXUSD, XAUUSD, DEUIDXEUR the same.\n- The switch dates are the **European** DST dates, not the US ones: 2025-03-11 and 2025-03-27 (US DST on, EU off) match at 0; 2025-04-02 (EU on) is shifted; 2025-10-29 (EU off, US still on until 11-02) matches at 0 again.\n- Before 2020 there is no Dukascopy reference, so the check is the FX weekly open, which Dukascopy shows at Sunday 22:00 UTC in winter and 21:00 UTC in summer (17:00 New York). The HistData-derived cache opens at 22:00 UTC in **July** of 2012, 2015, 2018, 2019, 2021 and 2025 (one hour late), and in the US-only DST weeks of March it opens at 22:00 in 2012–2018 (late) but 21:00 in 2019–2025 (correct).\n\nTogether: HistData's \"EST\" is not a fixed UTC−5. For the provider it used until 2018-12-16 the stamps behave as **America/New_York local time including DST**; for the provider since then they behave as **Europe/Zurich local time minus a fixed 6 h** (so they drift with EU DST). Both reduce to \"UTC−5 in winter, UTC−4 in summer\", with the summer defined by a different calendar in each era.\n\n## Consequences\n\nEvery HistData day in the summer months has its minute bars stamped one hour late; daily bars cut on UTC midnight contain the wrong hour at each end; the weekend boundary is off by an hour; and at each DST transition one day in the series has a one-hour gap or overlap. The scale sentry cannot see any of this.\n\n## Fix\n\nIn the HistData provider module only (after #81 R1):\n\n- Decode timestamps per era: before the provider switch (2018-12-16; determine the exact boundary from the data, the 0.25-point index grid changes that day) interpret as `America/New_York`; from then on interpret as `Europe/Zurich` after adding 6 h. Implement with `zoneinfo`, not offsets, so the DST rules are the system's. Document the rule and the evidence in the module and README; HistData's own description is wrong and the README should say so.\n- Test with synthetic ticks at both DST transitions in both eras, asserting the UTC output, plus a weekly-open test (first tick of a synthetic summer week lands at 21:00 UTC).\n- Prove on a real cache with #85: after re-decode, summer days of 2020–2026 must match Dukascopy at shift 0 like the winter ones.\n- The existing cache can only be repaired by re-decoding. With #81 R6 (`--keep-raw`) that is local; without it, it is a full re-download. Either way, the fix should ship with a note in the README that HistData caches written before it carry the shift.\n",
+  "closed_by": {
+    "login": "radiusred-cody[bot]",
+    "id": 270330637,
+    "node_id": "BOT_kgDOEBzrDQ",
+    "avatar_url": "https://avatars.githubusercontent.com/in/3163997?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/radiusred-cody%5Bbot%5D",
+    "html_url": "https://github.com/apps/radiusred-cody",
+    "followers_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/subscriptions",
+    "organizations_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/orgs",
+    "repos_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/repos",
+    "events_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/radiusred-cody%5Bbot%5D/received_events",
+    "type": "Bot",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "reactions": {
+    "url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82/reactions",
+    "total_count": 0,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
+  "timeline_url": "https://api.github.com/repos/radiusred/tradedesk-marketdata/issues/82/timeline",
+  "performed_via_github_app": null,
+  "state_reason": "completed",
+  "pinned_comment": null
+}

@@ -1,5 +1,7 @@
 # A rollover artefact and a clock error in free forex minute data: how histdata.com bars manufacture a time-of-day edge
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23537746 (this DOI always points to the latest version).
+
 Sean Solano Paul, Independent researcher, Bengaluru, India. Funding: none. Competing interests: none.
 
 ## Summary
